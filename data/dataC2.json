@@ -1,0 +1,6800 @@
+[
+  {
+    "leave": {
+      "translation": "отпуск / разрешение / …",
+      "link": "https://word-by-word.ru/words/en-ru/leave/noun"
+    }
+  },
+  {
+    "grin": {
+      "translation": "ухмыляться / усмехаться / …",
+      "link": "https://word-by-word.ru/en-ru/grin"
+    }
+  },
+  {
+    "frown": {
+      "translation": "хмуриться / …",
+      "link": "https://word-by-word.ru/en-ru/frown"
+    }
+  },
+  {
+    "mount": {
+      "translation": "монтировать / устанавливать / …",
+      "link": "https://word-by-word.ru/words/en-ru/mount"
+    }
+  },
+  {
+    "glow": {
+      "translation": "светиться / пылать / …",
+      "link": "https://word-by-word.ru/en-ru/glow"
+    }
+  },
+  {
+    "snap": {
+      "translation": "щелкать / огрызаться / ломать",
+      "link": "https://word-by-word.ru/words/en-ru/snap"
+    }
+  },
+  {
+    "peer": {
+      "translation": "вглядываться / всматриваться / таращиться / …",
+      "link": "https://word-by-word.ru/en-ru/peer"
+    }
+  },
+  {
+    "doorway": {
+      "translation": "дверной проем / порог",
+      "link": "https://word-by-word.ru/en-ru/doorway"
+    }
+  },
+  {
+    "commander": {
+      "translation": "командир / командующий / …",
+      "link": "https://word-by-word.ru/en-ru/commander"
+    }
+  },
+  {
+    "shrug": {
+      "translation": "пожимать плечами / пожимать / …",
+      "link": "https://word-by-word.ru/en-ru/shrug"
+    }
+  },
+  {
+    "fist": {
+      "translation": "кулак / …",
+      "link": "https://word-by-word.ru/en-ru/fist"
+    }
+  },
+  {
+    "drift": {
+      "translation": "дрейфовать / смещаться / …",
+      "link": "https://word-by-word.ru/words/en-ru/drift"
+    }
+  },
+  {
+    "roar": {
+      "translation": "реветь / рычать / …",
+      "link": "https://word-by-word.ru/en-ru/roar"
+    }
+  },
+  {
+    "glare": {
+      "translation": "сверкать / сверкать глазами / …",
+      "link": "https://word-by-word.ru/words/en-ru/glare"
+    }
+  },
+  {
+    "flesh": {
+      "translation": "плоть / мясо / …",
+      "link": "https://word-by-word.ru/words/en-ru/flesh"
+    }
+  },
+  {
+    "sense": {
+      "translation": "чувствовать / ощущать / …",
+      "link": "https://word-by-word.ru/en-ru/sense/verb"
+    }
+  },
+  {
+    "seat": {
+      "translation": "сидеть / усаживать / рассаживать / …",
+      "link": "https://word-by-word.ru/en-ru/seat/verb"
+    }
+  },
+  {
+    "spring": {
+      "translation": "прыгать / пружинить / …",
+      "link": "https://word-by-word.ru/words/en-ru/spring"
+    }
+  },
+  {
+    "pat": {
+      "translation": "хлопать / трепать / …",
+      "link": "https://word-by-word.ru/words/en-ru/pat"
+    }
+  },
+  {
+    "count": {
+      "translation": "подсчет / граф / …",
+      "link": "https://word-by-word.ru/words/en-ru/count/noun"
+    }
+  },
+  {
+    "slow": {
+      "translation": "замедляться / тормозить",
+      "link": "https://word-by-word.ru/en-ru/slow/verb"
+    }
+  },
+  {
+    "stumble": {
+      "translation": "спотыкаться / запинаться / …",
+      "link": "https://word-by-word.ru/words/en-ru/stumble"
+    }
+  },
+  {
+    "gasp": {
+      "translation": "ахать / задыхаться / …",
+      "link": "https://word-by-word.ru/en-ru/gasp"
+    }
+  },
+  {
+    "line": {
+      "translation": "располагаться вдоль / выкладывать / …",
+      "link": "https://word-by-word.ru/en-ru/line/verb"
+    }
+  },
+  {
+    "blow": {
+      "translation": "удар / дуновение / …",
+      "link": "https://word-by-word.ru/en-ru/blow/noun"
+    }
+  },
+  {
+    "echo": {
+      "translation": "разноситься эхом / наполняться звуками чего-либо / …",
+      "link": "https://word-by-word.ru/en-ru/echo"
+    }
+  },
+  {
+    "troop": {
+      "translation": "отряд / войско",
+      "link": "https://word-by-word.ru/words/en-ru/troop"
+    }
+  },
+  {
+    "motion": {
+      "translation": "движение / ходатайство / …",
+      "link": "https://word-by-word.ru/en-ru/motion"
+    }
+  },
+  {
+    "scramble": {
+      "translation": "карабкаться / …",
+      "link": "https://word-by-word.ru/en-ru/scramble"
+    }
+  },
+  {
+    "spit": {
+      "translation": "плевать / наплевать",
+      "link": "https://word-by-word.ru/words/en-ru/spit"
+    }
+  },
+  {
+    "retreat": {
+      "translation": "ретироваться / отступать / …",
+      "link": "https://word-by-word.ru/words/en-ru/retreat"
+    }
+  },
+  {
+    "creep": {
+      "translation": "ползать / …",
+      "link": "https://word-by-word.ru/words/en-ru/creep"
+    }
+  },
+  {
+    "swiftly": {
+      "translation": "быстро / …",
+      "link": "https://word-by-word.ru/words/en-ru/swiftly"
+    }
+  },
+  {
+    "cling": {
+      "translation": "цепляться / …",
+      "link": "https://word-by-word.ru/words/en-ru/cling"
+    }
+  },
+  {
+    "shudder": {
+      "translation": "дрожать / вздрагивать / содрогаться / …",
+      "link": "https://word-by-word.ru/words/en-ru/shudder"
+    }
+  },
+  {
+    "crystal": {
+      "translation": "кристалл / хрусталь / …",
+      "link": "https://word-by-word.ru/words/en-ru/crystal"
+    }
+  },
+  {
+    "stagger": {
+      "translation": "шататься / идти шатаясь",
+      "link": "https://word-by-word.ru/en-ru/stagger"
+    }
+  },
+  {
+    "seal": {
+      "translation": "запечатывать / герметизировать / опечатывать",
+      "link": "https://word-by-word.ru/en-ru/seal"
+    }
+  },
+  {
+    "summon": {
+      "translation": "вызывать / созывать / …",
+      "link": "https://word-by-word.ru/en-ru/summon"
+    }
+  },
+  {
+    "follower": {
+      "translation": "последователь / …",
+      "link": "https://word-by-word.ru/en-ru/follower"
+    }
+  },
+  {
+    "part": {
+      "translation": "разделять / расставаться / …",
+      "link": "https://word-by-word.ru/words/en-ru/part/verb"
+    }
+  },
+  {
+    "haul": {
+      "translation": "тащить / буксировать",
+      "link": "https://word-by-word.ru/words/en-ru/haul"
+    }
+  },
+  {
+    "rock": {
+      "translation": "качать / качаться / …",
+      "link": "https://word-by-word.ru/en-ru/rock/verb"
+    }
+  },
+  {
+    "horizon": {
+      "translation": "горизонт / кругозор / …",
+      "link": "https://word-by-word.ru/en-ru/horizon"
+    }
+  },
+  {
+    "combat": {
+      "translation": "бой / сражение / …",
+      "link": "https://word-by-word.ru/words/en-ru/combat"
+    }
+  },
+  {
+    "conceal": {
+      "translation": "скрывать / прятать",
+      "link": "https://word-by-word.ru/en-ru/conceal"
+    }
+  },
+  {
+    "weep": {
+      "translation": "плакать / рыдать / …",
+      "link": "https://word-by-word.ru/words/en-ru/weep"
+    }
+  },
+  {
+    "dim": {
+      "translation": "тусклый / слабый / …",
+      "link": "https://word-by-word.ru/en-ru/dim"
+    }
+  },
+  {
+    "snatch": {
+      "translation": "выхватывать / вырывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/snatch"
+    }
+  },
+  {
+    "fury": {
+      "translation": "ярость / бешенство / …",
+      "link": "https://word-by-word.ru/words/en-ru/fury"
+    }
+  },
+  {
+    "crush": {
+      "translation": "давить / сокрушать / …",
+      "link": "https://word-by-word.ru/words/en-ru/crush"
+    }
+  },
+  {
+    "chill": {
+      "translation": "холод / простуда / …",
+      "link": "https://word-by-word.ru/en-ru/chill"
+    }
+  },
+  {
+    "being": {
+      "translation": "существо / бытие / …",
+      "link": "https://word-by-word.ru/en-ru/being"
+    }
+  },
+  {
+    "carve": {
+      "translation": "вырезать / прорезать / …",
+      "link": "https://word-by-word.ru/words/en-ru/carve"
+    }
+  },
+  {
+    "patch": {
+      "translation": "заплата / небольшой участок / …",
+      "link": "https://word-by-word.ru/words/en-ru/patch"
+    }
+  },
+  {
+    "trail": {
+      "translation": "тащить / плестись / …",
+      "link": "https://word-by-word.ru/words/en-ru/trail/verb"
+    }
+  },
+  {
+    "pace": {
+      "translation": "шагать / расхаживать / …",
+      "link": "https://word-by-word.ru/en-ru/pace/verb"
+    }
+  },
+  {
+    "track": {
+      "translation": "отслеживать / следить / …",
+      "link": "https://word-by-word.ru/words/en-ru/track/verb"
+    }
+  },
+  {
+    "pit": {
+      "translation": "яма / карьер / …",
+      "link": "https://word-by-word.ru/words/en-ru/pit"
+    }
+  },
+  {
+    "grim": {
+      "translation": "мрачный / зловещий / …",
+      "link": "https://word-by-word.ru/en-ru/grim"
+    }
+  },
+  {
+    "mighty": {
+      "translation": "могущественный / великий / …",
+      "link": "https://word-by-word.ru/words/en-ru/mighty"
+    }
+  },
+  {
+    "swell": {
+      "translation": "набухать / опухать / …",
+      "link": "https://word-by-word.ru/words/en-ru/swell"
+    }
+  },
+  {
+    "thread": {
+      "translation": "нить / резьба / …",
+      "link": "https://word-by-word.ru/words/en-ru/thread"
+    }
+  },
+  {
+    "gesture": {
+      "translation": "жест / поступок / …",
+      "link": "https://word-by-word.ru/en-ru/gesture/noun"
+    }
+  },
+  {
+    "cargo": {
+      "translation": "груз / груз корабля / …",
+      "link": "https://word-by-word.ru/words/en-ru/cargo"
+    }
+  },
+  {
+    "sniff": {
+      "translation": "нюхать / …",
+      "link": "https://word-by-word.ru/words/en-ru/sniff"
+    }
+  },
+  {
+    "crack": {
+      "translation": "трещина / щель / …",
+      "link": "https://word-by-word.ru/en-ru/crack/noun"
+    }
+  },
+  {
+    "surrender": {
+      "translation": "сдаваться / …",
+      "link": "https://word-by-word.ru/words/en-ru/surrender"
+    }
+  },
+  {
+    "stern": {
+      "translation": "суровый / строгий / …",
+      "link": "https://word-by-word.ru/words/en-ru/stern"
+    }
+  },
+  {
+    "assault": {
+      "translation": "нападение / штурм / …",
+      "link": "https://word-by-word.ru/words/en-ru/assault"
+    }
+  },
+  {
+    "scattered": {
+      "translation": "разбросанный / рассеянный / …",
+      "link": "https://word-by-word.ru/words/en-ru/scattered"
+    }
+  },
+  {
+    "scarcely": {
+      "translation": "едва / почти не",
+      "link": "https://word-by-word.ru/en-ru/scarcely"
+    }
+  },
+  {
+    "pole": {
+      "translation": "полюс / столб / …",
+      "link": "https://word-by-word.ru/words/en-ru/pole"
+    }
+  },
+  {
+    "slender": {
+      "translation": "стройный / тонкий / …",
+      "link": "https://word-by-word.ru/words/en-ru/slender"
+    }
+  },
+  {
+    "hollow": {
+      "translation": "полый / пустой / глухой / …",
+      "link": "https://word-by-word.ru/en-ru/hollow"
+    }
+  },
+  {
+    "sneak": {
+      "translation": "красться / действовать украдкой / …",
+      "link": "https://word-by-word.ru/words/en-ru/sneak"
+    }
+  },
+  {
+    "rhyme": {
+      "translation": "рифма / стишок / …",
+      "link": "https://word-by-word.ru/words/en-ru/rhyme"
+    }
+  },
+  {
+    "wink": {
+      "translation": "подмигивать / моргать / …",
+      "link": "https://word-by-word.ru/words/en-ru/wink"
+    }
+  },
+  {
+    "forward": {
+      "translation": "передний / развитый (успевающий лучше других) / …",
+      "link": "https://word-by-word.ru/words/en-ru/forward/adjective"
+    }
+  },
+  {
+    "linger": {
+      "translation": "медлить / задерживаться / …",
+      "link": "https://word-by-word.ru/words/en-ru/linger"
+    }
+  },
+  {
+    "instinct": {
+      "translation": "инстинкт / …",
+      "link": "https://word-by-word.ru/en-ru/instinct"
+    }
+  },
+  {
+    "weary": {
+      "translation": "усталый / утомленный / …",
+      "link": "https://word-by-word.ru/words/en-ru/weary"
+    }
+  },
+  {
+    "swift": {
+      "translation": "стремительный / проворный / …",
+      "link": "https://word-by-word.ru/en-ru/swift"
+    }
+  },
+  {
+    "conviction": {
+      "translation": "убеждение / признание виновным / …",
+      "link": "https://word-by-word.ru/en-ru/conviction"
+    }
+  },
+  {
+    "sideways": {
+      "translation": "в сторону / боком / …",
+      "link": "https://word-by-word.ru/words/en-ru/sideways"
+    }
+  },
+  {
+    "dread": {
+      "translation": "бояться / страшиться / …",
+      "link": "https://word-by-word.ru/words/en-ru/dread"
+    }
+  },
+  {
+    "signal": {
+      "translation": "подавать сигнал / сигнализировать / …",
+      "link": "https://word-by-word.ru/words/en-ru/signal/verb"
+    }
+  },
+  {
+    "bid": {
+      "translation": "предлагать цену / просить / …",
+      "link": "https://word-by-word.ru/words/en-ru/bid"
+    }
+  },
+  {
+    "mercy": {
+      "translation": "пощада / милосердие / …",
+      "link": "https://word-by-word.ru/words/en-ru/mercy"
+    }
+  },
+  {
+    "spark": {
+      "translation": "искра / вспышка / …",
+      "link": "https://word-by-word.ru/words/en-ru/spark"
+    }
+  },
+  {
+    "assemble": {
+      "translation": "собирать / собираться",
+      "link": "https://word-by-word.ru/en-ru/assemble"
+    }
+  },
+  {
+    "tip": {
+      "translation": "наклонять / давать чаевые / …",
+      "link": "https://word-by-word.ru/words/en-ru/tip/verb"
+    }
+  },
+  {
+    "stain": {
+      "translation": "пачкать / пятнать / окрашивать",
+      "link": "https://word-by-word.ru/words/en-ru/stain"
+    }
+  },
+  {
+    "shield": {
+      "translation": "защищать / прикрывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/shield/verb"
+    }
+  },
+  {
+    "core": {
+      "translation": "ядро / сердечник",
+      "link": "https://word-by-word.ru/en-ru/core"
+    }
+  },
+  {
+    "oddly": {
+      "translation": "странно / …",
+      "link": "https://word-by-word.ru/en-ru/oddly"
+    }
+  },
+  {
+    "odour": {
+      "translation": "запах / …",
+      "link": "https://word-by-word.ru/words/en-ru/odour"
+    }
+  },
+  {
+    "cast": {
+      "translation": "отбрасывать / бросать / …",
+      "link": "https://word-by-word.ru/en-ru/cast/verb"
+    }
+  },
+  {
+    "indifferent": {
+      "translation": "равнодушный / безразличный / …",
+      "link": "https://word-by-word.ru/words/en-ru/indifferent"
+    }
+  },
+  {
+    "illusion": {
+      "translation": "иллюзия / мираж / …",
+      "link": "https://word-by-word.ru/words/en-ru/illusion"
+    }
+  },
+  {
+    "realm": {
+      "translation": "область / сфера / …",
+      "link": "https://word-by-word.ru/words/en-ru/realm"
+    }
+  },
+  {
+    "giggle": {
+      "translation": "хихикать",
+      "link": "https://word-by-word.ru/en-ru/giggle"
+    }
+  },
+  {
+    "sin": {
+      "translation": "грех / …",
+      "link": "https://word-by-word.ru/en-ru/sin"
+    }
+  },
+  {
+    "prime": {
+      "translation": "основной / главный / …",
+      "link": "https://word-by-word.ru/words/en-ru/prime"
+    }
+  },
+  {
+    "ritual": {
+      "translation": "ритуал / обряд / …",
+      "link": "https://word-by-word.ru/words/en-ru/ritual"
+    }
+  },
+  {
+    "rot": {
+      "translation": "гнить / …",
+      "link": "https://word-by-word.ru/words/en-ru/rot"
+    }
+  },
+  {
+    "impulse": {
+      "translation": "импульс / побуждение / …",
+      "link": "https://word-by-word.ru/words/en-ru/impulse"
+    }
+  },
+  {
+    "utter": {
+      "translation": "произносить / издавать / …",
+      "link": "https://word-by-word.ru/words/en-ru/utter"
+    }
+  },
+  {
+    "retrieve": {
+      "translation": "извлекать / доставать / …",
+      "link": "https://word-by-word.ru/words/en-ru/retrieve"
+    }
+  },
+  {
+    "bind": {
+      "translation": "связывать / привязывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/bind"
+    }
+  },
+  {
+    "explosive": {
+      "translation": "взрывчатка / …",
+      "link": "https://word-by-word.ru/words/en-ru/explosive"
+    }
+  },
+  {
+    "issue": {
+      "translation": "выдавать / издавать / …",
+      "link": "https://word-by-word.ru/words/en-ru/issue/verb"
+    }
+  },
+  {
+    "trader": {
+      "translation": "торговец / …",
+      "link": "https://word-by-word.ru/words/en-ru/trader"
+    }
+  },
+  {
+    "resistance": {
+      "translation": "сопротивление / сопротивляемость / …",
+      "link": "https://word-by-word.ru/en-ru/resistance"
+    }
+  },
+  {
+    "intent": {
+      "translation": "намерение / умысел / …",
+      "link": "https://word-by-word.ru/en-ru/intent"
+    }
+  },
+  {
+    "civilian": {
+      "translation": "гражданское лицо / штатский / …",
+      "link": "https://word-by-word.ru/words/en-ru/civilian"
+    }
+  },
+  {
+    "groan": {
+      "translation": "стонать / вздыхать тяжело / …",
+      "link": "https://word-by-word.ru/words/en-ru/groan"
+    }
+  },
+  {
+    "just": {
+      "translation": "справедливый / …",
+      "link": "https://word-by-word.ru/en-ru/just/adjective"
+    }
+  },
+  {
+    "nostril": {
+      "translation": "ноздря",
+      "link": "https://word-by-word.ru/words/en-ru/nostril"
+    }
+  },
+  {
+    "confront": {
+      "translation": "противостоять / предъявлять / …",
+      "link": "https://word-by-word.ru/words/en-ru/confront"
+    }
+  },
+  {
+    "subtle": {
+      "translation": "тонкий / неуловимый / …",
+      "link": "https://word-by-word.ru/words/en-ru/subtle"
+    }
+  },
+  {
+    "torture": {
+      "translation": "пытать / мучить / …",
+      "link": "https://word-by-word.ru/words/en-ru/torture"
+    }
+  },
+  {
+    "rage": {
+      "translation": "бушевать / свирепствовать / …",
+      "link": "https://word-by-word.ru/words/en-ru/rage/verb"
+    }
+  },
+  {
+    "knuckle": {
+      "translation": "костяшки пальцев / …",
+      "link": "https://word-by-word.ru/words/en-ru/knuckle"
+    }
+  },
+  {
+    "stuff": {
+      "translation": "засовывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/stuff/verb"
+    }
+  },
+  {
+    "suppress": {
+      "translation": "подавлять / сдерживать / …",
+      "link": "https://word-by-word.ru/en-ru/suppress"
+    }
+  },
+  {
+    "loom": {
+      "translation": "неясно вырисовываться / маячить / принимать угрожающий размер / …",
+      "link": "https://word-by-word.ru/words/en-ru/loom"
+    }
+  },
+  {
+    "wicked": {
+      "translation": "злой / безнравственный / …",
+      "link": "https://word-by-word.ru/en-ru/wicked"
+    }
+  },
+  {
+    "murmur": {
+      "translation": "роптать / шептать / …",
+      "link": "https://word-by-word.ru/words/en-ru/murmur"
+    }
+  },
+  {
+    "scrap": {
+      "translation": "крохи / объедки / …",
+      "link": "https://word-by-word.ru/en-ru/scrap"
+    }
+  },
+  {
+    "strand": {
+      "translation": "прядь / стренга / …",
+      "link": "https://word-by-word.ru/en-ru/strand"
+    }
+  },
+  {
+    "fireplace": {
+      "translation": "камин / очаг",
+      "link": "https://word-by-word.ru/en-ru/fireplace"
+    }
+  },
+  {
+    "local": {
+      "translation": "местный житель / местная организация / …",
+      "link": "https://word-by-word.ru/en-ru/local/noun"
+    }
+  },
+  {
+    "plead": {
+      "translation": "умолять / вымаливать / …",
+      "link": "https://word-by-word.ru/words/en-ru/plead"
+    }
+  },
+  {
+    "prey": {
+      "translation": "добыча / жертва / …",
+      "link": "https://word-by-word.ru/words/en-ru/prey"
+    }
+  },
+  {
+    "globe": {
+      "translation": "глобус / …",
+      "link": "https://word-by-word.ru/words/en-ru/globe"
+    }
+  },
+  {
+    "sorrow": {
+      "translation": "печаль / скорбь / …",
+      "link": "https://word-by-word.ru/words/en-ru/sorrow"
+    }
+  },
+  {
+    "pursuit": {
+      "translation": "погоня / преследование / …",
+      "link": "https://word-by-word.ru/words/en-ru/pursuit"
+    }
+  },
+  {
+    "wary": {
+      "translation": "осторожный / настороженный / …",
+      "link": "https://word-by-word.ru/words/en-ru/wary"
+    }
+  },
+  {
+    "strap": {
+      "translation": "ремешок / ремень / …",
+      "link": "https://word-by-word.ru/words/en-ru/strap"
+    }
+  },
+  {
+    "lump": {
+      "translation": "кусок / глыба / …",
+      "link": "https://word-by-word.ru/words/en-ru/lump"
+    }
+  },
+  {
+    "contempt": {
+      "translation": "презрение / …",
+      "link": "https://word-by-word.ru/en-ru/contempt"
+    }
+  },
+  {
+    "tread": {
+      "translation": "наступать / топтать / …",
+      "link": "https://word-by-word.ru/words/en-ru/tread"
+    }
+  },
+  {
+    "bundle": {
+      "translation": "пачка / пучок / …",
+      "link": "https://word-by-word.ru/words/en-ru/bundle"
+    }
+  },
+  {
+    "vulnerable": {
+      "translation": "уязвимый / …",
+      "link": "https://word-by-word.ru/words/en-ru/vulnerable"
+    }
+  },
+  {
+    "missile": {
+      "translation": "реактивный снаряд / ракета / …",
+      "link": "https://word-by-word.ru/en-ru/missile"
+    }
+  },
+  {
+    "buzz": {
+      "translation": "жужжать / гудеть / …",
+      "link": "https://word-by-word.ru/words/en-ru/buzz"
+    }
+  },
+  {
+    "grain": {
+      "translation": "зерно / крупица / …",
+      "link": "https://word-by-word.ru/words/en-ru/grain"
+    }
+  },
+  {
+    "residence": {
+      "translation": "резиденция / проживание / …",
+      "link": "https://word-by-word.ru/words/en-ru/residence"
+    }
+  },
+  {
+    "raid": {
+      "translation": "налет / рейд / …",
+      "link": "https://word-by-word.ru/words/en-ru/raid"
+    }
+  },
+  {
+    "rigid": {
+      "translation": "жесткий / строгий / …",
+      "link": "https://word-by-word.ru/words/en-ru/rigid"
+    }
+  },
+  {
+    "flatten": {
+      "translation": "распластать / выравнивать / …",
+      "link": "https://word-by-word.ru/words/en-ru/flatten"
+    }
+  },
+  {
+    "frantic": {
+      "translation": "лихорадочный / отчаянный / …",
+      "link": "https://word-by-word.ru/words/en-ru/frantic"
+    }
+  },
+  {
+    "intensity": {
+      "translation": "интенсивность / сила / …",
+      "link": "https://word-by-word.ru/words/en-ru/intensity"
+    }
+  },
+  {
+    "view": {
+      "translation": "рассматривать / …",
+      "link": "https://word-by-word.ru/en-ru/view/verb"
+    }
+  },
+  {
+    "scroll": {
+      "translation": "прокручивать / украшать завитками / …",
+      "link": "https://word-by-word.ru/words/en-ru/scroll"
+    }
+  },
+  {
+    "wreck": {
+      "translation": "разрушать / потерпеть крушение / …",
+      "link": "https://word-by-word.ru/words/en-ru/wreck"
+    }
+  },
+  {
+    "ribbon": {
+      "translation": "лента / …",
+      "link": "https://word-by-word.ru/words/en-ru/ribbon"
+    }
+  },
+  {
+    "heap": {
+      "translation": "куча / груда / …",
+      "link": "https://word-by-word.ru/words/en-ru/heap"
+    }
+  },
+  {
+    "imply": {
+      "translation": "подразумевать / намекать / …",
+      "link": "https://word-by-word.ru/words/en-ru/imply"
+    }
+  },
+  {
+    "execute": {
+      "translation": "казнить / выполнять / …",
+      "link": "https://word-by-word.ru/words/en-ru/execute"
+    }
+  },
+  {
+    "loosen": {
+      "translation": "ослаблять / …",
+      "link": "https://word-by-word.ru/words/en-ru/loosen"
+    }
+  },
+  {
+    "disgust": {
+      "translation": "отвращение / омерзение / …",
+      "link": "https://word-by-word.ru/words/en-ru/disgust"
+    }
+  },
+  {
+    "conscience": {
+      "translation": "совесть / сознание / …",
+      "link": "https://word-by-word.ru/words/en-ru/conscience"
+    }
+  },
+  {
+    "strip": {
+      "translation": "полоса / лента / …",
+      "link": "https://word-by-word.ru/words/en-ru/strip/noun"
+    }
+  },
+  {
+    "weed": {
+      "translation": "сорняк / …",
+      "link": "https://word-by-word.ru/en-ru/weed"
+    }
+  },
+  {
+    "moan": {
+      "translation": "стонать / жаловаться / …",
+      "link": "https://word-by-word.ru/words/en-ru/moan"
+    }
+  },
+  {
+    "yield": {
+      "translation": "уступать / производить / …",
+      "link": "https://word-by-word.ru/words/en-ru/yield"
+    }
+  },
+  {
+    "hostility": {
+      "translation": "враждебность / военные действия / …",
+      "link": "https://word-by-word.ru/words/en-ru/hostility"
+    }
+  },
+  {
+    "house": {
+      "translation": "размещать / располагаться",
+      "link": "https://word-by-word.ru/en-ru/house/verb"
+    }
+  },
+  {
+    "timber": {
+      "translation": "древесина / лесоматериалы / …",
+      "link": "https://word-by-word.ru/words/en-ru/timber"
+    }
+  },
+  {
+    "tender": {
+      "translation": "нежный / болезненный / …",
+      "link": "https://word-by-word.ru/en-ru/tender"
+    }
+  },
+  {
+    "confine": {
+      "translation": "ограничивать / держать взаперти / …",
+      "link": "https://word-by-word.ru/words/en-ru/confine"
+    }
+  },
+  {
+    "soar": {
+      "translation": "взмывать / возвыситься / …",
+      "link": "https://word-by-word.ru/words/en-ru/soar"
+    }
+  },
+  {
+    "hostage": {
+      "translation": "заложник / залог",
+      "link": "https://word-by-word.ru/words/en-ru/hostage"
+    }
+  },
+  {
+    "fake": {
+      "translation": "поддельный / фальшивый / …",
+      "link": "https://word-by-word.ru/words/en-ru/fake"
+    }
+  },
+  {
+    "formation": {
+      "translation": "образование / формирование / …",
+      "link": "https://word-by-word.ru/words/en-ru/formation"
+    }
+  },
+  {
+    "contemplate": {
+      "translation": "обдумывать / задумываться / …",
+      "link": "https://word-by-word.ru/words/en-ru/contemplate"
+    }
+  },
+  {
+    "dazed": {
+      "translation": "ошеломленный / обалделый / …",
+      "link": "https://word-by-word.ru/words/en-ru/dazed"
+    }
+  },
+  {
+    "dignity": {
+      "translation": "достоинство / сан / …",
+      "link": "https://word-by-word.ru/words/en-ru/dignity"
+    }
+  },
+  {
+    "crumble": {
+      "translation": "крошить / крошиться / …",
+      "link": "https://word-by-word.ru/words/en-ru/crumble"
+    }
+  },
+  {
+    "long": {
+      "translation": "жаждать / страстно желать / …",
+      "link": "https://word-by-word.ru/en-ru/long/verb"
+    }
+  },
+  {
+    "fluid": {
+      "translation": "жидкость",
+      "link": "https://word-by-word.ru/en-ru/fluid"
+    }
+  },
+  {
+    "target": {
+      "translation": "нацеливать / направить / …",
+      "link": "https://word-by-word.ru/words/en-ru/target/verb"
+    }
+  },
+  {
+    "threshold": {
+      "translation": "порог / предел / …",
+      "link": "https://word-by-word.ru/words/en-ru/threshold"
+    }
+  },
+  {
+    "plague": {
+      "translation": "чума / бедствие / …",
+      "link": "https://word-by-word.ru/words/en-ru/plague"
+    }
+  },
+  {
+    "alliance": {
+      "translation": "союз / альянс / …",
+      "link": "https://word-by-word.ru/words/en-ru/alliance"
+    }
+  },
+  {
+    "utter": {
+      "translation": "полный / совершенный / …",
+      "link": "https://word-by-word.ru/words/en-ru/utter/adjective"
+    }
+  },
+  {
+    "intruder": {
+      "translation": "незваный гость / злоумышленник / …",
+      "link": "https://word-by-word.ru/words/en-ru/intruder"
+    }
+  },
+  {
+    "handy": {
+      "translation": "удобный / портативный / …",
+      "link": "https://word-by-word.ru/words/en-ru/handy"
+    }
+  },
+  {
+    "retain": {
+      "translation": "удерживать / сохранять / …",
+      "link": "https://word-by-word.ru/en-ru/retain"
+    }
+  },
+  {
+    "dismay": {
+      "translation": "смятение / страх / …",
+      "link": "https://word-by-word.ru/words/en-ru/dismay"
+    }
+  },
+  {
+    "vicious": {
+      "translation": "злобный / порочный / …",
+      "link": "https://word-by-word.ru/words/en-ru/vicious"
+    }
+  },
+  {
+    "knot": {
+      "translation": "узел / сучок / …",
+      "link": "https://word-by-word.ru/en-ru/knot"
+    }
+  },
+  {
+    "squeak": {
+      "translation": "скрипеть / пищать / …",
+      "link": "https://word-by-word.ru/words/en-ru/squeak"
+    }
+  },
+  {
+    "transmission": {
+      "translation": "передача / коробка передач / …",
+      "link": "https://word-by-word.ru/words/en-ru/transmission"
+    }
+  },
+  {
+    "squad": {
+      "translation": "отряд / команда",
+      "link": "https://word-by-word.ru/words/en-ru/squad"
+    }
+  },
+  {
+    "wreck": {
+      "translation": "авария / обломки / …",
+      "link": "https://word-by-word.ru/words/en-ru/wreck/noun"
+    }
+  },
+  {
+    "shattered": {
+      "translation": "разрушенный / …",
+      "link": "https://word-by-word.ru/words/en-ru/shattered"
+    }
+  },
+  {
+    "skull": {
+      "translation": "череп / башка / …",
+      "link": "https://word-by-word.ru/en-ru/skull"
+    }
+  },
+  {
+    "elaborate": {
+      "translation": "сложный / замысловатый / …",
+      "link": "https://word-by-word.ru/words/en-ru/elaborate"
+    }
+  },
+  {
+    "crude": {
+      "translation": "сырой / грубый / …",
+      "link": "https://word-by-word.ru/words/en-ru/crude"
+    }
+  },
+  {
+    "wrinkled": {
+      "translation": "морщинистый / сморщенный / …",
+      "link": "https://word-by-word.ru/words/en-ru/wrinkled"
+    }
+  },
+  {
+    "only": {
+      "translation": "только лишь / только / разве",
+      "link": "https://word-by-word.ru/words/en-ru/only/conjunction"
+    }
+  },
+  {
+    "stunned": {
+      "translation": "остолбенелый",
+      "link": "https://word-by-word.ru/words/en-ru/stunned"
+    }
+  },
+  {
+    "sue": {
+      "translation": "предъявлять иск / подавать в суд",
+      "link": "https://word-by-word.ru/en-ru/sue"
+    }
+  },
+  {
+    "scar": {
+      "translation": "зарубцеваться / рубцеваться / …",
+      "link": "https://word-by-word.ru/words/en-ru/scar/verb"
+    }
+  },
+  {
+    "ponder": {
+      "translation": "обдумывать / размышлять / …",
+      "link": "https://word-by-word.ru/words/en-ru/ponder"
+    }
+  },
+  {
+    "kerb": {
+      "translation": "бордюр / ограничение / …",
+      "link": "https://word-by-word.ru/words/en-ru/kerb"
+    }
+  },
+  {
+    "erupt": {
+      "translation": "извергаться / …",
+      "link": "https://word-by-word.ru/words/en-ru/erupt"
+    }
+  },
+  {
+    "overhear": {
+      "translation": "подслушивать / нечаянно услышать",
+      "link": "https://word-by-word.ru/en-ru/overhear"
+    }
+  },
+  {
+    "sip": {
+      "translation": "глоток / маленький глоток",
+      "link": "https://word-by-word.ru/en-ru/sip/noun"
+    }
+  },
+  {
+    "linen": {
+      "translation": "белье / льняное полотно / …",
+      "link": "https://word-by-word.ru/words/en-ru/linen"
+    }
+  },
+  {
+    "compliment": {
+      "translation": "комплимент / …",
+      "link": "https://word-by-word.ru/en-ru/compliment"
+    }
+  },
+  {
+    "intact": {
+      "translation": "неповрежденный / нетронутый / …",
+      "link": "https://word-by-word.ru/en-ru/intact"
+    }
+  },
+  {
+    "velvet": {
+      "translation": "бархат / бархатистость / …",
+      "link": "https://word-by-word.ru/words/en-ru/velvet"
+    }
+  },
+  {
+    "recognition": {
+      "translation": "признание / осознание / …",
+      "link": "https://word-by-word.ru/en-ru/recognition"
+    }
+  },
+  {
+    "assembly": {
+      "translation": "собрание / сборка / …",
+      "link": "https://word-by-word.ru/words/en-ru/assembly"
+    }
+  },
+  {
+    "grin": {
+      "translation": "широкая улыбка / усмешка / …",
+      "link": "https://word-by-word.ru/words/en-ru/grin/noun"
+    }
+  },
+  {
+    "official": {
+      "translation": "чиновник / должностное лицо / …",
+      "link": "https://word-by-word.ru/en-ru/official/noun"
+    }
+  },
+  {
+    "inherit": {
+      "translation": "наследовать / унаследовать / …",
+      "link": "https://word-by-word.ru/words/en-ru/inherit"
+    }
+  },
+  {
+    "relieve": {
+      "translation": "облегчать / …",
+      "link": "https://word-by-word.ru/words/en-ru/relieve"
+    }
+  },
+  {
+    "resent": {
+      "translation": "возмущаться / негодовать / …",
+      "link": "https://word-by-word.ru/words/en-ru/resent"
+    }
+  },
+  {
+    "likewise": {
+      "translation": "подобным образом / так же / …",
+      "link": "https://word-by-word.ru/words/en-ru/likewise"
+    }
+  },
+  {
+    "dim": {
+      "translation": "тускнеть / затемнять / …",
+      "link": "https://word-by-word.ru/words/en-ru/dim/verb"
+    }
+  },
+  {
+    "defensive": {
+      "translation": "оборонительный / обидчивый / …",
+      "link": "https://word-by-word.ru/words/en-ru/defensive"
+    }
+  },
+  {
+    "grasp": {
+      "translation": "хватка / сообразительность",
+      "link": "https://word-by-word.ru/words/en-ru/grasp/noun"
+    }
+  },
+  {
+    "petty": {
+      "translation": "мелкий / мелочный / …",
+      "link": "https://word-by-word.ru/words/en-ru/petty"
+    }
+  },
+  {
+    "cheer": {
+      "translation": "одобрительный возглас / …",
+      "link": "https://word-by-word.ru/en-ru/cheer/noun"
+    }
+  },
+  {
+    "shelter": {
+      "translation": "приютить / давать приют / …",
+      "link": "https://word-by-word.ru/words/en-ru/shelter/verb"
+    }
+  },
+  {
+    "blunt": {
+      "translation": "тупой / туповатый / …",
+      "link": "https://word-by-word.ru/words/en-ru/blunt"
+    }
+  },
+  {
+    "infant": {
+      "translation": "младенец / …",
+      "link": "https://word-by-word.ru/words/en-ru/infant"
+    }
+  },
+  {
+    "bleak": {
+      "translation": "мрачный / холодный / …",
+      "link": "https://word-by-word.ru/words/en-ru/bleak"
+    }
+  },
+  {
+    "refuge": {
+      "translation": "убежище / …",
+      "link": "https://word-by-word.ru/words/en-ru/refuge"
+    }
+  },
+  {
+    "fragile": {
+      "translation": "хрупкий / слабый / …",
+      "link": "https://word-by-word.ru/words/en-ru/fragile"
+    }
+  },
+  {
+    "vomit": {
+      "translation": "вызывать рвоту / тошнить / …",
+      "link": "https://word-by-word.ru/words/en-ru/vomit"
+    }
+  },
+  {
+    "awe": {
+      "translation": "благоговение / трепет / …",
+      "link": "https://word-by-word.ru/words/en-ru/awe"
+    }
+  },
+  {
+    "condition": {
+      "translation": "обусловливать / улучшать состояние / …",
+      "link": "https://word-by-word.ru/words/en-ru/condition/verb"
+    }
+  },
+  {
+    "filter": {
+      "translation": "фильтровать / процеживать / …",
+      "link": "https://word-by-word.ru/words/en-ru/filter"
+    }
+  },
+  {
+    "casualty": {
+      "translation": "несчастный случай / раненый / …",
+      "link": "https://word-by-word.ru/words/en-ru/casualty"
+    }
+  },
+  {
+    "veteran": {
+      "translation": "ветеран / фронтовик / …",
+      "link": "https://word-by-word.ru/words/en-ru/veteran"
+    }
+  },
+  {
+    "sustain": {
+      "translation": "поддерживать / понести / …",
+      "link": "https://word-by-word.ru/words/en-ru/sustain"
+    }
+  },
+  {
+    "sane": {
+      "translation": "здравомыслящий / нормальный / …",
+      "link": "https://word-by-word.ru/words/en-ru/sane"
+    }
+  },
+  {
+    "anticipation": {
+      "translation": "ожидание / предвкушение / …",
+      "link": "https://word-by-word.ru/words/en-ru/anticipation"
+    }
+  },
+  {
+    "virtue": {
+      "translation": "достоинство / добродетель / …",
+      "link": "https://word-by-word.ru/words/en-ru/virtue"
+    }
+  },
+  {
+    "ignorant": {
+      "translation": "невежественный / несведущий / …",
+      "link": "https://word-by-word.ru/words/en-ru/ignorant"
+    }
+  },
+  {
+    "counsel": {
+      "translation": "адвокат / совет / …",
+      "link": "https://word-by-word.ru/words/en-ru/counsel"
+    }
+  },
+  {
+    "naval": {
+      "translation": "морской / флотский / …",
+      "link": "https://word-by-word.ru/words/en-ru/naval"
+    }
+  },
+  {
+    "plump": {
+      "translation": "пухлый / полный / …",
+      "link": "https://word-by-word.ru/words/en-ru/plump"
+    }
+  },
+  {
+    "exclaim": {
+      "translation": "воскликнуть / восклицать / …",
+      "link": "https://word-by-word.ru/words/en-ru/exclaim"
+    }
+  },
+  {
+    "fraction": {
+      "translation": "фракция / дробь / …",
+      "link": "https://word-by-word.ru/words/en-ru/fraction"
+    }
+  },
+  {
+    "fearful": {
+      "translation": "страшный / боящийся / …",
+      "link": "https://word-by-word.ru/en-ru/fearful"
+    }
+  },
+  {
+    "alert": {
+      "translation": "предупреждать / объявлять тревогу / …",
+      "link": "https://word-by-word.ru/words/en-ru/alert/verb"
+    }
+  },
+  {
+    "trudge": {
+      "translation": "устало тащиться / плестись / …",
+      "link": "https://word-by-word.ru/words/en-ru/trudge"
+    }
+  },
+  {
+    "goodness": {
+      "translation": "доброта / добродетель / …",
+      "link": "https://word-by-word.ru/words/en-ru/goodness"
+    }
+  },
+  {
+    "wholly": {
+      "translation": "полностью / совершенно / …",
+      "link": "https://word-by-word.ru/words/en-ru/wholly"
+    }
+  },
+  {
+    "sequence": {
+      "translation": "последовательность / ряд / …",
+      "link": "https://word-by-word.ru/words/en-ru/sequence"
+    }
+  },
+  {
+    "wreckage": {
+      "translation": "обломки крушения / крушение / …",
+      "link": "https://word-by-word.ru/en-ru/wreckage"
+    }
+  },
+  {
+    "arouse": {
+      "translation": "пробуждать / вызывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/arouse"
+    }
+  },
+  {
+    "peek": {
+      "translation": "выглядывать / заглядывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/peek"
+    }
+  },
+  {
+    "testify": {
+      "translation": "давать показания / свидетельствовать",
+      "link": "https://word-by-word.ru/en-ru/testify"
+    }
+  },
+  {
+    "irritation": {
+      "translation": "раздражение / раздражающая вещь / …",
+      "link": "https://word-by-word.ru/words/en-ru/irritation"
+    }
+  },
+  {
+    "saddle": {
+      "translation": "седло / суппорт / …",
+      "link": "https://word-by-word.ru/en-ru/saddle"
+    }
+  },
+  {
+    "raid": {
+      "translation": "совершать налет / громить / …",
+      "link": "https://word-by-word.ru/words/en-ru/raid/verb"
+    }
+  },
+  {
+    "observer": {
+      "translation": "наблюдатель / обозреватель / …",
+      "link": "https://word-by-word.ru/words/en-ru/observer"
+    }
+  },
+  {
+    "strive": {
+      "translation": "стремиться / бороться / …",
+      "link": "https://word-by-word.ru/words/en-ru/strive"
+    }
+  },
+  {
+    "desperation": {
+      "translation": "отчаяние / безрассудство / …",
+      "link": "https://word-by-word.ru/words/en-ru/desperation"
+    }
+  },
+  {
+    "anchor": {
+      "translation": "якорь / …",
+      "link": "https://word-by-word.ru/words/en-ru/anchor"
+    }
+  },
+  {
+    "perception": {
+      "translation": "восприятие / ощущение / …",
+      "link": "https://word-by-word.ru/words/en-ru/perception"
+    }
+  },
+  {
+    "top": {
+      "translation": "превосходить / …",
+      "link": "https://word-by-word.ru/words/en-ru/top/verb"
+    }
+  },
+  {
+    "irony": {
+      "translation": "ирония / …",
+      "link": "https://word-by-word.ru/en-ru/irony"
+    }
+  },
+  {
+    "wretched": {
+      "translation": "несчастный / жалкий / …",
+      "link": "https://word-by-word.ru/words/en-ru/wretched"
+    }
+  },
+  {
+    "vice": {
+      "translation": "порок / вредная привычка",
+      "link": "https://word-by-word.ru/words/en-ru/vice"
+    }
+  },
+  {
+    "cunning": {
+      "translation": "хитрый / коварный / …",
+      "link": "https://word-by-word.ru/words/en-ru/cunning"
+    }
+  },
+  {
+    "cloud": {
+      "translation": "затуманивать / омрачать / …",
+      "link": "https://word-by-word.ru/words/en-ru/cloud/verb"
+    }
+  },
+  {
+    "formidable": {
+      "translation": "грозный / внушительный / …",
+      "link": "https://word-by-word.ru/words/en-ru/formidable"
+    }
+  },
+  {
+    "sober": {
+      "translation": "трезвый / рассудительный / …",
+      "link": "https://word-by-word.ru/words/en-ru/sober"
+    }
+  },
+  {
+    "revelation": {
+      "translation": "откровение / разоблачение / …",
+      "link": "https://word-by-word.ru/words/en-ru/revelation"
+    }
+  },
+  {
+    "specimen": {
+      "translation": "образец / экземпляр / …",
+      "link": "https://word-by-word.ru/words/en-ru/specimen"
+    }
+  },
+  {
+    "self": {
+      "translation": "себя / сам / …",
+      "link": "https://word-by-word.ru/words/en-ru/self"
+    }
+  },
+  {
+    "wilderness": {
+      "translation": "дикая местность / пустыня / …",
+      "link": "https://word-by-word.ru/words/en-ru/wilderness"
+    }
+  },
+  {
+    "urge": {
+      "translation": "побуждение / страстное желание / …",
+      "link": "https://word-by-word.ru/words/en-ru/urge/noun"
+    }
+  },
+  {
+    "convict": {
+      "translation": "признавать виновным / осуждать / …",
+      "link": "https://word-by-word.ru/words/en-ru/convict"
+    }
+  },
+  {
+    "venture": {
+      "translation": "рискованная затея / начинание / …",
+      "link": "https://word-by-word.ru/words/en-ru/venture/noun"
+    }
+  },
+  {
+    "humble": {
+      "translation": "скромный / смиренный / …",
+      "link": "https://word-by-word.ru/words/en-ru/humble"
+    }
+  },
+  {
+    "provoke": {
+      "translation": "провоцировать / вызывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/provoke"
+    }
+  },
+  {
+    "particle": {
+      "translation": "частица / крупица / …",
+      "link": "https://word-by-word.ru/words/en-ru/particle"
+    }
+  },
+  {
+    "comfort": {
+      "translation": "утешать / успокаивать",
+      "link": "https://word-by-word.ru/en-ru/comfort/verb"
+    }
+  },
+  {
+    "clash": {
+      "translation": "сталкиваться / конфликтовать / …",
+      "link": "https://word-by-word.ru/words/en-ru/clash"
+    }
+  },
+  {
+    "quest": {
+      "translation": "поиски / поиск / …",
+      "link": "https://word-by-word.ru/words/en-ru/quest"
+    }
+  },
+  {
+    "feeble": {
+      "translation": "слабый / …",
+      "link": "https://word-by-word.ru/words/en-ru/feeble"
+    }
+  },
+  {
+    "conceive": {
+      "translation": "зачать / забеременеть / …",
+      "link": "https://word-by-word.ru/words/en-ru/conceive"
+    }
+  },
+  {
+    "ignorance": {
+      "translation": "невежество / незнание / …",
+      "link": "https://word-by-word.ru/words/en-ru/ignorance"
+    }
+  },
+  {
+    "custody": {
+      "translation": "опека / содержание под стражей / …",
+      "link": "https://word-by-word.ru/words/en-ru/custody"
+    }
+  },
+  {
+    "anchor": {
+      "translation": "закреплять / бросать якорь / …",
+      "link": "https://word-by-word.ru/words/en-ru/anchor/verb"
+    }
+  },
+  {
+    "dazzle": {
+      "translation": "ослеплять / завораживать / …",
+      "link": "https://word-by-word.ru/words/en-ru/dazzle"
+    }
+  },
+  {
+    "indulge": {
+      "translation": "предаваться / потакать / …",
+      "link": "https://word-by-word.ru/words/en-ru/indulge"
+    }
+  },
+  {
+    "infinite": {
+      "translation": "бесконечный / безграничный / …",
+      "link": "https://word-by-word.ru/words/en-ru/infinite"
+    }
+  },
+  {
+    "sharpen": {
+      "translation": "точить / заострять / …",
+      "link": "https://word-by-word.ru/en-ru/sharpen"
+    }
+  },
+  {
+    "very": {
+      "translation": "тот самый / …",
+      "link": "https://word-by-word.ru/en-ru/very/adjective"
+    }
+  },
+  {
+    "hail": {
+      "translation": "приветствовать / окликать / …",
+      "link": "https://word-by-word.ru/words/en-ru/hail"
+    }
+  },
+  {
+    "spiral": {
+      "translation": "спираль / …",
+      "link": "https://word-by-word.ru/words/en-ru/spiral"
+    }
+  },
+  {
+    "prevail": {
+      "translation": "преобладать / восторжествовать / …",
+      "link": "https://word-by-word.ru/words/en-ru/prevail"
+    }
+  },
+  {
+    "condemn": {
+      "translation": "осуждать / …",
+      "link": "https://word-by-word.ru/words/en-ru/condemn"
+    }
+  },
+  {
+    "solitary": {
+      "translation": "одинокий / одиночный / …",
+      "link": "https://word-by-word.ru/words/en-ru/solitary"
+    }
+  },
+  {
+    "intimate": {
+      "translation": "интимный / близкий / …",
+      "link": "https://word-by-word.ru/words/en-ru/intimate"
+    }
+  },
+  {
+    "entity": {
+      "translation": "объект / сущность / …",
+      "link": "https://word-by-word.ru/words/en-ru/entity"
+    }
+  },
+  {
+    "fringe": {
+      "translation": "бахрома / челка / …",
+      "link": "https://word-by-word.ru/words/en-ru/fringe"
+    }
+  },
+  {
+    "revolt": {
+      "translation": "восставать / бунтовать / …",
+      "link": "https://word-by-word.ru/words/en-ru/revolt"
+    }
+  },
+  {
+    "province": {
+      "translation": "провинция / область / …",
+      "link": "https://word-by-word.ru/words/en-ru/province"
+    }
+  },
+  {
+    "impatience": {
+      "translation": "нетерпимость / нетерпение / …",
+      "link": "https://word-by-word.ru/words/en-ru/impatience"
+    }
+  },
+  {
+    "wield": {
+      "translation": "владеть / держать в руках / …",
+      "link": "https://word-by-word.ru/words/en-ru/wield"
+    }
+  },
+  {
+    "resemblance": {
+      "translation": "сходство / подобие",
+      "link": "https://word-by-word.ru/words/en-ru/resemblance"
+    }
+  },
+  {
+    "miniature": {
+      "translation": "миниатюрный / карликовый",
+      "link": "https://word-by-word.ru/words/en-ru/miniature"
+    }
+  },
+  {
+    "smuggle": {
+      "translation": "заниматься контрабандой / провозить контрабандой / …",
+      "link": "https://word-by-word.ru/words/en-ru/smuggle"
+    }
+  },
+  {
+    "doom": {
+      "translation": "гибель / судьба / …",
+      "link": "https://word-by-word.ru/words/en-ru/doom/noun"
+    }
+  },
+  {
+    "shrewd": {
+      "translation": "проницательный / практичный / …",
+      "link": "https://word-by-word.ru/words/en-ru/shrewd"
+    }
+  },
+  {
+    "legitimate": {
+      "translation": "законный / …",
+      "link": "https://word-by-word.ru/words/en-ru/legitimate"
+    }
+  },
+  {
+    "thereafter": {
+      "translation": "после этого / впоследствии / …",
+      "link": "https://word-by-word.ru/words/en-ru/thereafter"
+    }
+  },
+  {
+    "flourish": {
+      "translation": "процветать / расцветать / …",
+      "link": "https://word-by-word.ru/words/en-ru/flourish"
+    }
+  },
+  {
+    "glow": {
+      "translation": "свечение / свет / …",
+      "link": "https://word-by-word.ru/words/en-ru/glow/noun"
+    }
+  },
+  {
+    "pathetic": {
+      "translation": "жалкий / патетический / …",
+      "link": "https://word-by-word.ru/words/en-ru/pathetic"
+    }
+  },
+  {
+    "abrupt": {
+      "translation": "резкий / внезапный / …",
+      "link": "https://word-by-word.ru/words/en-ru/abrupt"
+    }
+  },
+  {
+    "defy": {
+      "translation": "бросать вызов / открыто не повиноваться / …",
+      "link": "https://word-by-word.ru/words/en-ru/defy"
+    }
+  },
+  {
+    "corpse": {
+      "translation": "труп / мертвец / …",
+      "link": "https://word-by-word.ru/en-ru/corpse"
+    }
+  },
+  {
+    "sacrifice": {
+      "translation": "жертвовать / поступиться",
+      "link": "https://word-by-word.ru/words/en-ru/sacrifice/verb"
+    }
+  },
+  {
+    "precede": {
+      "translation": "предшествовать / превосходить / …",
+      "link": "https://word-by-word.ru/words/en-ru/precede"
+    }
+  },
+  {
+    "profound": {
+      "translation": "глубокий / основательный / …",
+      "link": "https://word-by-word.ru/words/en-ru/profound"
+    }
+  },
+  {
+    "stable": {
+      "translation": "конюшня / хлев / …",
+      "link": "https://word-by-word.ru/words/en-ru/stable/noun"
+    }
+  },
+  {
+    "villager": {
+      "translation": "сельский житель / деревенский житель / …",
+      "link": "https://word-by-word.ru/words/en-ru/villager"
+    }
+  },
+  {
+    "resentment": {
+      "translation": "негодование / возмущение / …",
+      "link": "https://word-by-word.ru/words/en-ru/resentment"
+    }
+  },
+  {
+    "battle": {
+      "translation": "сражаться / бороться",
+      "link": "https://word-by-word.ru/words/en-ru/battle/verb"
+    }
+  },
+  {
+    "inhabit": {
+      "translation": "обитать / жить / …",
+      "link": "https://word-by-word.ru/words/en-ru/inhabit"
+    }
+  },
+  {
+    "discreet": {
+      "translation": "сдержанный / тактичный / …",
+      "link": "https://word-by-word.ru/words/en-ru/discreet"
+    }
+  },
+  {
+    "comforting": {
+      "translation": "утешительный / успокаивающий",
+      "link": "https://word-by-word.ru/words/en-ru/comforting"
+    }
+  },
+  {
+    "prosecutor": {
+      "translation": "прокурор / обвинитель / …",
+      "link": "https://word-by-word.ru/en-ru/prosecutor"
+    }
+  },
+  {
+    "echo": {
+      "translation": "эхо / отголосок / …",
+      "link": "https://word-by-word.ru/words/en-ru/echo/noun"
+    }
+  },
+  {
+    "treaty": {
+      "translation": "договор / соглашение / …",
+      "link": "https://word-by-word.ru/words/en-ru/treaty"
+    }
+  },
+  {
+    "thread": {
+      "translation": "заправлять нитью / продеть / …",
+      "link": "https://word-by-word.ru/words/en-ru/thread/verb"
+    }
+  },
+  {
+    "lethal": {
+      "translation": "смертельный / …",
+      "link": "https://word-by-word.ru/words/en-ru/lethal"
+    }
+  },
+  {
+    "taxpayer": {
+      "translation": "налогоплательщик",
+      "link": "https://word-by-word.ru/words/en-ru/taxpayer"
+    }
+  },
+  {
+    "embrace": {
+      "translation": "объятия",
+      "link": "https://word-by-word.ru/words/en-ru/embrace/noun"
+    }
+  },
+  {
+    "procession": {
+      "translation": "процессия / вереница / …",
+      "link": "https://word-by-word.ru/words/en-ru/procession"
+    }
+  },
+  {
+    "spouse": {
+      "translation": "супруг / супруга / …",
+      "link": "https://word-by-word.ru/words/en-ru/spouse"
+    }
+  },
+  {
+    "suck": {
+      "translation": "сосать / всасывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/suck"
+    }
+  },
+  {
+    "patch": {
+      "translation": "латать / …",
+      "link": "https://word-by-word.ru/words/en-ru/patch/verb"
+    }
+  },
+  {
+    "acre": {
+      "translation": "акр / …",
+      "link": "https://word-by-word.ru/words/en-ru/acre"
+    }
+  },
+  {
+    "contract": {
+      "translation": "сокращаться / сжимать / …",
+      "link": "https://word-by-word.ru/words/en-ru/contract/verb"
+    }
+  },
+  {
+    "sail": {
+      "translation": "парус / паруса / …",
+      "link": "https://word-by-word.ru/en-ru/sail"
+    }
+  },
+  {
+    "counsellor": {
+      "translation": "советник / консультант / …",
+      "link": "https://word-by-word.ru/words/en-ru/counsellor"
+    }
+  },
+  {
+    "essence": {
+      "translation": "сущность / существо / …",
+      "link": "https://word-by-word.ru/words/en-ru/essence"
+    }
+  },
+  {
+    "clarity": {
+      "translation": "ясность / четкость / …",
+      "link": "https://word-by-word.ru/words/en-ru/clarity"
+    }
+  },
+  {
+    "frail": {
+      "translation": "хрупкий / хилый / …",
+      "link": "https://word-by-word.ru/words/en-ru/frail"
+    }
+  },
+  {
+    "drain": {
+      "translation": "осушать / дренировать / …",
+      "link": "https://word-by-word.ru/words/en-ru/drain"
+    }
+  },
+  {
+    "revive": {
+      "translation": "возрождать / …",
+      "link": "https://word-by-word.ru/words/en-ru/revive"
+    }
+  },
+  {
+    "shovel": {
+      "translation": "лопата / экскаватор / …",
+      "link": "https://word-by-word.ru/words/en-ru/shovel"
+    }
+  },
+  {
+    "stupidity": {
+      "translation": "глупость / тупость / …",
+      "link": "https://word-by-word.ru/words/en-ru/stupidity"
+    }
+  },
+  {
+    "arch": {
+      "translation": "арка / …",
+      "link": "https://word-by-word.ru/words/en-ru/arch"
+    }
+  },
+  {
+    "stance": {
+      "translation": "позиция / положение ног / …",
+      "link": "https://word-by-word.ru/words/en-ru/stance"
+    }
+  },
+  {
+    "arm": {
+      "translation": "вооружать / вооружаться / …",
+      "link": "https://word-by-word.ru/words/en-ru/arm/verb"
+    }
+  },
+  {
+    "parallel": {
+      "translation": "параллельный / аналогичный / …",
+      "link": "https://word-by-word.ru/words/en-ru/parallel"
+    }
+  },
+  {
+    "impossibility": {
+      "translation": "невозможность / невероятность / …",
+      "link": "https://word-by-word.ru/words/en-ru/impossibility"
+    }
+  },
+  {
+    "plea": {
+      "translation": "просьба / призыв / …",
+      "link": "https://word-by-word.ru/words/en-ru/plea"
+    }
+  },
+  {
+    "ruthless": {
+      "translation": "безжалостный / …",
+      "link": "https://word-by-word.ru/words/en-ru/ruthless"
+    }
+  },
+  {
+    "scenario": {
+      "translation": "сценарий / …",
+      "link": "https://word-by-word.ru/en-ru/scenario"
+    }
+  },
+  {
+    "relate": {
+      "translation": "относиться / иметь отношение / …",
+      "link": "https://word-by-word.ru/words/en-ru/relate"
+    }
+  },
+  {
+    "stage": {
+      "translation": "ставить / инсценировать / …",
+      "link": "https://word-by-word.ru/words/en-ru/stage/verb"
+    }
+  },
+  {
+    "immortal": {
+      "translation": "бессмертный / вечный / …",
+      "link": "https://word-by-word.ru/words/en-ru/immortal"
+    }
+  },
+  {
+    "slaughter": {
+      "translation": "резня / забой / …",
+      "link": "https://word-by-word.ru/words/en-ru/slaughter"
+    }
+  },
+  {
+    "spark": {
+      "translation": "искриться / искрить / …",
+      "link": "https://word-by-word.ru/words/en-ru/spark/verb"
+    }
+  },
+  {
+    "memorial": {
+      "translation": "мемориал / памятник / …",
+      "link": "https://word-by-word.ru/words/en-ru/memorial"
+    }
+  },
+  {
+    "intervene": {
+      "translation": "вступаться / вмешиваться / …",
+      "link": "https://word-by-word.ru/words/en-ru/intervene"
+    }
+  },
+  {
+    "momentum": {
+      "translation": "импульс / движущая сила / …",
+      "link": "https://word-by-word.ru/words/en-ru/momentum"
+    }
+  },
+  {
+    "scan": {
+      "translation": "сканирование / исследование с помощью рентгеновского или ультразвукового излучения / …",
+      "link": "https://word-by-word.ru/words/en-ru/scan/noun"
+    }
+  },
+  {
+    "speculate": {
+      "translation": "спекулировать / строить предположения / …",
+      "link": "https://word-by-word.ru/words/en-ru/speculate"
+    }
+  },
+  {
+    "recruit": {
+      "translation": "новобранец / …",
+      "link": "https://word-by-word.ru/words/en-ru/recruit/noun"
+    }
+  },
+  {
+    "arch": {
+      "translation": "перекрывать сводом / возвышаться сводом / …",
+      "link": "https://word-by-word.ru/words/en-ru/arch/verb"
+    }
+  },
+  {
+    "confrontation": {
+      "translation": "конфронтация / столкновение / …",
+      "link": "https://word-by-word.ru/words/en-ru/confrontation"
+    }
+  },
+  {
+    "sentiment": {
+      "translation": "сентиментальность / мнение / …",
+      "link": "https://word-by-word.ru/words/en-ru/sentiment"
+    }
+  },
+  {
+    "merge": {
+      "translation": "сливать / поглощать / …",
+      "link": "https://word-by-word.ru/words/en-ru/merge"
+    }
+  },
+  {
+    "downhill": {
+      "translation": "под гору / вниз / …",
+      "link": "https://word-by-word.ru/words/en-ru/downhill"
+    }
+  },
+  {
+    "dispute": {
+      "translation": "спор / пререкания / …",
+      "link": "https://word-by-word.ru/words/en-ru/dispute"
+    }
+  },
+  {
+    "shape": {
+      "translation": "придавать форму / формировать / …",
+      "link": "https://word-by-word.ru/en-ru/shape/verb"
+    }
+  },
+  {
+    "exile": {
+      "translation": "изгнание / ссылка / …",
+      "link": "https://word-by-word.ru/words/en-ru/exile"
+    }
+  },
+  {
+    "initiate": {
+      "translation": "начинать / начать / …",
+      "link": "https://word-by-word.ru/words/en-ru/initiate"
+    }
+  },
+  {
+    "reckless": {
+      "translation": "безрассудный / беззаботный / бесшабашный",
+      "link": "https://word-by-word.ru/words/en-ru/reckless"
+    }
+  },
+  {
+    "emit": {
+      "translation": "излучать / издавать / …",
+      "link": "https://word-by-word.ru/words/en-ru/emit"
+    }
+  },
+  {
+    "foul": {
+      "translation": "нарушение правил игры / нарушение правил / …",
+      "link": "https://word-by-word.ru/words/en-ru/foul/noun"
+    }
+  },
+  {
+    "soothing": {
+      "translation": "успокаивающий / успокоительный",
+      "link": "https://word-by-word.ru/words/en-ru/soothing"
+    }
+  },
+  {
+    "ironic": {
+      "translation": "иронический / нелепый / …",
+      "link": "https://word-by-word.ru/words/en-ru/ironic"
+    }
+  },
+  {
+    "yearn": {
+      "translation": "жаждать / тосковать / …",
+      "link": "https://word-by-word.ru/words/en-ru/yearn"
+    }
+  },
+  {
+    "trio": {
+      "translation": "трио / тройка / …",
+      "link": "https://word-by-word.ru/words/en-ru/trio"
+    }
+  },
+  {
+    "burial": {
+      "translation": "похороны / захоронение / …",
+      "link": "https://word-by-word.ru/words/en-ru/burial"
+    }
+  },
+  {
+    "resolution": {
+      "translation": "резолюция / разрешение / …",
+      "link": "https://word-by-word.ru/words/en-ru/resolution"
+    }
+  },
+  {
+    "peep": {
+      "translation": "подглядывать / выглядывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/peep"
+    }
+  },
+  {
+    "barn": {
+      "translation": "амбар / сарай / …",
+      "link": "https://word-by-word.ru/words/en-ru/barn"
+    }
+  },
+  {
+    "reassurance": {
+      "translation": "успокаивание / заверение / …",
+      "link": "https://word-by-word.ru/words/en-ru/reassurance"
+    }
+  },
+  {
+    "longing": {
+      "translation": "страстное желание / стремление / …",
+      "link": "https://word-by-word.ru/words/en-ru/longing"
+    }
+  },
+  {
+    "recollection": {
+      "translation": "воспоминание / собранность / …",
+      "link": "https://word-by-word.ru/words/en-ru/recollection"
+    }
+  },
+  {
+    "anonymous": {
+      "translation": "анонимный / безымянный / …",
+      "link": "https://word-by-word.ru/words/en-ru/anonymous"
+    }
+  },
+  {
+    "persist": {
+      "translation": "сохраняться / упорствовать / …",
+      "link": "https://word-by-word.ru/words/en-ru/persist"
+    }
+  },
+  {
+    "exquisite": {
+      "translation": "изысканный / тонкий / …",
+      "link": "https://word-by-word.ru/words/en-ru/exquisite"
+    }
+  },
+  {
+    "refrain": {
+      "translation": "воздерживаться / удерживаться / …",
+      "link": "https://word-by-word.ru/words/en-ru/refrain"
+    }
+  },
+  {
+    "psychiatrist": {
+      "translation": "психиатр / врач-психиатр",
+      "link": "https://word-by-word.ru/words/en-ru/psychiatrist"
+    }
+  },
+  {
+    "seduce": {
+      "translation": "соблазнять / совращать / …",
+      "link": "https://word-by-word.ru/words/en-ru/seduce"
+    }
+  },
+  {
+    "descendant": {
+      "translation": "потомок / выходец",
+      "link": "https://word-by-word.ru/words/en-ru/descendant"
+    }
+  },
+  {
+    "hail": {
+      "translation": "град / привет / …",
+      "link": "https://word-by-word.ru/words/en-ru/hail/noun"
+    }
+  },
+  {
+    "bland": {
+      "translation": "безвкусный / …",
+      "link": "https://word-by-word.ru/words/en-ru/bland"
+    }
+  },
+  {
+    "devise": {
+      "translation": "задумать / разрабатывать / придумывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/devise"
+    }
+  },
+  {
+    "resignation": {
+      "translation": "отставка / смирение / …",
+      "link": "https://word-by-word.ru/words/en-ru/resignation"
+    }
+  },
+  {
+    "fuel": {
+      "translation": "запасаться топливом (заправляться) / подпитывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/fuel/verb"
+    }
+  },
+  {
+    "vent": {
+      "translation": "вентиляционное отверстие / выход / …",
+      "link": "https://word-by-word.ru/words/en-ru/vent"
+    }
+  },
+  {
+    "vow": {
+      "translation": "клясться / давать обет / …",
+      "link": "https://word-by-word.ru/words/en-ru/vow"
+    }
+  },
+  {
+    "nest": {
+      "translation": "гнездо / …",
+      "link": "https://word-by-word.ru/words/en-ru/nest"
+    }
+  },
+  {
+    "intrude": {
+      "translation": "вторгаться / вмешиваться / …",
+      "link": "https://word-by-word.ru/words/en-ru/intrude"
+    }
+  },
+  {
+    "infinitely": {
+      "translation": "бесконечно / несравненно / …",
+      "link": "https://word-by-word.ru/words/en-ru/infinitely"
+    }
+  },
+  {
+    "uneven": {
+      "translation": "неравномерный / неровный / …",
+      "link": "https://word-by-word.ru/words/en-ru/uneven"
+    }
+  },
+  {
+    "trait": {
+      "translation": "характерная черта / черта характера / …",
+      "link": "https://word-by-word.ru/words/en-ru/trait"
+    }
+  },
+  {
+    "sceptical": {
+      "translation": "скептический / скептически настроенный",
+      "link": "https://word-by-word.ru/words/en-ru/sceptical"
+    }
+  },
+  {
+    "vanity": {
+      "translation": "тщеславие / суета / …",
+      "link": "https://word-by-word.ru/words/en-ru/vanity"
+    }
+  },
+  {
+    "vow": {
+      "translation": "клятва / обет / …",
+      "link": "https://word-by-word.ru/words/en-ru/vow/noun"
+    }
+  },
+  {
+    "frontier": {
+      "translation": "граница / рубеж / …",
+      "link": "https://word-by-word.ru/words/en-ru/frontier"
+    }
+  },
+  {
+    "imitation": {
+      "translation": "имитация / подражание / …",
+      "link": "https://word-by-word.ru/words/en-ru/imitation"
+    }
+  },
+  {
+    "outrage": {
+      "translation": "возмущение / произвол / …",
+      "link": "https://word-by-word.ru/words/en-ru/outrage/noun"
+    }
+  },
+  {
+    "cynical": {
+      "translation": "циничный / бесстыдный",
+      "link": "https://word-by-word.ru/words/en-ru/cynical"
+    }
+  },
+  {
+    "prone": {
+      "translation": "склонный / распростертый / …",
+      "link": "https://word-by-word.ru/words/en-ru/prone"
+    }
+  },
+  {
+    "warehouse": {
+      "translation": "склад / амбар",
+      "link": "https://word-by-word.ru/en-ru/warehouse"
+    }
+  },
+  {
+    "accumulate": {
+      "translation": "аккумулировать / накапливать / …",
+      "link": "https://word-by-word.ru/words/en-ru/accumulate"
+    }
+  },
+  {
+    "deception": {
+      "translation": "обман / хитрость / …",
+      "link": "https://word-by-word.ru/words/en-ru/deception"
+    }
+  },
+  {
+    "reform": {
+      "translation": "реформировать / преобразовывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/reform"
+    }
+  },
+  {
+    "virgin": {
+      "translation": "девственница / дева / …",
+      "link": "https://word-by-word.ru/words/en-ru/virgin"
+    }
+  },
+  {
+    "melody": {
+      "translation": "мелодия / мелодичность",
+      "link": "https://word-by-word.ru/words/en-ru/melody"
+    }
+  },
+  {
+    "intensely": {
+      "translation": "интенсивно / сильно / …",
+      "link": "https://word-by-word.ru/words/en-ru/intensely"
+    }
+  },
+  {
+    "chancellor": {
+      "translation": "канцлер / ректор / …",
+      "link": "https://word-by-word.ru/words/en-ru/chancellor"
+    }
+  },
+  {
+    "charm": {
+      "translation": "очаровывать / прельщать / …",
+      "link": "https://word-by-word.ru/words/en-ru/charm/verb"
+    }
+  },
+  {
+    "orphan": {
+      "translation": "сирота / висячая строка / …",
+      "link": "https://word-by-word.ru/words/en-ru/orphan"
+    }
+  },
+  {
+    "denial": {
+      "translation": "отрицание / отказ / …",
+      "link": "https://word-by-word.ru/words/en-ru/denial"
+    }
+  },
+  {
+    "complexion": {
+      "translation": "цвет кожи / облик / …",
+      "link": "https://word-by-word.ru/words/en-ru/complexion"
+    }
+  },
+  {
+    "smoky": {
+      "translation": "дымный / полный дыма / …",
+      "link": "https://word-by-word.ru/words/en-ru/smoky"
+    }
+  },
+  {
+    "assault": {
+      "translation": "штурмовать / атаковать / …",
+      "link": "https://word-by-word.ru/words/en-ru/assault/verb"
+    }
+  },
+  {
+    "prompt": {
+      "translation": "побуждать / подсказывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/prompt"
+    }
+  },
+  {
+    "heritage": {
+      "translation": "наследие / наследство / …",
+      "link": "https://word-by-word.ru/words/en-ru/heritage"
+    }
+  },
+  {
+    "margin": {
+      "translation": "запас / маржа / …",
+      "link": "https://word-by-word.ru/words/en-ru/margin"
+    }
+  },
+  {
+    "withstand": {
+      "translation": "выдержать / выстоять / …",
+      "link": "https://word-by-word.ru/words/en-ru/withstand"
+    }
+  },
+  {
+    "overboard": {
+      "translation": "за борт / за бортом",
+      "link": "https://word-by-word.ru/words/en-ru/overboard"
+    }
+  },
+  {
+    "vicinity": {
+      "translation": "близость / окрестности / …",
+      "link": "https://word-by-word.ru/words/en-ru/vicinity"
+    }
+  },
+  {
+    "dice": {
+      "translation": "игра в кости / кубик для игры / …",
+      "link": "https://word-by-word.ru/words/en-ru/dice"
+    }
+  },
+  {
+    "heir": {
+      "translation": "наследник / преемник",
+      "link": "https://word-by-word.ru/words/en-ru/heir"
+    }
+  },
+  {
+    "unconsciously": {
+      "translation": "невольно / бессознательно",
+      "link": "https://word-by-word.ru/words/en-ru/unconsciously"
+    }
+  },
+  {
+    "commence": {
+      "translation": "начинать / начинаться",
+      "link": "https://word-by-word.ru/words/en-ru/commence"
+    }
+  },
+  {
+    "uphill": {
+      "translation": "в гору / наверх",
+      "link": "https://word-by-word.ru/words/en-ru/uphill"
+    }
+  },
+  {
+    "deem": {
+      "translation": "считать / полагать / …",
+      "link": "https://word-by-word.ru/words/en-ru/deem"
+    }
+  },
+  {
+    "wrinkle": {
+      "translation": "морщина / складка / …",
+      "link": "https://word-by-word.ru/words/en-ru/wrinkle"
+    }
+  },
+  {
+    "loathe": {
+      "translation": "ненавидеть / …",
+      "link": "https://word-by-word.ru/words/en-ru/loathe"
+    }
+  },
+  {
+    "discretion": {
+      "translation": "усмотрение / осторожность / …",
+      "link": "https://word-by-word.ru/words/en-ru/discretion"
+    }
+  },
+  {
+    "immune": {
+      "translation": "иммунный / невосприимчивый / …",
+      "link": "https://word-by-word.ru/words/en-ru/immune"
+    }
+  },
+  {
+    "hopelessly": {
+      "translation": "безнадежно",
+      "link": "https://word-by-word.ru/en-ru/hopelessly"
+    }
+  },
+  {
+    "coral": {
+      "translation": "коралл",
+      "link": "https://word-by-word.ru/words/en-ru/coral"
+    }
+  },
+  {
+    "sprinkle": {
+      "translation": "посыпать / брызгать / …",
+      "link": "https://word-by-word.ru/words/en-ru/sprinkle"
+    }
+  },
+  {
+    "embarrass": {
+      "translation": "смущать / …",
+      "link": "https://word-by-word.ru/words/en-ru/embarrass"
+    }
+  },
+  {
+    "gamble": {
+      "translation": "азартная игра / рискованное предприятие / …",
+      "link": "https://word-by-word.ru/words/en-ru/gamble"
+    }
+  },
+  {
+    "brink": {
+      "translation": "край / грань / …",
+      "link": "https://word-by-word.ru/words/en-ru/brink"
+    }
+  },
+  {
+    "astronomy": {
+      "translation": "астрономия",
+      "link": "https://word-by-word.ru/words/en-ru/astronomy"
+    }
+  },
+  {
+    "ordeal": {
+      "translation": "жестокая пытка / тяжелое испытание",
+      "link": "https://word-by-word.ru/words/en-ru/ordeal"
+    }
+  },
+  {
+    "millennium": {
+      "translation": "тысячелетие / золотой век",
+      "link": "https://word-by-word.ru/words/en-ru/millennium"
+    }
+  },
+  {
+    "disposition": {
+      "translation": "характер / склонность / …",
+      "link": "https://word-by-word.ru/words/en-ru/disposition"
+    }
+  },
+  {
+    "circuit": {
+      "translation": "часто посещаемое место / контур",
+      "link": "https://word-by-word.ru/words/en-ru/circuit"
+    }
+  },
+  {
+    "crave": {
+      "translation": "жаждать / страстно желать / …",
+      "link": "https://word-by-word.ru/words/en-ru/crave"
+    }
+  },
+  {
+    "indifference": {
+      "translation": "безразличие / равнодушие / …",
+      "link": "https://word-by-word.ru/words/en-ru/indifference"
+    }
+  },
+  {
+    "reasoning": {
+      "translation": "ход мысли / аргументация / …",
+      "link": "https://word-by-word.ru/words/en-ru/reasoning"
+    }
+  },
+  {
+    "charcoal": {
+      "translation": "древесный уголь",
+      "link": "https://word-by-word.ru/words/en-ru/charcoal"
+    }
+  },
+  {
+    "catastrophe": {
+      "translation": "катастрофа / …",
+      "link": "https://word-by-word.ru/words/en-ru/catastrophe"
+    }
+  },
+  {
+    "fanatic": {
+      "translation": "фанатик / изувер",
+      "link": "https://word-by-word.ru/words/en-ru/fanatic"
+    }
+  },
+  {
+    "loft": {
+      "translation": "чердак / верхний этаж / …",
+      "link": "https://word-by-word.ru/en-ru/loft"
+    }
+  },
+  {
+    "intuition": {
+      "translation": "интуиция / наитие / …",
+      "link": "https://word-by-word.ru/words/en-ru/intuition"
+    }
+  },
+  {
+    "woodland": {
+      "translation": "лесистая местность / лесной массив / …",
+      "link": "https://word-by-word.ru/words/en-ru/woodland"
+    }
+  },
+  {
+    "harshly": {
+      "translation": "резко / …",
+      "link": "https://word-by-word.ru/words/en-ru/harshly"
+    }
+  },
+  {
+    "sibling": {
+      "translation": "родной брат / родной брат или сестра / …",
+      "link": "https://word-by-word.ru/words/en-ru/sibling"
+    }
+  },
+  {
+    "fraud": {
+      "translation": "мошенничество / мошенник / …",
+      "link": "https://word-by-word.ru/words/en-ru/fraud"
+    }
+  },
+  {
+    "spur": {
+      "translation": "пришпоривать / подгонять",
+      "link": "https://word-by-word.ru/words/en-ru/spur"
+    }
+  },
+  {
+    "verdict": {
+      "translation": "вердикт / приговор / …",
+      "link": "https://word-by-word.ru/words/en-ru/verdict"
+    }
+  },
+  {
+    "adjacent": {
+      "translation": "примыкающий / смежный / …",
+      "link": "https://word-by-word.ru/words/en-ru/adjacent"
+    }
+  },
+  {
+    "interpretation": {
+      "translation": "толкование / интерпретация / …",
+      "link": "https://word-by-word.ru/words/en-ru/interpretation"
+    }
+  },
+  {
+    "serene": {
+      "translation": "спокойный / безмятежный / …",
+      "link": "https://word-by-word.ru/words/en-ru/serene"
+    }
+  },
+  {
+    "dubious": {
+      "translation": "сомнительный / сомневающийся / …",
+      "link": "https://word-by-word.ru/words/en-ru/dubious"
+    }
+  },
+  {
+    "bet": {
+      "translation": "пари / ставка / …",
+      "link": "https://word-by-word.ru/en-ru/bet/noun"
+    }
+  },
+  {
+    "classical": {
+      "translation": "классический / античный / …",
+      "link": "https://word-by-word.ru/words/en-ru/classical"
+    }
+  },
+  {
+    "transition": {
+      "translation": "переход / переходный период / …",
+      "link": "https://word-by-word.ru/words/en-ru/transition"
+    }
+  },
+  {
+    "overflow": {
+      "translation": "переполнять / переливаться / …",
+      "link": "https://word-by-word.ru/words/en-ru/overflow"
+    }
+  },
+  {
+    "forgiveness": {
+      "translation": "прощение / снисходительность / …",
+      "link": "https://word-by-word.ru/en-ru/forgiveness"
+    }
+  },
+  {
+    "spotlight": {
+      "translation": "прожектор / центр внимания / …",
+      "link": "https://word-by-word.ru/words/en-ru/spotlight"
+    }
+  },
+  {
+    "senseless": {
+      "translation": "бессмысленный / без сознания / …",
+      "link": "https://word-by-word.ru/words/en-ru/senseless"
+    }
+  },
+  {
+    "tenant": {
+      "translation": "арендатор / квартиросъемщик / …",
+      "link": "https://word-by-word.ru/en-ru/tenant"
+    }
+  },
+  {
+    "nurse": {
+      "translation": "кормить / выхаживать / …",
+      "link": "https://word-by-word.ru/words/en-ru/nurse/verb"
+    }
+  },
+  {
+    "voice": {
+      "translation": "высказывать / выражать / …",
+      "link": "https://word-by-word.ru/en-ru/voice/verb"
+    }
+  },
+  {
+    "concession": {
+      "translation": "уступка / концессия / …",
+      "link": "https://word-by-word.ru/words/en-ru/concession"
+    }
+  },
+  {
+    "splendour": {
+      "translation": "великолепие / пышность / …",
+      "link": "https://word-by-word.ru/words/en-ru/splendour"
+    }
+  },
+  {
+    "pitiful": {
+      "translation": "жалкий / жалостный / …",
+      "link": "https://word-by-word.ru/words/en-ru/pitiful"
+    }
+  },
+  {
+    "concede": {
+      "translation": "уступать / признавать / …",
+      "link": "https://word-by-word.ru/words/en-ru/concede"
+    }
+  },
+  {
+    "siren": {
+      "translation": "сирена / бездушная красавица / …",
+      "link": "https://word-by-word.ru/words/en-ru/siren"
+    }
+  },
+  {
+    "inhuman": {
+      "translation": "бесчеловечный / нечеловеческий / …",
+      "link": "https://word-by-word.ru/words/en-ru/inhuman"
+    }
+  },
+  {
+    "facial": {
+      "translation": "лицевой / фациальный",
+      "link": "https://word-by-word.ru/words/en-ru/facial"
+    }
+  },
+  {
+    "turmoil": {
+      "translation": "смятение / …",
+      "link": "https://word-by-word.ru/words/en-ru/turmoil"
+    }
+  },
+  {
+    "lure": {
+      "translation": "приманка / соблазн / …",
+      "link": "https://word-by-word.ru/words/en-ru/lure"
+    }
+  },
+  {
+    "pinpoint": {
+      "translation": "точно определять / бомбардировать точечную цель / …",
+      "link": "https://word-by-word.ru/words/en-ru/pinpoint"
+    }
+  },
+  {
+    "whim": {
+      "translation": "прихоть / каприз / …",
+      "link": "https://word-by-word.ru/words/en-ru/whim"
+    }
+  },
+  {
+    "sentimental": {
+      "translation": "сентиментальный / чувствительный / …",
+      "link": "https://word-by-word.ru/words/en-ru/sentimental"
+    }
+  },
+  {
+    "plausible": {
+      "translation": "правдоподобный / вероятный / …",
+      "link": "https://word-by-word.ru/words/en-ru/plausible"
+    }
+  },
+  {
+    "blackmail": {
+      "translation": "шантаж / вымогательство / …",
+      "link": "https://word-by-word.ru/words/en-ru/blackmail"
+    }
+  },
+  {
+    "irrational": {
+      "translation": "нерациональный / неразумный / …",
+      "link": "https://word-by-word.ru/words/en-ru/irrational"
+    }
+  },
+  {
+    "vaccination": {
+      "translation": "вакцинация / прививка / …",
+      "link": "https://word-by-word.ru/words/en-ru/vaccination"
+    }
+  },
+  {
+    "lure": {
+      "translation": "завлекать / соблазнять / …",
+      "link": "https://word-by-word.ru/words/en-ru/lure/verb"
+    }
+  },
+  {
+    "bond": {
+      "translation": "связывать / скреплять / …",
+      "link": "https://word-by-word.ru/words/en-ru/bond/verb"
+    }
+  },
+  {
+    "imminent": {
+      "translation": "надвигающийся / неизбежный / …",
+      "link": "https://word-by-word.ru/words/en-ru/imminent"
+    }
+  },
+  {
+    "predecessor": {
+      "translation": "предшественник / предок / …",
+      "link": "https://word-by-word.ru/words/en-ru/predecessor"
+    }
+  },
+  {
+    "dialect": {
+      "translation": "диалект / говор / …",
+      "link": "https://word-by-word.ru/words/en-ru/dialect"
+    }
+  },
+  {
+    "tenderness": {
+      "translation": "нежность / ласка / …",
+      "link": "https://word-by-word.ru/words/en-ru/tenderness"
+    }
+  },
+  {
+    "trauma": {
+      "translation": "травма / …",
+      "link": "https://word-by-word.ru/words/en-ru/trauma"
+    }
+  },
+  {
+    "originate": {
+      "translation": "происходить / возникать / …",
+      "link": "https://word-by-word.ru/words/en-ru/originate"
+    }
+  },
+  {
+    "indicator": {
+      "translation": "индикатор / показатель / …",
+      "link": "https://word-by-word.ru/words/en-ru/indicator"
+    }
+  },
+  {
+    "inheritance": {
+      "translation": "наследование / наследство / …",
+      "link": "https://word-by-word.ru/words/en-ru/inheritance"
+    }
+  },
+  {
+    "obscene": {
+      "translation": "непристойный / …",
+      "link": "https://word-by-word.ru/words/en-ru/obscene"
+    }
+  },
+  {
+    "apologetic": {
+      "translation": "извиняющийся / апологетический / …",
+      "link": "https://word-by-word.ru/words/en-ru/apologetic"
+    }
+  },
+  {
+    "faraway": {
+      "translation": "далекий / отдаленный / …",
+      "link": "https://word-by-word.ru/words/en-ru/faraway"
+    }
+  },
+  {
+    "withdrawal": {
+      "translation": "изъятие / уход / …",
+      "link": "https://word-by-word.ru/words/en-ru/withdrawal"
+    }
+  },
+  {
+    "foremost": {
+      "translation": "выдающийся / передовой / …",
+      "link": "https://word-by-word.ru/words/en-ru/foremost"
+    }
+  },
+  {
+    "kidney": {
+      "translation": "почка / склад характера / …",
+      "link": "https://word-by-word.ru/words/en-ru/kidney"
+    }
+  },
+  {
+    "experimental": {
+      "translation": "экспериментальный / …",
+      "link": "https://word-by-word.ru/words/en-ru/experimental"
+    }
+  },
+  {
+    "dignified": {
+      "translation": "полный достоинства / достойный / …",
+      "link": "https://word-by-word.ru/words/en-ru/dignified"
+    }
+  },
+  {
+    "daresay": {
+      "translation": "осмелиться сказать или предположить",
+      "link": "https://word-by-word.ru/en-ru/daresay"
+    }
+  },
+  {
+    "bloody": {
+      "translation": "чертовски / очень",
+      "link": "https://word-by-word.ru/words/en-ru/bloody/adverb"
+    }
+  },
+  {
+    "rosy": {
+      "translation": "румяный / радужный / …",
+      "link": "https://word-by-word.ru/words/en-ru/rosy"
+    }
+  },
+  {
+    "tribute": {
+      "translation": "дань / …",
+      "link": "https://word-by-word.ru/words/en-ru/tribute"
+    }
+  },
+  {
+    "integrity": {
+      "translation": "целостность / честность / …",
+      "link": "https://word-by-word.ru/en-ru/integrity"
+    }
+  },
+  {
+    "remorse": {
+      "translation": "раскаяние / угрызения совести / …",
+      "link": "https://word-by-word.ru/words/en-ru/remorse"
+    }
+  },
+  {
+    "coldness": {
+      "translation": "холод / холодность / …",
+      "link": "https://word-by-word.ru/words/en-ru/coldness"
+    }
+  },
+  {
+    "would-be": {
+      "translation": "мнимый / потенциальный",
+      "link": "https://word-by-word.ru/words/en-ru/would-be"
+    }
+  },
+  {
+    "depict": {
+      "translation": "изображать / описывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/depict"
+    }
+  },
+  {
+    "intrusion": {
+      "translation": "вторжение / внедрение / …",
+      "link": "https://word-by-word.ru/words/en-ru/intrusion"
+    }
+  },
+  {
+    "respectfully": {
+      "translation": "почтительно / уважительно / …",
+      "link": "https://word-by-word.ru/words/en-ru/respectfully"
+    }
+  },
+  {
+    "rash": {
+      "translation": "сыпь / кожная сыпь / …",
+      "link": "https://word-by-word.ru/words/en-ru/rash"
+    }
+  },
+  {
+    "tractor": {
+      "translation": "трактор / …",
+      "link": "https://word-by-word.ru/words/en-ru/tractor"
+    }
+  },
+  {
+    "prosecution": {
+      "translation": "судебное преследование / обвинение / …",
+      "link": "https://word-by-word.ru/words/en-ru/prosecution"
+    }
+  },
+  {
+    "spade": {
+      "translation": "лопата / заступ",
+      "link": "https://word-by-word.ru/words/en-ru/spade"
+    }
+  },
+  {
+    "relentless": {
+      "translation": "безжалостный / неумолимый / …",
+      "link": "https://word-by-word.ru/words/en-ru/relentless"
+    }
+  },
+  {
+    "animated": {
+      "translation": "мультипликационный / …",
+      "link": "https://word-by-word.ru/words/en-ru/animated"
+    }
+  },
+  {
+    "succumb": {
+      "translation": "поддаться / не выдержать / …",
+      "link": "https://word-by-word.ru/words/en-ru/succumb"
+    }
+  },
+  {
+    "irresistible": {
+      "translation": "неотразимый / непреодолимый / …",
+      "link": "https://word-by-word.ru/words/en-ru/irresistible"
+    }
+  },
+  {
+    "ornament": {
+      "translation": "орнамент / украшение / …",
+      "link": "https://word-by-word.ru/words/en-ru/ornament"
+    }
+  },
+  {
+    "affectionate": {
+      "translation": "любящий / ласковый / …",
+      "link": "https://word-by-word.ru/words/en-ru/affectionate"
+    }
+  },
+  {
+    "scrutiny": {
+      "translation": "изучение / внимательное изучение / …",
+      "link": "https://word-by-word.ru/words/en-ru/scrutiny"
+    }
+  },
+  {
+    "inclination": {
+      "translation": "наклон / склонность / …",
+      "link": "https://word-by-word.ru/words/en-ru/inclination"
+    }
+  },
+  {
+    "offspring": {
+      "translation": "потомок / отпрыск / …",
+      "link": "https://word-by-word.ru/words/en-ru/offspring"
+    }
+  },
+  {
+    "fundamental": {
+      "translation": "фундаментальный / основной / …",
+      "link": "https://word-by-word.ru/words/en-ru/fundamental"
+    }
+  },
+  {
+    "courteous": {
+      "translation": "вежливый / любезный / …",
+      "link": "https://word-by-word.ru/words/en-ru/courteous"
+    }
+  },
+  {
+    "reign": {
+      "translation": "царствовать / господствовать / …",
+      "link": "https://word-by-word.ru/words/en-ru/reign/verb"
+    }
+  },
+  {
+    "morale": {
+      "translation": "моральное состояние / боевой дух / …",
+      "link": "https://word-by-word.ru/words/en-ru/morale"
+    }
+  },
+  {
+    "propaganda": {
+      "translation": "пропаганда / пропагандистский материал",
+      "link": "https://word-by-word.ru/words/en-ru/propaganda"
+    }
+  },
+  {
+    "coup": {
+      "translation": "удачный ход / государственный переворот / …",
+      "link": "https://word-by-word.ru/words/en-ru/coup"
+    }
+  },
+  {
+    "feat": {
+      "translation": "подвиг / достижение",
+      "link": "https://word-by-word.ru/en-ru/feat"
+    }
+  },
+  {
+    "sample": {
+      "translation": "отбирать образцы / пробовать / …",
+      "link": "https://word-by-word.ru/words/en-ru/sample/verb"
+    }
+  },
+  {
+    "deceased": {
+      "translation": "скончавшийся / покойный / …",
+      "link": "https://word-by-word.ru/words/en-ru/deceased"
+    }
+  },
+  {
+    "intent": {
+      "translation": "решительный / сосредоточенный",
+      "link": "https://word-by-word.ru/words/en-ru/intent/adjective"
+    }
+  },
+  {
+    "timid": {
+      "translation": "робкий / …",
+      "link": "https://word-by-word.ru/words/en-ru/timid"
+    }
+  },
+  {
+    "vent": {
+      "translation": "изливать / выпускать / …",
+      "link": "https://word-by-word.ru/words/en-ru/vent/verb"
+    }
+  },
+  {
+    "whereabouts": {
+      "translation": "где / где? / …",
+      "link": "https://word-by-word.ru/words/en-ru/whereabouts"
+    }
+  },
+  {
+    "intensify": {
+      "translation": "усиливать / …",
+      "link": "https://word-by-word.ru/words/en-ru/intensify"
+    }
+  },
+  {
+    "frenzy": {
+      "translation": "неистовство / бешенство / …",
+      "link": "https://word-by-word.ru/words/en-ru/frenzy"
+    }
+  },
+  {
+    "refine": {
+      "translation": "усовершенствовать / очищать / …",
+      "link": "https://word-by-word.ru/words/en-ru/refine"
+    }
+  },
+  {
+    "medication": {
+      "translation": "лекарство / лечение / …",
+      "link": "https://word-by-word.ru/words/en-ru/medication"
+    }
+  },
+  {
+    "glue": {
+      "translation": "склеивать / клеить / …",
+      "link": "https://word-by-word.ru/words/en-ru/glue"
+    }
+  },
+  {
+    "persistent": {
+      "translation": "настойчивый / устойчивый / …",
+      "link": "https://word-by-word.ru/words/en-ru/persistent"
+    }
+  },
+  {
+    "amend": {
+      "translation": "исправлять / вносить поправки / …",
+      "link": "https://word-by-word.ru/words/en-ru/amend"
+    }
+  },
+  {
+    "metaphor": {
+      "translation": "метафора",
+      "link": "https://word-by-word.ru/words/en-ru/metaphor"
+    }
+  },
+  {
+    "tranquillity": {
+      "translation": "спокойствие / …",
+      "link": "https://word-by-word.ru/words/en-ru/tranquillity"
+    }
+  },
+  {
+    "maximise": {
+      "translation": "максимизировать / максимально увеличивать / …",
+      "link": "https://word-by-word.ru/words/en-ru/maximise"
+    }
+  },
+  {
+    "intellect": {
+      "translation": "интеллект / ум / …",
+      "link": "https://word-by-word.ru/words/en-ru/intellect"
+    }
+  },
+  {
+    "elusive": {
+      "translation": "неуловимый / ускользающий / …",
+      "link": "https://word-by-word.ru/words/en-ru/elusive"
+    }
+  },
+  {
+    "sarcastic": {
+      "translation": "саркастический / едкий",
+      "link": "https://word-by-word.ru/words/en-ru/sarcastic"
+    }
+  },
+  {
+    "adolescent": {
+      "translation": "подросток / юноша / …",
+      "link": "https://word-by-word.ru/words/en-ru/adolescent"
+    }
+  },
+  {
+    "retreat": {
+      "translation": "отступление / убежище / …",
+      "link": "https://word-by-word.ru/words/en-ru/retreat/noun"
+    }
+  },
+  {
+    "injection": {
+      "translation": "инъекция / впрыск / …",
+      "link": "https://word-by-word.ru/words/en-ru/injection"
+    }
+  },
+  {
+    "intolerable": {
+      "translation": "невыносимый / недопустимый / …",
+      "link": "https://word-by-word.ru/words/en-ru/intolerable"
+    }
+  },
+  {
+    "allied": {
+      "translation": "союзный / союзнический / …",
+      "link": "https://word-by-word.ru/words/en-ru/allied"
+    }
+  },
+  {
+    "fragrance": {
+      "translation": "аромат / благоухание / …",
+      "link": "https://word-by-word.ru/words/en-ru/fragrance"
+    }
+  },
+  {
+    "resolve": {
+      "translation": "решительность / решимость / …",
+      "link": "https://word-by-word.ru/words/en-ru/resolve/noun"
+    }
+  },
+  {
+    "legacy": {
+      "translation": "наследие / наследство / …",
+      "link": "https://word-by-word.ru/words/en-ru/legacy"
+    }
+  },
+  {
+    "plague": {
+      "translation": "мучить / досаждать / …",
+      "link": "https://word-by-word.ru/words/en-ru/plague/verb"
+    }
+  },
+  {
+    "merciful": {
+      "translation": "милосердный / милостивый / …",
+      "link": "https://word-by-word.ru/words/en-ru/merciful"
+    }
+  },
+  {
+    "ethic": {
+      "translation": "этика / …",
+      "link": "https://word-by-word.ru/words/en-ru/ethic"
+    }
+  },
+  {
+    "massacre": {
+      "translation": "резня / бойня / …",
+      "link": "https://word-by-word.ru/words/en-ru/massacre"
+    }
+  },
+  {
+    "inexplicable": {
+      "translation": "необъяснимый / непонятный",
+      "link": "https://word-by-word.ru/words/en-ru/inexplicable"
+    }
+  },
+  {
+    "profoundly": {
+      "translation": "глубоко / …",
+      "link": "https://word-by-word.ru/words/en-ru/profoundly"
+    }
+  },
+  {
+    "reunion": {
+      "translation": "воссоединение / встреча после длительного перерыва / …",
+      "link": "https://word-by-word.ru/words/en-ru/reunion"
+    }
+  },
+  {
+    "pity": {
+      "translation": "жалеть / …",
+      "link": "https://word-by-word.ru/words/en-ru/pity/verb"
+    }
+  },
+  {
+    "complexity": {
+      "translation": "сложность / запутанность / …",
+      "link": "https://word-by-word.ru/words/en-ru/complexity"
+    }
+  },
+  {
+    "lecture": {
+      "translation": "читать лекции / преподавать / поучать / …",
+      "link": "https://word-by-word.ru/words/en-ru/lecture/verb"
+    }
+  },
+  {
+    "blackmail": {
+      "translation": "шантажировать / вымогать деньги",
+      "link": "https://word-by-word.ru/words/en-ru/blackmail/verb"
+    }
+  },
+  {
+    "proximity": {
+      "translation": "близость / соседство / …",
+      "link": "https://word-by-word.ru/words/en-ru/proximity"
+    }
+  },
+  {
+    "needless": {
+      "translation": "ненужный / излишний / …",
+      "link": "https://word-by-word.ru/words/en-ru/needless"
+    }
+  },
+  {
+    "troublesome": {
+      "translation": "причиняющий беспокойство / хлопотный / …",
+      "link": "https://word-by-word.ru/words/en-ru/troublesome"
+    }
+  },
+  {
+    "vaccinate": {
+      "translation": "делать прививку / вакцинировать / …",
+      "link": "https://word-by-word.ru/words/en-ru/vaccinate"
+    }
+  },
+  {
+    "serenity": {
+      "translation": "спокойствие / ясность / …",
+      "link": "https://word-by-word.ru/words/en-ru/serenity"
+    }
+  },
+  {
+    "accord": {
+      "translation": "соглашение / согласие / …",
+      "link": "https://word-by-word.ru/words/en-ru/accord"
+    }
+  },
+  {
+    "philosophical": {
+      "translation": "философский / мудрый / …",
+      "link": "https://word-by-word.ru/words/en-ru/philosophical"
+    }
+  },
+  {
+    "hang": {
+      "translation": "вид / …",
+      "link": "https://word-by-word.ru/words/en-ru/hang/noun"
+    }
+  },
+  {
+    "malicious": {
+      "translation": "злонамеренный / злобный / …",
+      "link": "https://word-by-word.ru/words/en-ru/malicious"
+    }
+  },
+  {
+    "invariably": {
+      "translation": "неизменно / беспеременно / …",
+      "link": "https://word-by-word.ru/words/en-ru/invariably"
+    }
+  },
+  {
+    "illiterate": {
+      "translation": "неграмотный / безграмотный / …",
+      "link": "https://word-by-word.ru/words/en-ru/illiterate"
+    }
+  },
+  {
+    "theoretical": {
+      "translation": "теоретический / умозрительный / …",
+      "link": "https://word-by-word.ru/words/en-ru/theoretical"
+    }
+  },
+  {
+    "representation": {
+      "translation": "представительство / представление / …",
+      "link": "https://word-by-word.ru/words/en-ru/representation"
+    }
+  },
+  {
+    "rally": {
+      "translation": "митинг / ралли / …",
+      "link": "https://word-by-word.ru/words/en-ru/rally/noun"
+    }
+  },
+  {
+    "dazzling": {
+      "translation": "великолепный / …",
+      "link": "https://word-by-word.ru/words/en-ru/dazzling"
+    }
+  },
+  {
+    "decay": {
+      "translation": "распад / разрушение / …",
+      "link": "https://word-by-word.ru/words/en-ru/decay/noun"
+    }
+  },
+  {
+    "disclose": {
+      "translation": "раскрывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/disclose"
+    }
+  },
+  {
+    "founder": {
+      "translation": "основатель / учредитель / …",
+      "link": "https://word-by-word.ru/words/en-ru/founder"
+    }
+  },
+  {
+    "sincerity": {
+      "translation": "искренность / честность / …",
+      "link": "https://word-by-word.ru/words/en-ru/sincerity"
+    }
+  },
+  {
+    "deduce": {
+      "translation": "выводить / делать вывод / …",
+      "link": "https://word-by-word.ru/words/en-ru/deduce"
+    }
+  },
+  {
+    "endurance": {
+      "translation": "выносливость / …",
+      "link": "https://word-by-word.ru/words/en-ru/endurance"
+    }
+  },
+  {
+    "conception": {
+      "translation": "концепция / представление / …",
+      "link": "https://word-by-word.ru/words/en-ru/conception"
+    }
+  },
+  {
+    "rival": {
+      "translation": "соперничать / конкурировать",
+      "link": "https://word-by-word.ru/words/en-ru/rival/verb"
+    }
+  },
+  {
+    "lawsuit": {
+      "translation": "судебный процесс / иск / …",
+      "link": "https://word-by-word.ru/words/en-ru/lawsuit"
+    }
+  },
+  {
+    "cap": {
+      "translation": "надевать шапку / покрывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/cap/verb"
+    }
+  },
+  {
+    "tolerance": {
+      "translation": "толерантность / терпимость / …",
+      "link": "https://word-by-word.ru/words/en-ru/tolerance"
+    }
+  },
+  {
+    "coherent": {
+      "translation": "связный / последовательный / …",
+      "link": "https://word-by-word.ru/words/en-ru/coherent"
+    }
+  },
+  {
+    "fertile": {
+      "translation": "плодородный / плодовитый / …",
+      "link": "https://word-by-word.ru/words/en-ru/fertile"
+    }
+  },
+  {
+    "fragrant": {
+      "translation": "ароматный / благоухающий / …",
+      "link": "https://word-by-word.ru/words/en-ru/fragrant"
+    }
+  },
+  {
+    "overlap": {
+      "translation": "перекрывать / частично совпадать / …",
+      "link": "https://word-by-word.ru/words/en-ru/overlap"
+    }
+  },
+  {
+    "reproach": {
+      "translation": "упрек / позор / …",
+      "link": "https://word-by-word.ru/words/en-ru/reproach"
+    }
+  },
+  {
+    "circulation": {
+      "translation": "циркуляция / кровообращение / …",
+      "link": "https://word-by-word.ru/words/en-ru/circulation"
+    }
+  },
+  {
+    "consistent": {
+      "translation": "последовательный / совместимый / …",
+      "link": "https://word-by-word.ru/words/en-ru/consistent"
+    }
+  },
+  {
+    "blister": {
+      "translation": "волдырь / блистер / …",
+      "link": "https://word-by-word.ru/words/en-ru/blister/noun"
+    }
+  },
+  {
+    "restriction": {
+      "translation": "ограничение / сужение / …",
+      "link": "https://word-by-word.ru/words/en-ru/restriction"
+    }
+  },
+  {
+    "delegation": {
+      "translation": "делегация / делегирование / …",
+      "link": "https://word-by-word.ru/words/en-ru/delegation"
+    }
+  },
+  {
+    "juggle": {
+      "translation": "жонглировать / совмещать / …",
+      "link": "https://word-by-word.ru/words/en-ru/juggle"
+    }
+  },
+  {
+    "gasp": {
+      "translation": "вздох / удушье / …",
+      "link": "https://word-by-word.ru/words/en-ru/gasp/noun"
+    }
+  },
+  {
+    "hypothesis": {
+      "translation": "гипотеза / предположение / …",
+      "link": "https://word-by-word.ru/words/en-ru/hypothesis"
+    }
+  },
+  {
+    "fearless": {
+      "translation": "бесстрашный / неустрашимый / …",
+      "link": "https://word-by-word.ru/words/en-ru/fearless"
+    }
+  },
+  {
+    "underlying": {
+      "translation": "лежащий в основе чего-либо / основной / …",
+      "link": "https://word-by-word.ru/words/en-ru/underlying"
+    }
+  },
+  {
+    "rejection": {
+      "translation": "отказ / непринятие / …",
+      "link": "https://word-by-word.ru/words/en-ru/rejection"
+    }
+  },
+  {
+    "relish": {
+      "translation": "наслаждаться / получать удовольствие / …",
+      "link": "https://word-by-word.ru/en-ru/relish"
+    }
+  },
+  {
+    "precedent": {
+      "translation": "прецедент",
+      "link": "https://word-by-word.ru/words/en-ru/precedent"
+    }
+  },
+  {
+    "starvation": {
+      "translation": "голод / голодная смерть / …",
+      "link": "https://word-by-word.ru/words/en-ru/starvation"
+    }
+  },
+  {
+    "ethical": {
+      "translation": "этический / нравственный / …",
+      "link": "https://word-by-word.ru/words/en-ru/ethical"
+    }
+  },
+  {
+    "stranded": {
+      "translation": "в затруднительном положении",
+      "link": "https://word-by-word.ru/words/en-ru/stranded"
+    }
+  },
+  {
+    "framework": {
+      "translation": "рамки / основа / …",
+      "link": "https://word-by-word.ru/words/en-ru/framework"
+    }
+  },
+  {
+    "stitch": {
+      "translation": "стежок / шов / …",
+      "link": "https://word-by-word.ru/words/en-ru/stitch/noun"
+    }
+  },
+  {
+    "optimism": {
+      "translation": "оптимизм / вселяющий оптимизм",
+      "link": "https://word-by-word.ru/words/en-ru/optimism"
+    }
+  },
+  {
+    "incorporate": {
+      "translation": "включать / объединять / …",
+      "link": "https://word-by-word.ru/words/en-ru/incorporate"
+    }
+  },
+  {
+    "persuasion": {
+      "translation": "убеждение / убедительность / …",
+      "link": "https://word-by-word.ru/words/en-ru/persuasion"
+    }
+  },
+  {
+    "prosecute": {
+      "translation": "преследовать в судебном порядке / преследовать / …",
+      "link": "https://word-by-word.ru/words/en-ru/prosecute"
+    }
+  },
+  {
+    "relish": {
+      "translation": "удовольствие / приправа / …",
+      "link": "https://word-by-word.ru/words/en-ru/relish/noun"
+    }
+  },
+  {
+    "superiority": {
+      "translation": "превосходство / …",
+      "link": "https://word-by-word.ru/words/en-ru/superiority"
+    }
+  },
+  {
+    "advocate": {
+      "translation": "адвокат / сторонник / …",
+      "link": "https://word-by-word.ru/words/en-ru/advocate"
+    }
+  },
+  {
+    "backward": {
+      "translation": "отсталый / обратный / …",
+      "link": "https://word-by-word.ru/words/en-ru/backward/adjective"
+    }
+  },
+  {
+    "repetition": {
+      "translation": "повторение / …",
+      "link": "https://word-by-word.ru/words/en-ru/repetition"
+    }
+  },
+  {
+    "caution": {
+      "translation": "предостерегать / предупреждать",
+      "link": "https://word-by-word.ru/words/en-ru/caution/verb"
+    }
+  },
+  {
+    "output": {
+      "translation": "выход / производительность / …",
+      "link": "https://word-by-word.ru/words/en-ru/output"
+    }
+  },
+  {
+    "counter": {
+      "translation": "обратно / вразрез / …",
+      "link": "https://word-by-word.ru/words/en-ru/counter/adverb"
+    }
+  },
+  {
+    "tangible": {
+      "translation": "ощутимый / реальный / …",
+      "link": "https://word-by-word.ru/words/en-ru/tangible"
+    }
+  },
+  {
+    "channel": {
+      "translation": "направлять / пускать / …",
+      "link": "https://word-by-word.ru/words/en-ru/channel/verb"
+    }
+  },
+  {
+    "indefinitely": {
+      "translation": "на неопределенное время / …",
+      "link": "https://word-by-word.ru/words/en-ru/indefinitely"
+    }
+  },
+  {
+    "withdrawn": {
+      "translation": "ушедший в себя",
+      "link": "https://word-by-word.ru/words/en-ru/withdrawn"
+    }
+  },
+  {
+    "theoretically": {
+      "translation": "теоретически / гипотетически / …",
+      "link": "https://word-by-word.ru/words/en-ru/theoretically"
+    }
+  },
+  {
+    "novelty": {
+      "translation": "новизна / новинка / …",
+      "link": "https://word-by-word.ru/words/en-ru/novelty"
+    }
+  },
+  {
+    "symbolic": {
+      "translation": "символический / …",
+      "link": "https://word-by-word.ru/words/en-ru/symbolic"
+    }
+  },
+  {
+    "tribal": {
+      "translation": "племенной / родовой",
+      "link": "https://word-by-word.ru/words/en-ru/tribal"
+    }
+  },
+  {
+    "flawless": {
+      "translation": "безупречный / без изъяна / …",
+      "link": "https://word-by-word.ru/words/en-ru/flawless"
+    }
+  },
+  {
+    "unwise": {
+      "translation": "неразумный / неумный / …",
+      "link": "https://word-by-word.ru/words/en-ru/unwise"
+    }
+  },
+  {
+    "contradiction": {
+      "translation": "противоречие / опровержение / …",
+      "link": "https://word-by-word.ru/words/en-ru/contradiction"
+    }
+  },
+  {
+    "murmur": {
+      "translation": "ропот / приглушенный шум / …",
+      "link": "https://word-by-word.ru/words/en-ru/murmur/noun"
+    }
+  },
+  {
+    "humility": {
+      "translation": "смирение / скромность / …",
+      "link": "https://word-by-word.ru/words/en-ru/humility"
+    }
+  },
+  {
+    "dependence": {
+      "translation": "зависимость / подчинение / …",
+      "link": "https://word-by-word.ru/words/en-ru/dependence"
+    }
+  },
+  {
+    "sadden": {
+      "translation": "опечалить / печалить / …",
+      "link": "https://word-by-word.ru/words/en-ru/sadden"
+    }
+  },
+  {
+    "coastline": {
+      "translation": "береговая линия / береговая черта / …",
+      "link": "https://word-by-word.ru/words/en-ru/coastline"
+    }
+  },
+  {
+    "continental": {
+      "translation": "континентальный / материковый / …",
+      "link": "https://word-by-word.ru/words/en-ru/continental"
+    }
+  },
+  {
+    "junior": {
+      "translation": "юниорка / младший / …",
+      "link": "https://word-by-word.ru/words/en-ru/junior/noun"
+    }
+  },
+  {
+    "albeit": {
+      "translation": "хотя / …",
+      "link": "https://word-by-word.ru/words/en-ru/albeit"
+    }
+  },
+  {
+    "quote": {
+      "translation": "цитата / кавычки / …",
+      "link": "https://word-by-word.ru/words/en-ru/quote/noun"
+    }
+  },
+  {
+    "paradox": {
+      "translation": "парадокс / парадоксальное явление",
+      "link": "https://word-by-word.ru/words/en-ru/paradox"
+    }
+  },
+  {
+    "sympathize": {
+      "translation": "сочувствовать / симпатизировать / …",
+      "link": "https://word-by-word.ru/words/en-ru/sympathize"
+    }
+  },
+  {
+    "sympathise": {
+      "translation": "сочувствовать / симпатизировать / …",
+      "link": "https://word-by-word.ru/words/en-ru/sympathise"
+    }
+  },
+  {
+    "suspense": {
+      "translation": "неизвестность / напряжение / …",
+      "link": "https://word-by-word.ru/words/en-ru/suspense"
+    }
+  },
+  {
+    "consent": {
+      "translation": "соглашаться / …",
+      "link": "https://word-by-word.ru/words/en-ru/consent/verb"
+    }
+  },
+  {
+    "reconcile": {
+      "translation": "примирять / согласовать / …",
+      "link": "https://word-by-word.ru/words/en-ru/reconcile"
+    }
+  },
+  {
+    "ongoing": {
+      "translation": "продолжающийся / постоянный / …",
+      "link": "https://word-by-word.ru/words/en-ru/ongoing"
+    }
+  },
+  {
+    "merciless": {
+      "translation": "беспощадный / безжалостный / …",
+      "link": "https://word-by-word.ru/words/en-ru/merciless"
+    }
+  },
+  {
+    "literal": {
+      "translation": "буквальный / буквенный / …",
+      "link": "https://word-by-word.ru/words/en-ru/literal"
+    }
+  },
+  {
+    "intervention": {
+      "translation": "вмешательство / интервенция / …",
+      "link": "https://word-by-word.ru/words/en-ru/intervention"
+    }
+  },
+  {
+    "vitality": {
+      "translation": "жизнеспособность / энергичность / …",
+      "link": "https://word-by-word.ru/words/en-ru/vitality"
+    }
+  },
+  {
+    "expire": {
+      "translation": "истекать / истечь / …",
+      "link": "https://word-by-word.ru/words/en-ru/expire"
+    }
+  },
+  {
+    "prescribe": {
+      "translation": "предписывать / прописывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/prescribe"
+    }
+  },
+  {
+    "contrast": {
+      "translation": "контрастировать / сопоставлять / …",
+      "link": "https://word-by-word.ru/words/en-ru/contrast/verb"
+    }
+  },
+  {
+    "medium": {
+      "translation": "средство / медиум / …",
+      "link": "https://word-by-word.ru/en-ru/medium/noun"
+    }
+  },
+  {
+    "throne": {
+      "translation": "трон / престол",
+      "link": "https://word-by-word.ru/words/en-ru/throne"
+    }
+  },
+  {
+    "relentlessly": {
+      "translation": "неумолимо / беспрестанно / …",
+      "link": "https://word-by-word.ru/words/en-ru/relentlessly"
+    }
+  },
+  {
+    "intriguing": {
+      "translation": "увлекательный / …",
+      "link": "https://word-by-word.ru/words/en-ru/intriguing"
+    }
+  },
+  {
+    "disposed": {
+      "translation": "склонный",
+      "link": "https://word-by-word.ru/words/en-ru/disposed"
+    }
+  },
+  {
+    "filter": {
+      "translation": "фильтр / фильтрация / …",
+      "link": "https://word-by-word.ru/words/en-ru/filter/noun"
+    }
+  },
+  {
+    "perfect": {
+      "translation": "совершенствовать / улучшать / …",
+      "link": "https://word-by-word.ru/words/en-ru/perfect/verb"
+    }
+  },
+  {
+    "conversion": {
+      "translation": "переход / превращение / …",
+      "link": "https://word-by-word.ru/words/en-ru/conversion"
+    }
+  },
+  {
+    "regime": {
+      "translation": "режим / строй / …",
+      "link": "https://word-by-word.ru/words/en-ru/regime"
+    }
+  },
+  {
+    "undermine": {
+      "translation": "подрывать / разрушать / …",
+      "link": "https://word-by-word.ru/words/en-ru/undermine"
+    }
+  },
+  {
+    "erode": {
+      "translation": "разъедать / разрушать / …",
+      "link": "https://word-by-word.ru/words/en-ru/erode"
+    }
+  },
+  {
+    "toddler": {
+      "translation": "ребенок / ползунок / …",
+      "link": "https://word-by-word.ru/words/en-ru/toddler"
+    }
+  },
+  {
+    "irritable": {
+      "translation": "раздражительный / раздражимый / …",
+      "link": "https://word-by-word.ru/words/en-ru/irritable"
+    }
+  },
+  {
+    "uphold": {
+      "translation": "поддерживать / подтверждать / …",
+      "link": "https://word-by-word.ru/words/en-ru/uphold"
+    }
+  },
+  {
+    "attribute": {
+      "translation": "атрибут / отличительная черта / …",
+      "link": "https://word-by-word.ru/words/en-ru/attribute/noun"
+    }
+  },
+  {
+    "extravagant": {
+      "translation": "экстравагантный / расточительный / …",
+      "link": "https://word-by-word.ru/words/en-ru/extravagant"
+    }
+  },
+  {
+    "logically": {
+      "translation": "логически / …",
+      "link": "https://word-by-word.ru/words/en-ru/logically"
+    }
+  },
+  {
+    "chapel": {
+      "translation": "часовня / …",
+      "link": "https://word-by-word.ru/words/en-ru/chapel"
+    }
+  },
+  {
+    "glue": {
+      "translation": "клей / склеивание / …",
+      "link": "https://word-by-word.ru/words/en-ru/glue/noun"
+    }
+  },
+  {
+    "consultation": {
+      "translation": "консультация / консилиум / …",
+      "link": "https://word-by-word.ru/words/en-ru/consultation"
+    }
+  },
+  {
+    "unprecedented": {
+      "translation": "беспрецедентный / беспримерный / …",
+      "link": "https://word-by-word.ru/words/en-ru/unprecedented"
+    }
+  },
+  {
+    "provincial": {
+      "translation": "провинциальный / местный / …",
+      "link": "https://word-by-word.ru/words/en-ru/provincial"
+    }
+  },
+  {
+    "expressive": {
+      "translation": "выразительный / …",
+      "link": "https://word-by-word.ru/words/en-ru/expressive"
+    }
+  },
+  {
+    "extremist": {
+      "translation": "экстремист / сторонник крайних мер / …",
+      "link": "https://word-by-word.ru/words/en-ru/extremist"
+    }
+  },
+  {
+    "finance": {
+      "translation": "финансировать / управлять финансами",
+      "link": "https://word-by-word.ru/words/en-ru/finance/verb"
+    }
+  },
+  {
+    "lifelong": {
+      "translation": "пожизненный / жизненный / …",
+      "link": "https://word-by-word.ru/words/en-ru/lifelong"
+    }
+  },
+  {
+    "hierarchy": {
+      "translation": "иерархия / …",
+      "link": "https://word-by-word.ru/words/en-ru/hierarchy"
+    }
+  },
+  {
+    "imprisonment": {
+      "translation": "заключение / тюремное заключение / …",
+      "link": "https://word-by-word.ru/words/en-ru/imprisonment"
+    }
+  },
+  {
+    "diplomacy": {
+      "translation": "дипломатия / дипломатичность / …",
+      "link": "https://word-by-word.ru/words/en-ru/diplomacy"
+    }
+  },
+  {
+    "empathy": {
+      "translation": "сочувствие / сопереживание",
+      "link": "https://word-by-word.ru/words/en-ru/empathy"
+    }
+  },
+  {
+    "willpower": {
+      "translation": "сила воли",
+      "link": "https://word-by-word.ru/words/en-ru/willpower"
+    }
+  },
+  {
+    "thinker": {
+      "translation": "мыслитель / философ / …",
+      "link": "https://word-by-word.ru/words/en-ru/thinker"
+    }
+  },
+  {
+    "analogy": {
+      "translation": "аналогия / сходство / …",
+      "link": "https://word-by-word.ru/words/en-ru/analogy"
+    }
+  },
+  {
+    "likelihood": {
+      "translation": "вероятность / многообещающая будущность / …",
+      "link": "https://word-by-word.ru/words/en-ru/likelihood"
+    }
+  },
+  {
+    "quaint": {
+      "translation": "причудливый / необычный / …",
+      "link": "https://word-by-word.ru/words/en-ru/quaint"
+    }
+  },
+  {
+    "voluntarily": {
+      "translation": "добровольно / по своей воле",
+      "link": "https://word-by-word.ru/words/en-ru/voluntarily"
+    }
+  },
+  {
+    "transplant": {
+      "translation": "саженец / пересадка / …",
+      "link": "https://word-by-word.ru/words/en-ru/transplant"
+    }
+  },
+  {
+    "provocation": {
+      "translation": "провокация / вызов / …",
+      "link": "https://word-by-word.ru/words/en-ru/provocation"
+    }
+  },
+  {
+    "bureaucracy": {
+      "translation": "бюрократия / …",
+      "link": "https://word-by-word.ru/words/en-ru/bureaucracy"
+    }
+  },
+  {
+    "trilogy": {
+      "translation": "трилогия",
+      "link": "https://word-by-word.ru/words/en-ru/trilogy"
+    }
+  },
+  {
+    "stiffness": {
+      "translation": "жесткость / …",
+      "link": "https://word-by-word.ru/words/en-ru/stiffness"
+    }
+  },
+  {
+    "superficial": {
+      "translation": "поверхностный / внешний / …",
+      "link": "https://word-by-word.ru/words/en-ru/superficial"
+    }
+  },
+  {
+    "formulate": {
+      "translation": "формулировать / разрабатывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/formulate"
+    }
+  },
+  {
+    "masterpiece": {
+      "translation": "шедевр",
+      "link": "https://word-by-word.ru/words/en-ru/masterpiece"
+    }
+  },
+  {
+    "innumerable": {
+      "translation": "бесчисленный / неисчислимый / …",
+      "link": "https://word-by-word.ru/words/en-ru/innumerable"
+    }
+  },
+  {
+    "perceptive": {
+      "translation": "проницательный / восприимчивый / …",
+      "link": "https://word-by-word.ru/words/en-ru/perceptive"
+    }
+  },
+  {
+    "forgery": {
+      "translation": "подделка / подлог / …",
+      "link": "https://word-by-word.ru/words/en-ru/forgery"
+    }
+  },
+  {
+    "justification": {
+      "translation": "оправдание / …",
+      "link": "https://word-by-word.ru/words/en-ru/justification"
+    }
+  },
+  {
+    "parallel": {
+      "translation": "параллель / аналогия / …",
+      "link": "https://word-by-word.ru/words/en-ru/parallel/noun"
+    }
+  },
+  {
+    "dispute": {
+      "translation": "спорить / оспаривать / …",
+      "link": "https://word-by-word.ru/words/en-ru/dispute/verb"
+    }
+  },
+  {
+    "misplace": {
+      "translation": "класть не на место / потерять / …",
+      "link": "https://word-by-word.ru/words/en-ru/misplace"
+    }
+  },
+  {
+    "hinder": {
+      "translation": "препятствовать / мешать / …",
+      "link": "https://word-by-word.ru/words/en-ru/hinder"
+    }
+  },
+  {
+    "mortality": {
+      "translation": "смертность / …",
+      "link": "https://word-by-word.ru/words/en-ru/mortality"
+    }
+  },
+  {
+    "grammatical": {
+      "translation": "грамматический / грамматически правильный / …",
+      "link": "https://word-by-word.ru/words/en-ru/grammatical"
+    }
+  },
+  {
+    "recollect": {
+      "translation": "вспоминать / припоминать / …",
+      "link": "https://word-by-word.ru/words/en-ru/recollect"
+    }
+  },
+  {
+    "diagnosis": {
+      "translation": "диагноз / диагностика / …",
+      "link": "https://word-by-word.ru/words/en-ru/diagnosis"
+    }
+  },
+  {
+    "civilian": {
+      "translation": "штатский / гражданский / …",
+      "link": "https://word-by-word.ru/words/en-ru/civilian/adjective"
+    }
+  },
+  {
+    "tiresome": {
+      "translation": "утомительный / нудный / …",
+      "link": "https://word-by-word.ru/words/en-ru/tiresome"
+    }
+  },
+  {
+    "treat": {
+      "translation": "угощение / удовольствие / …",
+      "link": "https://word-by-word.ru/words/en-ru/treat/noun"
+    }
+  },
+  {
+    "unrest": {
+      "translation": "беспорядки / волнения / …",
+      "link": "https://word-by-word.ru/words/en-ru/unrest"
+    }
+  },
+  {
+    "individually": {
+      "translation": "индивидуально / в отдельности / …",
+      "link": "https://word-by-word.ru/words/en-ru/individually"
+    }
+  },
+  {
+    "knowingly": {
+      "translation": "сознательно / понимающе / …",
+      "link": "https://word-by-word.ru/words/en-ru/knowingly"
+    }
+  },
+  {
+    "pact": {
+      "translation": "договор / пакт / …",
+      "link": "https://word-by-word.ru/words/en-ru/pact"
+    }
+  },
+  {
+    "viable": {
+      "translation": "жизнеспособный / практически осуществимый / …",
+      "link": "https://word-by-word.ru/words/en-ru/viable"
+    }
+  },
+  {
+    "necktie": {
+      "translation": "галстук / …",
+      "link": "https://word-by-word.ru/words/en-ru/necktie"
+    }
+  },
+  {
+    "outbreak": {
+      "translation": "внезапное начало / …",
+      "link": "https://word-by-word.ru/words/en-ru/outbreak"
+    }
+  },
+  {
+    "janitor": {
+      "translation": "дворник / сторож / …",
+      "link": "https://word-by-word.ru/words/en-ru/janitor"
+    }
+  },
+  {
+    "consensus": {
+      "translation": "единодушие / консенсус / …",
+      "link": "https://word-by-word.ru/words/en-ru/consensus"
+    }
+  },
+  {
+    "structural": {
+      "translation": "структурный / конструкционный / …",
+      "link": "https://word-by-word.ru/words/en-ru/structural"
+    }
+  },
+  {
+    "surplus": {
+      "translation": "излишек / избыток / …",
+      "link": "https://word-by-word.ru/words/en-ru/surplus"
+    }
+  },
+  {
+    "restructure": {
+      "translation": "реструктурировать / реорганизовывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/restructure"
+    }
+  },
+  {
+    "turbulent": {
+      "translation": "бурный / турбулентный / …",
+      "link": "https://word-by-word.ru/words/en-ru/turbulent"
+    }
+  },
+  {
+    "ambiguous": {
+      "translation": "двусмысленный / неоднозначный / …",
+      "link": "https://word-by-word.ru/words/en-ru/ambiguous"
+    }
+  },
+  {
+    "portray": {
+      "translation": "изображать / описывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/portray"
+    }
+  },
+  {
+    "narrator": {
+      "translation": "рассказчик / диктор / …",
+      "link": "https://word-by-word.ru/words/en-ru/narrator"
+    }
+  },
+  {
+    "elapse": {
+      "translation": "проходить / лететь / …",
+      "link": "https://word-by-word.ru/words/en-ru/elapse"
+    }
+  },
+  {
+    "inconceivable": {
+      "translation": "непостижимый / немыслимый / …",
+      "link": "https://word-by-word.ru/words/en-ru/inconceivable"
+    }
+  },
+  {
+    "whole": {
+      "translation": "целиком / полностью",
+      "link": "https://word-by-word.ru/words/en-ru/whole/adverb"
+    }
+  },
+  {
+    "donor": {
+      "translation": "донор / даритель / …",
+      "link": "https://word-by-word.ru/words/en-ru/donor"
+    }
+  },
+  {
+    "fussy": {
+      "translation": "привередливый / вычурный / …",
+      "link": "https://word-by-word.ru/words/en-ru/fussy"
+    }
+  },
+  {
+    "famine": {
+      "translation": "голод / голодание / …",
+      "link": "https://word-by-word.ru/words/en-ru/famine"
+    }
+  },
+  {
+    "meticulous": {
+      "translation": "дотошный / тщательный / …",
+      "link": "https://word-by-word.ru/words/en-ru/meticulous"
+    }
+  },
+  {
+    "moderately": {
+      "translation": "умеренно / …",
+      "link": "https://word-by-word.ru/words/en-ru/moderately"
+    }
+  },
+  {
+    "resourceful": {
+      "translation": "находчивый / …",
+      "link": "https://word-by-word.ru/words/en-ru/resourceful"
+    }
+  },
+  {
+    "forceful": {
+      "translation": "сильный / убедительный / …",
+      "link": "https://word-by-word.ru/words/en-ru/forceful"
+    }
+  },
+  {
+    "buzz": {
+      "translation": "жужжание / гул / …",
+      "link": "https://word-by-word.ru/words/en-ru/buzz/noun"
+    }
+  },
+  {
+    "quotation": {
+      "translation": "цитата / котировка / …",
+      "link": "https://word-by-word.ru/words/en-ru/quotation"
+    }
+  },
+  {
+    "treasure": {
+      "translation": "дорожить / высоко ценить / …",
+      "link": "https://word-by-word.ru/en-ru/treasure/verb"
+    }
+  },
+  {
+    "breadth": {
+      "translation": "ширина / широта / …",
+      "link": "https://word-by-word.ru/words/en-ru/breadth"
+    }
+  },
+  {
+    "worship": {
+      "translation": "поклонение / богослужение / …",
+      "link": "https://word-by-word.ru/words/en-ru/worship/noun"
+    }
+  },
+  {
+    "surpass": {
+      "translation": "превосходить / …",
+      "link": "https://word-by-word.ru/words/en-ru/surpass"
+    }
+  },
+  {
+    "monopoly": {
+      "translation": "монополия / монополист / …",
+      "link": "https://word-by-word.ru/words/en-ru/monopoly"
+    }
+  },
+  {
+    "retrospect": {
+      "translation": "взгляд назад / ретроспектива / …",
+      "link": "https://word-by-word.ru/words/en-ru/retrospect"
+    }
+  },
+  {
+    "deceptive": {
+      "translation": "обманчивый / обманный / …",
+      "link": "https://word-by-word.ru/words/en-ru/deceptive"
+    }
+  },
+  {
+    "haul": {
+      "translation": "улов / добыча / …",
+      "link": "https://word-by-word.ru/words/en-ru/haul/noun"
+    }
+  },
+  {
+    "credibility": {
+      "translation": "авторитетность / …",
+      "link": "https://word-by-word.ru/en-ru/credibility"
+    }
+  },
+  {
+    "grace": {
+      "translation": "украшать / награждать / …",
+      "link": "https://word-by-word.ru/words/en-ru/grace/verb"
+    }
+  },
+  {
+    "voter": {
+      "translation": "избиратель / участник голосования / …",
+      "link": "https://word-by-word.ru/words/en-ru/voter"
+    }
+  },
+  {
+    "renowned": {
+      "translation": "известный / прославленный / …",
+      "link": "https://word-by-word.ru/words/en-ru/renowned"
+    }
+  },
+  {
+    "plight": {
+      "translation": "бедственное положение / тяжелое положение / …",
+      "link": "https://word-by-word.ru/words/en-ru/plight"
+    }
+  },
+  {
+    "orthodox": {
+      "translation": "ортодоксальный / православный / …",
+      "link": "https://word-by-word.ru/words/en-ru/orthodox"
+    }
+  },
+  {
+    "engrossed": {
+      "translation": "занятый чем-либо / …",
+      "link": "https://word-by-word.ru/words/en-ru/engrossed"
+    }
+  },
+  {
+    "lavish": {
+      "translation": "щедрый / обильный / …",
+      "link": "https://word-by-word.ru/words/en-ru/lavish"
+    }
+  },
+  {
+    "floppy": {
+      "translation": "висящий / обвисший / …",
+      "link": "https://word-by-word.ru/words/en-ru/floppy"
+    }
+  },
+  {
+    "stimulus": {
+      "translation": "стимул / раздражитель / …",
+      "link": "https://word-by-word.ru/words/en-ru/stimulus"
+    }
+  },
+  {
+    "poetic": {
+      "translation": "поэтичный / возвышенный / …",
+      "link": "https://word-by-word.ru/words/en-ru/poetic"
+    }
+  },
+  {
+    "crush": {
+      "translation": "давка / раздавливание / …",
+      "link": "https://word-by-word.ru/words/en-ru/crush/noun"
+    }
+  },
+  {
+    "diagnose": {
+      "translation": "диагностировать / ставить диагноз / …",
+      "link": "https://word-by-word.ru/words/en-ru/diagnose"
+    }
+  },
+  {
+    "arid": {
+      "translation": "засушливый / …",
+      "link": "https://word-by-word.ru/words/en-ru/arid"
+    }
+  },
+  {
+    "explicit": {
+      "translation": "явный / определенный / …",
+      "link": "https://word-by-word.ru/words/en-ru/explicit"
+    }
+  },
+  {
+    "observant": {
+      "translation": "наблюдательный / …",
+      "link": "https://word-by-word.ru/words/en-ru/observant"
+    }
+  },
+  {
+    "spotless": {
+      "translation": "безупречный / сверкающий чистотой / …",
+      "link": "https://word-by-word.ru/words/en-ru/spotless"
+    }
+  },
+  {
+    "socialism": {
+      "translation": "социализм",
+      "link": "https://word-by-word.ru/words/en-ru/socialism"
+    }
+  },
+  {
+    "bias": {
+      "translation": "предвзятость / предубеждение / …",
+      "link": "https://word-by-word.ru/words/en-ru/bias"
+    }
+  },
+  {
+    "rivalry": {
+      "translation": "соперничество / конкуренция / …",
+      "link": "https://word-by-word.ru/words/en-ru/rivalry"
+    }
+  },
+  {
+    "drought": {
+      "translation": "засуха / сухость / …",
+      "link": "https://word-by-word.ru/words/en-ru/drought"
+    }
+  },
+  {
+    "nosy": {
+      "translation": "любопытный / носатый / …",
+      "link": "https://word-by-word.ru/words/en-ru/nosy"
+    }
+  },
+  {
+    "incentive": {
+      "translation": "стимул / побуждение / …",
+      "link": "https://word-by-word.ru/words/en-ru/incentive"
+    }
+  },
+  {
+    "creep": {
+      "translation": "ползучесть / скользкий тип / …",
+      "link": "https://word-by-word.ru/words/en-ru/creep/noun"
+    }
+  },
+  {
+    "capitalist": {
+      "translation": "капиталист",
+      "link": "https://word-by-word.ru/words/en-ru/capitalist"
+    }
+  },
+  {
+    "antibiotic": {
+      "translation": "антибиотик",
+      "link": "https://word-by-word.ru/words/en-ru/antibiotic"
+    }
+  },
+  {
+    "impulsive": {
+      "translation": "импульсивный / …",
+      "link": "https://word-by-word.ru/words/en-ru/impulsive"
+    }
+  },
+  {
+    "fulfilment": {
+      "translation": "удовлетворенность достигнутым / выполнение / …",
+      "link": "https://word-by-word.ru/words/en-ru/fulfilment"
+    }
+  },
+  {
+    "questionable": {
+      "translation": "сомнительный / подозрительный / …",
+      "link": "https://word-by-word.ru/words/en-ru/questionable"
+    }
+  },
+  {
+    "humiliating": {
+      "translation": "унизительный / оскорбительный / …",
+      "link": "https://word-by-word.ru/words/en-ru/humiliating"
+    }
+  },
+  {
+    "committed": {
+      "translation": "идейный / …",
+      "link": "https://word-by-word.ru/words/en-ru/committed"
+    }
+  },
+  {
+    "scruffy": {
+      "translation": "неряшливый / грязный / …",
+      "link": "https://word-by-word.ru/words/en-ru/scruffy"
+    }
+  },
+  {
+    "stubbornness": {
+      "translation": "упрямство / упорство / …",
+      "link": "https://word-by-word.ru/words/en-ru/stubbornness"
+    }
+  },
+  {
+    "revival": {
+      "translation": "возрождение / оживление / …",
+      "link": "https://word-by-word.ru/words/en-ru/revival"
+    }
+  },
+  {
+    "snob": {
+      "translation": "сноб",
+      "link": "https://word-by-word.ru/words/en-ru/snob"
+    }
+  },
+  {
+    "dominance": {
+      "translation": "господство / преобладание / …",
+      "link": "https://word-by-word.ru/words/en-ru/dominance"
+    }
+  },
+  {
+    "nostalgia": {
+      "translation": "ностальгия / тоска по прошлому / …",
+      "link": "https://word-by-word.ru/words/en-ru/nostalgia"
+    }
+  },
+  {
+    "inherent": {
+      "translation": "присущий / свойственный / …",
+      "link": "https://word-by-word.ru/words/en-ru/inherent"
+    }
+  },
+  {
+    "innate": {
+      "translation": "врожденный / природный / …",
+      "link": "https://word-by-word.ru/words/en-ru/innate"
+    }
+  },
+  {
+    "hazardous": {
+      "translation": "опасный / рискованный / …",
+      "link": "https://word-by-word.ru/words/en-ru/hazardous"
+    }
+  },
+  {
+    "structure": {
+      "translation": "структурировать / организовывать",
+      "link": "https://word-by-word.ru/words/en-ru/structure/verb"
+    }
+  },
+  {
+    "unimaginable": {
+      "translation": "невообразимый",
+      "link": "https://word-by-word.ru/words/en-ru/unimaginable"
+    }
+  },
+  {
+    "eventual": {
+      "translation": "конечный / возможный / …",
+      "link": "https://word-by-word.ru/words/en-ru/eventual"
+    }
+  },
+  {
+    "disturbed": {
+      "translation": "страдающий психическим заболеванием",
+      "link": "https://word-by-word.ru/words/en-ru/disturbed"
+    }
+  },
+  {
+    "unbalanced": {
+      "translation": "неуравновешенный / предвзятый / …",
+      "link": "https://word-by-word.ru/words/en-ru/unbalanced"
+    }
+  },
+  {
+    "squeaky": {
+      "translation": "скрипучий / пискливый",
+      "link": "https://word-by-word.ru/words/en-ru/squeaky"
+    }
+  },
+  {
+    "paramount": {
+      "translation": "первостепенный / верховный / …",
+      "link": "https://word-by-word.ru/words/en-ru/paramount"
+    }
+  },
+  {
+    "horrifying": {
+      "translation": "ужасающий",
+      "link": "https://word-by-word.ru/words/en-ru/horrifying"
+    }
+  },
+  {
+    "decisively": {
+      "translation": "окончательно / решительно / …",
+      "link": "https://word-by-word.ru/words/en-ru/decisively"
+    }
+  },
+  {
+    "read": {
+      "translation": "чтение / чтиво / …",
+      "link": "https://word-by-word.ru/words/en-ru/read/noun"
+    }
+  },
+  {
+    "constraint": {
+      "translation": "ограничение / скованность / …",
+      "link": "https://word-by-word.ru/words/en-ru/constraint"
+    }
+  },
+  {
+    "embody": {
+      "translation": "воплощать / включать / …",
+      "link": "https://word-by-word.ru/words/en-ru/embody"
+    }
+  },
+  {
+    "strenuous": {
+      "translation": "требующий усилий / энергичный / …",
+      "link": "https://word-by-word.ru/words/en-ru/strenuous"
+    }
+  },
+  {
+    "major": {
+      "translation": "специализироваться",
+      "link": "https://word-by-word.ru/words/en-ru/major/verb"
+    }
+  },
+  {
+    "elated": {
+      "translation": "в восторге / …",
+      "link": "https://word-by-word.ru/words/en-ru/elated"
+    }
+  },
+  {
+    "unaffected": {
+      "translation": "не подвергшийся влиянию / незатронутый / …",
+      "link": "https://word-by-word.ru/words/en-ru/unaffected"
+    }
+  },
+  {
+    "secluded": {
+      "translation": "глухой / …",
+      "link": "https://word-by-word.ru/words/en-ru/secluded"
+    }
+  },
+  {
+    "reversal": {
+      "translation": "полное изменение / отмена / …",
+      "link": "https://word-by-word.ru/words/en-ru/reversal"
+    }
+  },
+  {
+    "uninhabited": {
+      "translation": "необитаемый / ненаселенный / …",
+      "link": "https://word-by-word.ru/words/en-ru/uninhabited"
+    }
+  },
+  {
+    "infectious": {
+      "translation": "инфекционный / заразный / …",
+      "link": "https://word-by-word.ru/words/en-ru/infectious"
+    }
+  },
+  {
+    "recur": {
+      "translation": "повторяться / возвращаться / …",
+      "link": "https://word-by-word.ru/words/en-ru/recur"
+    }
+  },
+  {
+    "lifespan": {
+      "translation": "продолжительность жизни / продолжительность / …",
+      "link": "https://word-by-word.ru/words/en-ru/lifespan"
+    }
+  },
+  {
+    "tire": {
+      "translation": "уставать / утомлять / …",
+      "link": "https://word-by-word.ru/words/en-ru/tire/verb"
+    }
+  },
+  {
+    "carefree": {
+      "translation": "беззаботный / беспечный / …",
+      "link": "https://word-by-word.ru/words/en-ru/carefree"
+    }
+  },
+  {
+    "disposable": {
+      "translation": "одноразовый / доступный / …",
+      "link": "https://word-by-word.ru/words/en-ru/disposable"
+    }
+  },
+  {
+    "excel": {
+      "translation": "превосходить / отличаться / …",
+      "link": "https://word-by-word.ru/words/en-ru/excel"
+    }
+  },
+  {
+    "fictional": {
+      "translation": "вымышленный / …",
+      "link": "https://word-by-word.ru/words/en-ru/fictional"
+    }
+  },
+  {
+    "closure": {
+      "translation": "закрытие / завершение / …",
+      "link": "https://word-by-word.ru/words/en-ru/closure"
+    }
+  },
+  {
+    "uneventful": {
+      "translation": "тихий / небогатый событиями / …",
+      "link": "https://word-by-word.ru/words/en-ru/uneventful"
+    }
+  },
+  {
+    "constrain": {
+      "translation": "сдерживать / ограничивать / …",
+      "link": "https://word-by-word.ru/words/en-ru/constrain"
+    }
+  },
+  {
+    "undue": {
+      "translation": "чрезмерный / несвоевременный / …",
+      "link": "https://word-by-word.ru/words/en-ru/undue"
+    }
+  },
+  {
+    "tactful": {
+      "translation": "тактичный / дипломатичный",
+      "link": "https://word-by-word.ru/words/en-ru/tactful"
+    }
+  },
+  {
+    "downhill": {
+      "translation": "наклонный / покатый / …",
+      "link": "https://word-by-word.ru/words/en-ru/downhill/adjective"
+    }
+  },
+  {
+    "produce": {
+      "translation": "продукция / продукт / …",
+      "link": "https://word-by-word.ru/words/en-ru/produce/noun"
+    }
+  },
+  {
+    "clear": {
+      "translation": "в стороне / ясно / …",
+      "link": "https://word-by-word.ru/words/en-ru/clear/adverb"
+    }
+  },
+  {
+    "tact": {
+      "translation": "такт / тактичность",
+      "link": "https://word-by-word.ru/words/en-ru/tact"
+    }
+  },
+  {
+    "saddle": {
+      "translation": "оседлать / седлать / …",
+      "link": "https://word-by-word.ru/words/en-ru/saddle/verb"
+    }
+  },
+  {
+    "squander": {
+      "translation": "растрачивать / расточать / …",
+      "link": "https://word-by-word.ru/words/en-ru/squander"
+    }
+  },
+  {
+    "resilient": {
+      "translation": "упругий / способный быстро восстанавливаться / …",
+      "link": "https://word-by-word.ru/words/en-ru/resilient"
+    }
+  },
+  {
+    "sensibility": {
+      "translation": "чувствительность / восприимчивость / …",
+      "link": "https://word-by-word.ru/words/en-ru/sensibility"
+    }
+  },
+  {
+    "eradicate": {
+      "translation": "искоренять / истреблять / …",
+      "link": "https://word-by-word.ru/words/en-ru/eradicate"
+    }
+  },
+  {
+    "territorial": {
+      "translation": "территориальный / земельный",
+      "link": "https://word-by-word.ru/words/en-ru/territorial"
+    }
+  },
+  {
+    "schooling": {
+      "translation": "образование / обучение / …",
+      "link": "https://word-by-word.ru/words/en-ru/schooling"
+    }
+  },
+  {
+    "conclusive": {
+      "translation": "убедительный / окончательный / …",
+      "link": "https://word-by-word.ru/words/en-ru/conclusive"
+    }
+  },
+  {
+    "coincide": {
+      "translation": "совпадать / совпасть / …",
+      "link": "https://word-by-word.ru/words/en-ru/coincide"
+    }
+  },
+  {
+    "hypocrisy": {
+      "translation": "лицемерие / …",
+      "link": "https://word-by-word.ru/words/en-ru/hypocrisy"
+    }
+  },
+  {
+    "arbitrary": {
+      "translation": "произвольный / …",
+      "link": "https://word-by-word.ru/words/en-ru/arbitrary"
+    }
+  },
+  {
+    "receptive": {
+      "translation": "восприимчивый / рецептивный / …",
+      "link": "https://word-by-word.ru/words/en-ru/receptive"
+    }
+  },
+  {
+    "amendment": {
+      "translation": "поправка / изменение / …",
+      "link": "https://word-by-word.ru/words/en-ru/amendment"
+    }
+  },
+  {
+    "undertaking": {
+      "translation": "важное дело или проект / начинание / …",
+      "link": "https://word-by-word.ru/en-ru/undertaking"
+    }
+  },
+  {
+    "obsessive": {
+      "translation": "одержимый / навязчивый / …",
+      "link": "https://word-by-word.ru/words/en-ru/obsessive"
+    }
+  },
+  {
+    "incur": {
+      "translation": "подвергаться / навлекать на себя / …",
+      "link": "https://word-by-word.ru/words/en-ru/incur"
+    }
+  },
+  {
+    "expenditure": {
+      "translation": "расход / трата / …",
+      "link": "https://word-by-word.ru/words/en-ru/expenditure"
+    }
+  },
+  {
+    "fundamentally": {
+      "translation": "в корне / принципиально / …",
+      "link": "https://word-by-word.ru/words/en-ru/fundamentally"
+    }
+  },
+  {
+    "mishap": {
+      "translation": "неудача / несчастье / …",
+      "link": "https://word-by-word.ru/words/en-ru/mishap"
+    }
+  },
+  {
+    "loathing": {
+      "translation": "ненависть",
+      "link": "https://word-by-word.ru/words/en-ru/loathing"
+    }
+  },
+  {
+    "contradictory": {
+      "translation": "противоречивый / …",
+      "link": "https://word-by-word.ru/words/en-ru/contradictory"
+    }
+  },
+  {
+    "eminent": {
+      "translation": "выдающийся / именитый / …",
+      "link": "https://word-by-word.ru/words/en-ru/eminent"
+    }
+  },
+  {
+    "premium": {
+      "translation": "премия / страховой взнос / …",
+      "link": "https://word-by-word.ru/words/en-ru/premium"
+    }
+  },
+  {
+    "traumatic": {
+      "translation": "травмирующий / травматический / …",
+      "link": "https://word-by-word.ru/words/en-ru/traumatic"
+    }
+  },
+  {
+    "undeniably": {
+      "translation": "несомненно / …",
+      "link": "https://word-by-word.ru/words/en-ru/undeniably"
+    }
+  },
+  {
+    "defective": {
+      "translation": "неполноценный / дефектный / …",
+      "link": "https://word-by-word.ru/words/en-ru/defective"
+    }
+  },
+  {
+    "indispensable": {
+      "translation": "необходимый / незаменимый / …",
+      "link": "https://word-by-word.ru/words/en-ru/indispensable"
+    }
+  },
+  {
+    "silverware": {
+      "translation": "столовые приборы / столовое серебро / …",
+      "link": "https://word-by-word.ru/words/en-ru/silverware"
+    }
+  },
+  {
+    "infer": {
+      "translation": "заключать / делать вывод / …",
+      "link": "https://word-by-word.ru/words/en-ru/infer"
+    }
+  },
+  {
+    "persistence": {
+      "translation": "упорство / стойкость / …",
+      "link": "https://word-by-word.ru/words/en-ru/persistence"
+    }
+  },
+  {
+    "vaccine": {
+      "translation": "вакцина",
+      "link": "https://word-by-word.ru/words/en-ru/vaccine"
+    }
+  },
+  {
+    "constitutional": {
+      "translation": "конституционный / конституциональный / …",
+      "link": "https://word-by-word.ru/words/en-ru/constitutional"
+    }
+  },
+  {
+    "underway": {
+      "translation": "на ходу / осуществляемый / …",
+      "link": "https://word-by-word.ru/words/en-ru/underway"
+    }
+  },
+  {
+    "proverb": {
+      "translation": "пословица / поговорка / …",
+      "link": "https://word-by-word.ru/words/en-ru/proverb"
+    }
+  },
+  {
+    "allege": {
+      "translation": "утверждать / голословно обвинять / …",
+      "link": "https://word-by-word.ru/words/en-ru/allege"
+    }
+  },
+  {
+    "uphill": {
+      "translation": "тяжелый / идущий в гору / …",
+      "link": "https://word-by-word.ru/words/en-ru/uphill/adjective"
+    }
+  },
+  {
+    "flashback": {
+      "translation": "ретроспекция / взгляд в прошлое / …",
+      "link": "https://word-by-word.ru/words/en-ru/flashback"
+    }
+  },
+  {
+    "marginal": {
+      "translation": "незначительный / предельный / …",
+      "link": "https://word-by-word.ru/words/en-ru/marginal"
+    }
+  },
+  {
+    "severity": {
+      "translation": "строгость / серьезность / …",
+      "link": "https://word-by-word.ru/words/en-ru/severity"
+    }
+  },
+  {
+    "endorse": {
+      "translation": "одобрять / поддерживать / …",
+      "link": "https://word-by-word.ru/words/en-ru/endorse"
+    }
+  },
+  {
+    "systematically": {
+      "translation": "систематически / планомерно / …",
+      "link": "https://word-by-word.ru/words/en-ru/systematically"
+    }
+  },
+  {
+    "standpoint": {
+      "translation": "точка зрения",
+      "link": "https://word-by-word.ru/words/en-ru/standpoint"
+    }
+  },
+  {
+    "sanction": {
+      "translation": "санкция / разрешение / …",
+      "link": "https://word-by-word.ru/words/en-ru/sanction"
+    }
+  },
+  {
+    "misinterpret": {
+      "translation": "неверно истолковывать или понимать / перевирать / …",
+      "link": "https://word-by-word.ru/words/en-ru/misinterpret"
+    }
+  },
+  {
+    "counselling": {
+      "translation": "консультирование",
+      "link": "https://word-by-word.ru/words/en-ru/counselling"
+    }
+  },
+  {
+    "definitive": {
+      "translation": "окончательный / …",
+      "link": "https://word-by-word.ru/words/en-ru/definitive"
+    }
+  },
+  {
+    "implementation": {
+      "translation": "реализация / осуществление / …",
+      "link": "https://word-by-word.ru/words/en-ru/implementation"
+    }
+  },
+  {
+    "outset": {
+      "translation": "начало / боковик / …",
+      "link": "https://word-by-word.ru/words/en-ru/outset"
+    }
+  },
+  {
+    "accumulation": {
+      "translation": "накопление / скопление / …",
+      "link": "https://word-by-word.ru/words/en-ru/accumulation"
+    }
+  },
+  {
+    "consistently": {
+      "translation": "последовательно",
+      "link": "https://word-by-word.ru/words/en-ru/consistently"
+    }
+  },
+  {
+    "self-sufficient": {
+      "translation": "самодостаточный",
+      "link": "https://word-by-word.ru/words/en-ru/self-sufficient"
+    }
+  },
+  {
+    "inhibition": {
+      "translation": "торможение / застенчивость / …",
+      "link": "https://word-by-word.ru/words/en-ru/inhibition"
+    }
+  },
+  {
+    "disloyal": {
+      "translation": "нелояльный / вероломный / …",
+      "link": "https://word-by-word.ru/words/en-ru/disloyal"
+    }
+  },
+  {
+    "supplement": {
+      "translation": "дополнение / приложение / …",
+      "link": "https://word-by-word.ru/words/en-ru/supplement"
+    }
+  },
+  {
+    "practitioner": {
+      "translation": "практикующий врач / практик / …",
+      "link": "https://word-by-word.ru/words/en-ru/practitioner"
+    }
+  },
+  {
+    "unscrupulous": {
+      "translation": "недобросовестный / беспринципный / …",
+      "link": "https://word-by-word.ru/words/en-ru/unscrupulous"
+    }
+  },
+  {
+    "chronic": {
+      "translation": "хронический / постоянный / …",
+      "link": "https://word-by-word.ru/words/en-ru/chronic"
+    }
+  },
+  {
+    "ambiguity": {
+      "translation": "двусмысленность / неясность / …",
+      "link": "https://word-by-word.ru/words/en-ru/ambiguity"
+    }
+  },
+  {
+    "reproach": {
+      "translation": "упрекать / укорять / …",
+      "link": "https://word-by-word.ru/words/en-ru/reproach/verb"
+    }
+  },
+  {
+    "deprivation": {
+      "translation": "лишение / потеря / …",
+      "link": "https://word-by-word.ru/words/en-ru/deprivation"
+    }
+  },
+  {
+    "bribery": {
+      "translation": "взяточничество / продажность",
+      "link": "https://word-by-word.ru/words/en-ru/bribery"
+    }
+  },
+  {
+    "immature": {
+      "translation": "незрелый / молодой / …",
+      "link": "https://word-by-word.ru/words/en-ru/immature"
+    }
+  },
+  {
+    "curb": {
+      "translation": "сдерживать / обуздывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/curb/verb"
+    }
+  },
+  {
+    "cheerfulness": {
+      "translation": "бодрость / жизнерадостность / …",
+      "link": "https://word-by-word.ru/words/en-ru/cheerfulness"
+    }
+  },
+  {
+    "unanimous": {
+      "translation": "единодушный / единогласный / …",
+      "link": "https://word-by-word.ru/words/en-ru/unanimous"
+    }
+  },
+  {
+    "lucrative": {
+      "translation": "прибыльный / выгодный / …",
+      "link": "https://word-by-word.ru/words/en-ru/lucrative"
+    }
+  },
+  {
+    "offset": {
+      "translation": "компенсировать / …",
+      "link": "https://word-by-word.ru/words/en-ru/offset"
+    }
+  },
+  {
+    "interim": {
+      "translation": "промежуточный / временный / …",
+      "link": "https://word-by-word.ru/words/en-ru/interim"
+    }
+  },
+  {
+    "finite": {
+      "translation": "конечный / ограниченный / …",
+      "link": "https://word-by-word.ru/words/en-ru/finite"
+    }
+  },
+  {
+    "subconsciously": {
+      "translation": "подсознательно",
+      "link": "https://word-by-word.ru/words/en-ru/subconsciously"
+    }
+  },
+  {
+    "thoughtless": {
+      "translation": "безрассудный / необдуманный / …",
+      "link": "https://word-by-word.ru/words/en-ru/thoughtless"
+    }
+  },
+  {
+    "delegate": {
+      "translation": "делегировать / передавать полномочия / …",
+      "link": "https://word-by-word.ru/words/en-ru/delegate/verb"
+    }
+  },
+  {
+    "implicit": {
+      "translation": "неявный / подразумеваемый / …",
+      "link": "https://word-by-word.ru/words/en-ru/implicit"
+    }
+  },
+  {
+    "classification": {
+      "translation": "классификация / классифицирование / …",
+      "link": "https://word-by-word.ru/words/en-ru/classification"
+    }
+  },
+  {
+    "supplement": {
+      "translation": "дополнять / пополнять / …",
+      "link": "https://word-by-word.ru/words/en-ru/supplement/verb"
+    }
+  },
+  {
+    "insecurity": {
+      "translation": "ненадежность / опасное положение / …",
+      "link": "https://word-by-word.ru/words/en-ru/insecurity"
+    }
+  },
+  {
+    "pastime": {
+      "translation": "времяпровождение / игра / …",
+      "link": "https://word-by-word.ru/words/en-ru/pastime"
+    }
+  },
+  {
+    "lumber": {
+      "translation": "пиломатериалы / хлам / …",
+      "link": "https://word-by-word.ru/words/en-ru/lumber/noun"
+    }
+  },
+  {
+    "racist": {
+      "translation": "расист",
+      "link": "https://word-by-word.ru/words/en-ru/racist"
+    }
+  },
+  {
+    "continuity": {
+      "translation": "непрерывность / целостность / …",
+      "link": "https://word-by-word.ru/words/en-ru/continuity"
+    }
+  },
+  {
+    "intellectual": {
+      "translation": "интеллектуал / интеллигент / …",
+      "link": "https://word-by-word.ru/words/en-ru/intellectual/noun"
+    }
+  },
+  {
+    "validity": {
+      "translation": "обоснованность / действительность / …",
+      "link": "https://word-by-word.ru/words/en-ru/validity"
+    }
+  },
+  {
+    "phenomenal": {
+      "translation": "феноменальный / необыкновенный",
+      "link": "https://word-by-word.ru/words/en-ru/phenomenal"
+    }
+  },
+  {
+    "infancy": {
+      "translation": "младенчество / …",
+      "link": "https://word-by-word.ru/words/en-ru/infancy"
+    }
+  },
+  {
+    "complimentary": {
+      "translation": "поздравительный / лестный / …",
+      "link": "https://word-by-word.ru/words/en-ru/complimentary"
+    }
+  },
+  {
+    "elimination": {
+      "translation": "устранение / исключение / …",
+      "link": "https://word-by-word.ru/words/en-ru/elimination"
+    }
+  },
+  {
+    "conceited": {
+      "translation": "самодовольный / тщеславный / …",
+      "link": "https://word-by-word.ru/words/en-ru/conceited"
+    }
+  },
+  {
+    "thrill": {
+      "translation": "дрожать / трепетать / …",
+      "link": "https://word-by-word.ru/words/en-ru/thrill/verb"
+    }
+  },
+  {
+    "rash": {
+      "translation": "опрометчивый / поспешный / …",
+      "link": "https://word-by-word.ru/words/en-ru/rash/adjective"
+    }
+  },
+  {
+    "adverse": {
+      "translation": "неблагоприятный / враждебный / …",
+      "link": "https://word-by-word.ru/words/en-ru/adverse"
+    }
+  },
+  {
+    "aspiration": {
+      "translation": "стремление / аспирация / …",
+      "link": "https://word-by-word.ru/words/en-ru/aspiration"
+    }
+  },
+  {
+    "reform": {
+      "translation": "реформа / преобразование / …",
+      "link": "https://word-by-word.ru/words/en-ru/reform/noun"
+    }
+  },
+  {
+    "vandalism": {
+      "translation": "вандализм / варварство",
+      "link": "https://word-by-word.ru/words/en-ru/vandalism"
+    }
+  },
+  {
+    "compulsive": {
+      "translation": "непреодолимый / принудительный / …",
+      "link": "https://word-by-word.ru/words/en-ru/compulsive"
+    }
+  },
+  {
+    "merit": {
+      "translation": "заслужить / заслуживать / …",
+      "link": "https://word-by-word.ru/words/en-ru/merit/verb"
+    }
+  },
+  {
+    "systematic": {
+      "translation": "систематический / …",
+      "link": "https://word-by-word.ru/words/en-ru/systematic"
+    }
+  },
+  {
+    "pragmatic": {
+      "translation": "прагматический / практичный / …",
+      "link": "https://word-by-word.ru/words/en-ru/pragmatic"
+    }
+  },
+  {
+    "self-respect": {
+      "translation": "самоуважение",
+      "link": "https://word-by-word.ru/words/en-ru/self-respect"
+    }
+  },
+  {
+    "successive": {
+      "translation": "последующий / последовательный / …",
+      "link": "https://word-by-word.ru/words/en-ru/successive"
+    }
+  },
+  {
+    "cutlery": {
+      "translation": "столовые приборы / ножевые изделия / …",
+      "link": "https://word-by-word.ru/words/en-ru/cutlery"
+    }
+  },
+  {
+    "individuality": {
+      "translation": "индивидуальность / …",
+      "link": "https://word-by-word.ru/words/en-ru/individuality"
+    }
+  },
+  {
+    "slap": {
+      "translation": "шлепок / пощечина / …",
+      "link": "https://word-by-word.ru/words/en-ru/slap/noun"
+    }
+  },
+  {
+    "coin": {
+      "translation": "чеканить / создавать новое слово или выражение / …",
+      "link": "https://word-by-word.ru/words/en-ru/coin/verb"
+    }
+  },
+  {
+    "humanitarian": {
+      "translation": "гуманитарный / гуманный",
+      "link": "https://word-by-word.ru/words/en-ru/humanitarian"
+    }
+  },
+  {
+    "toughness": {
+      "translation": "прочность / вязкость / …",
+      "link": "https://word-by-word.ru/words/en-ru/toughness"
+    }
+  },
+  {
+    "disrespectful": {
+      "translation": "непочтительный / дерзкий / …",
+      "link": "https://word-by-word.ru/words/en-ru/disrespectful"
+    }
+  },
+  {
+    "superfluous": {
+      "translation": "излишний / чрезмерный / …",
+      "link": "https://word-by-word.ru/words/en-ru/superfluous"
+    }
+  },
+  {
+    "legislation": {
+      "translation": "законодательство / закон / …",
+      "link": "https://word-by-word.ru/words/en-ru/legislation"
+    }
+  },
+  {
+    "refined": {
+      "translation": "благовоспитанный",
+      "link": "https://word-by-word.ru/words/en-ru/refined"
+    }
+  },
+  {
+    "vocation": {
+      "translation": "призвание / предназначение / …",
+      "link": "https://word-by-word.ru/words/en-ru/vocation"
+    }
+  },
+  {
+    "charisma": {
+      "translation": "харизма / божий дар / …",
+      "link": "https://word-by-word.ru/words/en-ru/charisma"
+    }
+  },
+  {
+    "polish": {
+      "translation": "полироль / лак / полировка",
+      "link": "https://word-by-word.ru/words/en-ru/polish/noun"
+    }
+  },
+  {
+    "openness": {
+      "translation": "откровенность / …",
+      "link": "https://word-by-word.ru/words/en-ru/openness"
+    }
+  },
+  {
+    "nostalgic": {
+      "translation": "тоскующий о прошлом / ностальгический / …",
+      "link": "https://word-by-word.ru/words/en-ru/nostalgic"
+    }
+  },
+  {
+    "industrious": {
+      "translation": "трудолюбивый / работящий / …",
+      "link": "https://word-by-word.ru/words/en-ru/industrious"
+    }
+  },
+  {
+    "workaholic": {
+      "translation": "трудоголик / работоголик",
+      "link": "https://word-by-word.ru/words/en-ru/workaholic"
+    }
+  },
+  {
+    "whereabouts": {
+      "translation": "местонахождение / …",
+      "link": "https://word-by-word.ru/words/en-ru/whereabouts/noun"
+    }
+  },
+  {
+    "insomnia": {
+      "translation": "бессонница",
+      "link": "https://word-by-word.ru/words/en-ru/insomnia"
+    }
+  },
+  {
+    "negligible": {
+      "translation": "ничтожный / незначительный / …",
+      "link": "https://word-by-word.ru/words/en-ru/negligible"
+    }
+  },
+  {
+    "negligent": {
+      "translation": "нерадивый / небрежно / …",
+      "link": "https://word-by-word.ru/words/en-ru/negligent"
+    }
+  },
+  {
+    "inseparable": {
+      "translation": "неотделимый / неразделимый / …",
+      "link": "https://word-by-word.ru/words/en-ru/inseparable"
+    }
+  },
+  {
+    "allegedly": {
+      "translation": "предположительно / якобы / …",
+      "link": "https://word-by-word.ru/words/en-ru/allegedly"
+    }
+  },
+  {
+    "recreational": {
+      "translation": "развлекательный / …",
+      "link": "https://word-by-word.ru/words/en-ru/recreational"
+    }
+  },
+  {
+    "undesirable": {
+      "translation": "нежелательный / неподходящий / …",
+      "link": "https://word-by-word.ru/words/en-ru/undesirable"
+    }
+  },
+  {
+    "advocate": {
+      "translation": "поддерживать / защищать / …",
+      "link": "https://word-by-word.ru/words/en-ru/advocate/verb"
+    }
+  },
+  {
+    "backing": {
+      "translation": "поддержка / финансирование / …",
+      "link": "https://word-by-word.ru/words/en-ru/backing"
+    }
+  },
+  {
+    "reliance": {
+      "translation": "опора / доверие / …",
+      "link": "https://word-by-word.ru/words/en-ru/reliance"
+    }
+  },
+  {
+    "abusive": {
+      "translation": "оскорбительный / оскорбляющий / …",
+      "link": "https://word-by-word.ru/words/en-ru/abusive"
+    }
+  },
+  {
+    "longevity": {
+      "translation": "долголетие / долговечность / …",
+      "link": "https://word-by-word.ru/words/en-ru/longevity"
+    }
+  },
+  {
+    "suit": {
+      "translation": "судебный иск",
+      "link": "https://word-by-word.ru/words/en-ru/suit/noun2"
+    }
+  },
+  {
+    "accountable": {
+      "translation": "подотчетный / ответственный / …",
+      "link": "https://word-by-word.ru/words/en-ru/accountable"
+    }
+  },
+  {
+    "influx": {
+      "translation": "наплыв / приток / …",
+      "link": "https://word-by-word.ru/words/en-ru/influx"
+    }
+  },
+  {
+    "normality": {
+      "translation": "нормальность / обычное состояние / …",
+      "link": "https://word-by-word.ru/words/en-ru/normality"
+    }
+  },
+  {
+    "resilience": {
+      "translation": "упругость / эластичность / …",
+      "link": "https://word-by-word.ru/words/en-ru/resilience"
+    }
+  },
+  {
+    "overload": {
+      "translation": "перегрузка / …",
+      "link": "https://word-by-word.ru/words/en-ru/overload/noun"
+    }
+  },
+  {
+    "capitalism": {
+      "translation": "капитализм",
+      "link": "https://word-by-word.ru/words/en-ru/capitalism"
+    }
+  },
+  {
+    "vitally": {
+      "translation": "жизненно / крайне / очень / …",
+      "link": "https://word-by-word.ru/words/en-ru/vitally"
+    }
+  },
+  {
+    "tasteful": {
+      "translation": "сделанный со вкусом / вкусный / …",
+      "link": "https://word-by-word.ru/words/en-ru/tasteful"
+    }
+  },
+  {
+    "incurable": {
+      "translation": "неизлечимый / неисцелимый / …",
+      "link": "https://word-by-word.ru/words/en-ru/incurable"
+    }
+  },
+  {
+    "toe": {
+      "translation": "ударять носком ноги",
+      "link": "https://word-by-word.ru/words/en-ru/toe/verb"
+    }
+  },
+  {
+    "negligence": {
+      "translation": "халатность / небрежность / …",
+      "link": "https://word-by-word.ru/words/en-ru/negligence"
+    }
+  },
+  {
+    "backwards": {
+      "translation": "обратный / отсталый / …",
+      "link": "https://word-by-word.ru/words/en-ru/backwards/adjective"
+    }
+  },
+  {
+    "monetary": {
+      "translation": "денежный / валютный / …",
+      "link": "https://word-by-word.ru/words/en-ru/monetary"
+    }
+  },
+  {
+    "hypocritical": {
+      "translation": "лицемерный / ханжеский / …",
+      "link": "https://word-by-word.ru/words/en-ru/hypocritical"
+    }
+  },
+  {
+    "pushy": {
+      "translation": "назойливый / напористый / …",
+      "link": "https://word-by-word.ru/words/en-ru/pushy"
+    }
+  },
+  {
+    "unethical": {
+      "translation": "неэтичный / неэтический",
+      "link": "https://word-by-word.ru/words/en-ru/unethical"
+    }
+  },
+  {
+    "tragically": {
+      "translation": "трагически / …",
+      "link": "https://word-by-word.ru/words/en-ru/tragically"
+    }
+  },
+  {
+    "dice": {
+      "translation": "нарезать кубиками / играть в кости / …",
+      "link": "https://word-by-word.ru/words/en-ru/dice/verb"
+    }
+  },
+  {
+    "self-assured": {
+      "translation": "самоуверенный / уверенный в себе",
+      "link": "https://word-by-word.ru/en-ru/self-assured"
+    }
+  },
+  {
+    "equate": {
+      "translation": "приравнивать / …",
+      "link": "https://word-by-word.ru/words/en-ru/equate"
+    }
+  },
+  {
+    "charismatic": {
+      "translation": "харизматичный / …",
+      "link": "https://word-by-word.ru/words/en-ru/charismatic"
+    }
+  },
+  {
+    "running": {
+      "translation": "непрерывный / …",
+      "link": "https://word-by-word.ru/words/en-ru/running/adjective"
+    }
+  },
+  {
+    "merger": {
+      "translation": "слияние / объединение / …",
+      "link": "https://word-by-word.ru/words/en-ru/merger"
+    }
+  },
+  {
+    "consecutive": {
+      "translation": "последовательный / следственный / …",
+      "link": "https://word-by-word.ru/words/en-ru/consecutive"
+    }
+  },
+  {
+    "inferiority": {
+      "translation": "более низкое положение / более низкое качество",
+      "link": "https://word-by-word.ru/words/en-ru/inferiority"
+    }
+  },
+  {
+    "nest": {
+      "translation": "гнездиться / вить гнездо / …",
+      "link": "https://word-by-word.ru/words/en-ru/nest/verb"
+    }
+  },
+  {
+    "fluctuate": {
+      "translation": "колебаться / …",
+      "link": "https://word-by-word.ru/words/en-ru/fluctuate"
+    }
+  },
+  {
+    "deterrent": {
+      "translation": "средство устрашения / сдерживающий фактор / …",
+      "link": "https://word-by-word.ru/words/en-ru/deterrent"
+    }
+  },
+  {
+    "protagonist": {
+      "translation": "главный герой / сторонник / …",
+      "link": "https://word-by-word.ru/words/en-ru/protagonist"
+    }
+  },
+  {
+    "moderate": {
+      "translation": "умерять / смягчать / …",
+      "link": "https://word-by-word.ru/words/en-ru/moderate/verb"
+    }
+  },
+  {
+    "allocation": {
+      "translation": "распределение / ассигнование / …",
+      "link": "https://word-by-word.ru/words/en-ru/allocation"
+    }
+  },
+  {
+    "literate": {
+      "translation": "грамотный / …",
+      "link": "https://word-by-word.ru/words/en-ru/literate"
+    }
+  },
+  {
+    "lobby": {
+      "translation": "лоббировать / …",
+      "link": "https://word-by-word.ru/words/en-ru/lobby/verb"
+    }
+  },
+  {
+    "self-assurance": {
+      "translation": "уверенность в себе / …",
+      "link": "https://word-by-word.ru/words/en-ru/self-assurance"
+    }
+  },
+  {
+    "icily": {
+      "translation": "холодно / …",
+      "link": "https://word-by-word.ru/words/en-ru/icily"
+    }
+  },
+  {
+    "sufferer": {
+      "translation": "страдалец / больной / …",
+      "link": "https://word-by-word.ru/words/en-ru/sufferer"
+    }
+  },
+  {
+    "disillusioned": {
+      "translation": "разочарованный",
+      "link": "https://word-by-word.ru/words/en-ru/disillusioned"
+    }
+  },
+  {
+    "versatile": {
+      "translation": "разносторонний / универсальный / …",
+      "link": "https://word-by-word.ru/words/en-ru/versatile"
+    }
+  },
+  {
+    "ruling": {
+      "translation": "постановление / решение / …",
+      "link": "https://word-by-word.ru/words/en-ru/ruling"
+    }
+  },
+  {
+    "muddle": {
+      "translation": "путаница / неразбериха / …",
+      "link": "https://word-by-word.ru/words/en-ru/muddle/noun"
+    }
+  },
+  {
+    "paradoxical": {
+      "translation": "парадоксальный",
+      "link": "https://word-by-word.ru/words/en-ru/paradoxical"
+    }
+  },
+  {
+    "superficially": {
+      "translation": "поверхностно / неглубоко / …",
+      "link": "https://word-by-word.ru/words/en-ru/superficially"
+    }
+  },
+  {
+    "mediocre": {
+      "translation": "посредственный / заурядный / …",
+      "link": "https://word-by-word.ru/words/en-ru/mediocre"
+    }
+  },
+  {
+    "medically": {
+      "translation": "с медицинской точки зрения",
+      "link": "https://word-by-word.ru/words/en-ru/medically"
+    }
+  },
+  {
+    "diarrhoea": {
+      "translation": "понос",
+      "link": "https://word-by-word.ru/words/en-ru/diarrhoea"
+    }
+  },
+  {
+    "fulfilling": {
+      "translation": "приносящий удовлетворение",
+      "link": "https://word-by-word.ru/words/en-ru/fulfilling"
+    }
+  },
+  {
+    "analogous": {
+      "translation": "аналогичный / …",
+      "link": "https://word-by-word.ru/words/en-ru/analogous"
+    }
+  },
+  {
+    "calculated": {
+      "translation": "расчетный",
+      "link": "https://word-by-word.ru/words/en-ru/calculated"
+    }
+  },
+  {
+    "narrative": {
+      "translation": "рассказ / повествование / …",
+      "link": "https://word-by-word.ru/words/en-ru/narrative/noun"
+    }
+  },
+  {
+    "spiritually": {
+      "translation": "духовно / душевно",
+      "link": "https://word-by-word.ru/words/en-ru/spiritually"
+    }
+  },
+  {
+    "reportedly": {
+      "translation": "по сообщениям / как сообщают / …",
+      "link": "https://word-by-word.ru/words/en-ru/reportedly"
+    }
+  },
+  {
+    "intrinsic": {
+      "translation": "присущий / внутренний / …",
+      "link": "https://word-by-word.ru/words/en-ru/intrinsic"
+    }
+  },
+  {
+    "perseverance": {
+      "translation": "настойчивость / упорство / …",
+      "link": "https://word-by-word.ru/words/en-ru/perseverance"
+    }
+  },
+  {
+    "whereby": {
+      "translation": "чем / посредством чего / …",
+      "link": "https://word-by-word.ru/words/en-ru/whereby"
+    }
+  },
+  {
+    "disqualify": {
+      "translation": "дисквалифицировать / лишать права / …",
+      "link": "https://word-by-word.ru/words/en-ru/disqualify"
+    }
+  },
+  {
+    "justifiable": {
+      "translation": "законный / оправданный / …",
+      "link": "https://word-by-word.ru/words/en-ru/justifiable"
+    }
+  },
+  {
+    "rhyme": {
+      "translation": "рифмовать / рифмоваться / …",
+      "link": "https://word-by-word.ru/words/en-ru/rhyme/verb"
+    }
+  },
+  {
+    "commemorate": {
+      "translation": "отмечать / ознаменовывать / …",
+      "link": "https://word-by-word.ru/words/en-ru/commemorate"
+    }
+  },
+  {
+    "eventful": {
+      "translation": "богатый событиями / полный событий / …",
+      "link": "https://word-by-word.ru/words/en-ru/eventful"
+    }
+  },
+  {
+    "fraudulent": {
+      "translation": "мошеннический / …",
+      "link": "https://word-by-word.ru/words/en-ru/fraudulent"
+    }
+  },
+  {
+    "irreversible": {
+      "translation": "необратимый / нереверсивный / …",
+      "link": "https://word-by-word.ru/words/en-ru/irreversible"
+    }
+  },
+  {
+    "lenient": {
+      "translation": "мягкий / снисходительный / …",
+      "link": "https://word-by-word.ru/words/en-ru/lenient"
+    }
+  },
+  {
+    "unfavourable": {
+      "translation": "неблагоприятный / неблагосклонный / …",
+      "link": "https://word-by-word.ru/words/en-ru/unfavourable"
+    }
+  },
+  {
+    "predominantly": {
+      "translation": "преимущественно / в основном / …",
+      "link": "https://word-by-word.ru/words/en-ru/predominantly"
+    }
+  },
+  {
+    "undeveloped": {
+      "translation": "незастроенный / необработанный / …",
+      "link": "https://word-by-word.ru/words/en-ru/undeveloped"
+    }
+  },
+  {
+    "talks": {
+      "translation": "переговоры",
+      "link": "https://word-by-word.ru/words/en-ru/talks"
+    }
+  },
+  {
+    "vivacious": {
+      "translation": "живой / оживленный / …",
+      "link": "https://word-by-word.ru/words/en-ru/vivacious"
+    }
+  },
+  {
+    "combat": {
+      "translation": "бороться / …",
+      "link": "https://word-by-word.ru/words/en-ru/combat/verb"
+    }
+  },
+  {
+    "paradigm": {
+      "translation": "парадигма / …",
+      "link": "https://word-by-word.ru/words/en-ru/paradigm"
+    }
+  },
+  {
+    "unattainable": {
+      "translation": "недостижимый / недосягаемый / …",
+      "link": "https://word-by-word.ru/words/en-ru/unattainable"
+    }
+  },
+  {
+    "indisputable": {
+      "translation": "неоспоримый / бесспорный / …",
+      "link": "https://word-by-word.ru/words/en-ru/indisputable"
+    }
+  },
+  {
+    "coherence": {
+      "translation": "согласованность / когерентность / …",
+      "link": "https://word-by-word.ru/words/en-ru/coherence"
+    }
+  },
+  {
+    "empirical": {
+      "translation": "эмпирический / …",
+      "link": "https://word-by-word.ru/words/en-ru/empirical"
+    }
+  },
+  {
+    "torrential": {
+      "translation": "проливной / обильный / …",
+      "link": "https://word-by-word.ru/words/en-ru/torrential"
+    }
+  },
+  {
+    "disruptive": {
+      "translation": "подрывной / разрушительный / …",
+      "link": "https://word-by-word.ru/words/en-ru/disruptive"
+    }
+  },
+  {
+    "unconditional": {
+      "translation": "безусловный / безоговорочный / …",
+      "link": "https://word-by-word.ru/words/en-ru/unconditional"
+    }
+  },
+  {
+    "sedentary": {
+      "translation": "сидячий / малоподвижный",
+      "link": "https://word-by-word.ru/words/en-ru/sedentary"
+    }
+  },
+  {
+    "further": {
+      "translation": "способствовать / продвигать / …",
+      "link": "https://word-by-word.ru/words/en-ru/further/verb"
+    }
+  },
+  {
+    "scarcity": {
+      "translation": "дефицит / нехватка / …",
+      "link": "https://word-by-word.ru/words/en-ru/scarcity"
+    }
+  },
+  {
+    "unanimously": {
+      "translation": "единогласно",
+      "link": "https://word-by-word.ru/words/en-ru/unanimously"
+    }
+  },
+  {
+    "intolerant": {
+      "translation": "нетерпимый / нетерпеливый / …",
+      "link": "https://word-by-word.ru/words/en-ru/intolerant"
+    }
+  },
+  {
+    "upkeep": {
+      "translation": "содержание / уход / …",
+      "link": "https://word-by-word.ru/words/en-ru/upkeep"
+    }
+  },
+  {
+    "predominant": {
+      "translation": "преобладающий / превалирующий / …",
+      "link": "https://word-by-word.ru/words/en-ru/predominant"
+    }
+  },
+  {
+    "preventive": {
+      "translation": "профилактический / превентивный / …",
+      "link": "https://word-by-word.ru/words/en-ru/preventive"
+    }
+  },
+  {
+    "assertive": {
+      "translation": "напористый / уверенный в себе / …",
+      "link": "https://word-by-word.ru/words/en-ru/assertive"
+    }
+  },
+  {
+    "restrictive": {
+      "translation": "ограничительный / …",
+      "link": "https://word-by-word.ru/words/en-ru/restrictive"
+    }
+  },
+  {
+    "dated": {
+      "translation": "вышедший из употребления",
+      "link": "https://word-by-word.ru/words/en-ru/dated"
+    }
+  },
+  {
+    "workforce": {
+      "translation": "трудовые ресурсы / работники / …",
+      "link": "https://word-by-word.ru/words/en-ru/workforce"
+    }
+  },
+  {
+    "supplementary": {
+      "translation": "дополнительный / добавочный / …",
+      "link": "https://word-by-word.ru/words/en-ru/supplementary"
+    }
+  },
+  {
+    "divide": {
+      "translation": "разделение / деление / …",
+      "link": "https://word-by-word.ru/words/en-ru/divide/noun"
+    }
+  },
+  {
+    "unbiased": {
+      "translation": "беспристрастный / …",
+      "link": "https://word-by-word.ru/words/en-ru/unbiased"
+    }
+  },
+  {
+    "onwards": {
+      "translation": "далее / вперед / …",
+      "link": "https://word-by-word.ru/words/en-ru/onwards/adverb"
+    }
+  },
+  {
+    "intolerance": {
+      "translation": "нетерпимость / непереносимость / …",
+      "link": "https://word-by-word.ru/words/en-ru/intolerance"
+    }
+  },
+  {
+    "redistribute": {
+      "translation": "перераспределять / распространять",
+      "link": "https://word-by-word.ru/words/en-ru/redistribute"
+    }
+  },
+  {
+    "synonym": {
+      "translation": "синоним",
+      "link": "https://word-by-word.ru/words/en-ru/synonym"
+    }
+  },
+  {
+    "faultless": {
+      "translation": "безупречный / безошибочный / …",
+      "link": "https://word-by-word.ru/words/en-ru/faultless"
+    }
+  },
+  {
+    "snobbish": {
+      "translation": "снобистский",
+      "link": "https://word-by-word.ru/words/en-ru/snobbish"
+    }
+  },
+  {
+    "synonymous": {
+      "translation": "равнозначный / тождественный / …",
+      "link": "https://word-by-word.ru/words/en-ru/synonymous"
+    }
+  },
+  {
+    "contraceptive": {
+      "translation": "противозачаточное средство / противозачаточные средства / …",
+      "link": "https://word-by-word.ru/words/en-ru/contraceptive"
+    }
+  },
+  {
+    "clap": {
+      "translation": "хлопок / раскат / …",
+      "link": "https://word-by-word.ru/en-ru/clap/noun"
+    }
+  },
+  {
+    "hygienic": {
+      "translation": "гигиенический / гигиеничный / …",
+      "link": "https://word-by-word.ru/words/en-ru/hygienic"
+    }
+  },
+  {
+    "referendum": {
+      "translation": "референдум",
+      "link": "https://word-by-word.ru/words/en-ru/referendum"
+    }
+  },
+  {
+    "exemplify": {
+      "translation": "служить примером / иллюстрировать / …",
+      "link": "https://word-by-word.ru/words/en-ru/exemplify"
+    }
+  },
+  {
+    "detrimental": {
+      "translation": "вредный / убыточный / …",
+      "link": "https://word-by-word.ru/words/en-ru/detrimental"
+    }
+  },
+  {
+    "retailer": {
+      "translation": "розничный торговец / лавочник / …",
+      "link": "https://word-by-word.ru/words/en-ru/retailer"
+    }
+  },
+  {
+    "undoubted": {
+      "translation": "несомненный / бесспорный / …",
+      "link": "https://word-by-word.ru/words/en-ru/undoubted"
+    }
+  },
+  {
+    "mediocrity": {
+      "translation": "посредственность / заурядность / …",
+      "link": "https://word-by-word.ru/words/en-ru/mediocrity"
+    }
+  },
+  {
+    "materialistic": {
+      "translation": "материалистический / материалистичный / …",
+      "link": "https://word-by-word.ru/words/en-ru/materialistic"
+    }
+  },
+  {
+    "totalitarian": {
+      "translation": "тоталитарный",
+      "link": "https://word-by-word.ru/words/en-ru/totalitarian"
+    }
+  },
+  {
+    "repeated": {
+      "translation": "повторный / неоднократный",
+      "link": "https://word-by-word.ru/words/en-ru/repeated"
+    }
+  },
+  {
+    "materialism": {
+      "translation": "материализм / практицизм",
+      "link": "https://word-by-word.ru/words/en-ru/materialism"
+    }
+  },
+  {
+    "premium": {
+      "translation": "первосортный / высшего качества / …",
+      "link": "https://word-by-word.ru/words/en-ru/premium/adjective"
+    }
+  },
+  {
+    "attainable": {
+      "translation": "достижимый / …",
+      "link": "https://word-by-word.ru/words/en-ru/attainable"
+    }
+  },
+  {
+    "long-lasting": {
+      "translation": "длительный / продолжительный / долгоиграющий",
+      "link": "https://word-by-word.ru/words/en-ru/long-lasting"
+    }
+  },
+  {
+    "aspiring": {
+      "translation": "честолюбивый",
+      "link": "https://word-by-word.ru/words/en-ru/aspiring"
+    }
+  },
+  {
+    "xenophobia": {
+      "translation": "ксенофобия / неприязнь к иностранцам",
+      "link": "https://word-by-word.ru/words/en-ru/xenophobia"
+    }
+  },
+  {
+    "misinterpretation": {
+      "translation": "неверное истолкование / неверное понимание",
+      "link": "https://word-by-word.ru/words/en-ru/misinterpretation"
+    }
+  },
+  {
+    "reversible": {
+      "translation": "обратимый / двусторонний / …",
+      "link": "https://word-by-word.ru/words/en-ru/reversible"
+    }
+  },
+  {
+    "reliant": {
+      "translation": "уверенный / самонадеянный",
+      "link": "https://word-by-word.ru/words/en-ru/reliant"
+    }
+  },
+  {
+    "retention": {
+      "translation": "сохранение / удержание / …",
+      "link": "https://word-by-word.ru/words/en-ru/retention"
+    }
+  },
+  {
+    "inequality": {
+      "translation": "неравенство / …",
+      "link": "https://word-by-word.ru/words/en-ru/inequality"
+    }
+  },
+  {
+    "syllabus": {
+      "translation": "программа / план / …",
+      "link": "https://word-by-word.ru/words/en-ru/syllabus"
+    }
+  },
+  {
+    "introvert": {
+      "translation": "интроверт / робкий человек / …",
+      "link": "https://word-by-word.ru/words/en-ru/introvert"
+    }
+  },
+  {
+    "underdeveloped": {
+      "translation": "недоразвитый / …",
+      "link": "https://word-by-word.ru/words/en-ru/underdeveloped"
+    }
+  },
+  {
+    "stereotypical": {
+      "translation": "стереотипный",
+      "link": "https://word-by-word.ru/words/en-ru/stereotypical"
+    }
+  },
+  {
+    "contraception": {
+      "translation": "предупреждение беременности / контрацепция / …",
+      "link": "https://word-by-word.ru/words/en-ru/contraception"
+    }
+  },
+  {
+    "simplification": {
+      "translation": "упрощение",
+      "link": "https://word-by-word.ru/words/en-ru/simplification"
+    }
+  },
+  {
+    "whereby": {
+      "translation": "посредством чего / причем / …",
+      "link": "https://word-by-word.ru/words/en-ru/whereby/conjunction"
+    }
+  },
+  {
+    "crackdown": {
+      "translation": "крутые меры / применение суровых мер / …",
+      "link": "https://word-by-word.ru/words/en-ru/crackdown"
+    }
+  },
+  {
+    "irrespective": {
+      "translation": "безотносительный / независимый",
+      "link": "https://word-by-word.ru/words/en-ru/irrespective"
+    }
+  },
+  {
+    "spending": {
+      "translation": "расходы / расходование / …",
+      "link": "https://word-by-word.ru/words/en-ru/spending"
+    }
+  },
+  {
+    "homelessness": {
+      "translation": "бездомность",
+      "link": "https://word-by-word.ru/words/en-ru/homelessness"
+    }
+  },
+  {
+    "gaze": {
+      "translation": "пристальный взгляд / взор / …",
+      "link": "https://word-by-word.ru/en-ru/gaze/noun"
+    }
+  },
+  {
+    "latest": {
+      "translation": "новинка / последняя версия",
+      "link": "https://word-by-word.ru/words/en-ru/latest"
+    }
+  },
+  {
+    "oilfield": {
+      "translation": "нефтяное месторождение",
+      "link": "https://word-by-word.ru/words/en-ru/oilfield"
+    }
+  },
+  {
+    "unsustainable": {
+      "translation": "истощимый / неустойчивый / …",
+      "link": "https://word-by-word.ru/words/en-ru/unsustainable"
+    }
+  },
+  {
+    "sustainability": {
+      "translation": "устойчивость / стабильность",
+      "link": "https://word-by-word.ru/words/en-ru/sustainability"
+    }
+  },
+  {
+    "decaffeinated": {
+      "translation": "без кофеина / декофеинированный",
+      "link": "https://word-by-word.ru/words/en-ru/decaffeinated"
+    }
+  },
+  {
+    "riches": {
+      "translation": "богатство / …",
+      "link": "https://word-by-word.ru/words/en-ru/riches/noun"
+    }
+  }
+]

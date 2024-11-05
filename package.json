@@ -1,0 +1,17 @@
+{
+  "name": "englishb1",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "start": "pm2 start index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-telegram-bot-api": "^0.66.0",
+    "pm2": "^5.4.2"
+  }
+}

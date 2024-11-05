@@ -1,0 +1,6176 @@
+[
+  {
+    "in": {
+      "translation": "внутрь / во время / …",
+      "link": "https://word-by-word.ru/words/en-ru/in/adverb"
+    }
+  },
+  {
+    "that": {
+      "translation": "то / это / который",
+      "link": "https://word-by-word.ru/en-ru/that/pronoun"
+    }
+  },
+  {
+    "if": {
+      "translation": "если / ли",
+      "link": "https://word-by-word.ru/en-ru/if"
+    }
+  },
+  {
+    "on": {
+      "translation": "далее / …",
+      "link": "https://word-by-word.ru/words/en-ru/on/adverb"
+    }
+  },
+  {
+    "out": {
+      "translation": "вне / вон / …",
+      "link": "https://word-by-word.ru/words/en-ru/out"
+    }
+  },
+  {
+    "as": {
+      "translation": "как / …",
+      "link": "https://word-by-word.ru/words/en-ru/as/adverb"
+    }
+  },
+  {
+    "so": {
+      "translation": "так / настолько",
+      "link": "https://word-by-word.ru/en-ru/so"
+    }
+  },
+  {
+    "by": {
+      "translation": "у / за / …",
+      "link": "https://word-by-word.ru/en-ru/by"
+    }
+  },
+  {
+    "just": {
+      "translation": "просто / только что / как раз / всего лишь / …",
+      "link": "https://word-by-word.ru/en-ru/just"
+    }
+  },
+  {
+    "all": {
+      "translation": "весь / полностью / совсем / …",
+      "link": "https://word-by-word.ru/words/en-ru/all/adverb"
+    }
+  },
+  {
+    "one": {
+      "translation": "один / кто-то / …",
+      "link": "https://word-by-word.ru/words/en-ru/one/pronoun"
+    }
+  },
+  {
+    "up": {
+      "translation": "вверх по / снизу вверх / …",
+      "link": "https://word-by-word.ru/words/en-ru/up/preposition"
+    }
+  },
+  {
+    "way": {
+      "translation": "путь / способ / …",
+      "link": "https://word-by-word.ru/en-ru/way"
+    }
+  },
+  {
+    "turn": {
+      "translation": "поворачивать / сворачивать / …",
+      "link": "https://word-by-word.ru/en-ru/turn"
+    }
+  },
+  {
+    "through": {
+      "translation": "через / сквозь / …",
+      "link": "https://word-by-word.ru/words/en-ru/through"
+    }
+  },
+  {
+    "even": {
+      "translation": "даже",
+      "link": "https://word-by-word.ru/en-ru/even"
+    }
+  },
+  {
+    "over": {
+      "translation": "над / поверх / …",
+      "link": "https://word-by-word.ru/en-ru/over"
+    }
+  },
+  {
+    "like": {
+      "translation": "подобно / словно / …",
+      "link": "https://word-by-word.ru/en-ru/like/preposition"
+    }
+  },
+  {
+    "around": {
+      "translation": "вокруг / приблизительно / …",
+      "link": "https://word-by-word.ru/en-ru/around"
+    }
+  },
+  {
+    "away": {
+      "translation": "прочь / далеко / …",
+      "link": "https://word-by-word.ru/en-ru/away"
+    }
+  },
+  {
+    "still": {
+      "translation": "все еще / еще / до сих пор / …",
+      "link": "https://word-by-word.ru/en-ru/still"
+    }
+  },
+  {
+    "off": {
+      "translation": "прочь / …",
+      "link": "https://word-by-word.ru/words/en-ru/off"
+    }
+  },
+  {
+    "try": {
+      "translation": "пытаться / стараться / …",
+      "link": "https://word-by-word.ru/en-ru/try"
+    }
+  },
+  {
+    "that": {
+      "translation": "что / чтобы",
+      "link": "https://word-by-word.ru/en-ru/that/conjunction"
+    }
+  },
+  {
+    "may": {
+      "translation": "можно ли / может быть / …",
+      "link": "https://word-by-word.ru/en-ru/may/verb"
+    }
+  },
+  {
+    "stand": {
+      "translation": "стоять / встать / …",
+      "link": "https://word-by-word.ru/en-ru/stand"
+    }
+  },
+  {
+    "keep": {
+      "translation": "хранить / держать / продолжать",
+      "link": "https://word-by-word.ru/en-ru/keep"
+    }
+  },
+  {
+    "down": {
+      "translation": "вниз по",
+      "link": "https://word-by-word.ru/words/en-ru/down/preposition"
+    }
+  },
+  {
+    "let": {
+      "translation": "позволять / …",
+      "link": "https://word-by-word.ru/en-ru/let"
+    }
+  },
+  {
+    "himself": {
+      "translation": "сам себя / он сам",
+      "link": "https://word-by-word.ru/en-ru/himself"
+    }
+  },
+  {
+    "ask": {
+      "translation": "спрашивать / просить / задавать вопрос / …",
+      "link": "https://word-by-word.ru/en-ru/ask"
+    }
+  },
+  {
+    "must": {
+      "translation": "должен",
+      "link": "https://word-by-word.ru/en-ru/must"
+    }
+  },
+  {
+    "hold": {
+      "translation": "держать / хранить / …",
+      "link": "https://word-by-word.ru/en-ru/hold"
+    }
+  },
+  {
+    "move": {
+      "translation": "двигаться / перемещаться / …",
+      "link": "https://word-by-word.ru/en-ru/move"
+    }
+  },
+  {
+    "should": {
+      "translation": "следовало бы / следует / …",
+      "link": "https://word-by-word.ru/en-ru/should"
+    }
+  },
+  {
+    "out": {
+      "translation": "из / …",
+      "link": "https://word-by-word.ru/words/en-ru/out/preposition"
+    }
+  },
+  {
+    "moment": {
+      "translation": "момент / мгновение / …",
+      "link": "https://word-by-word.ru/en-ru/moment"
+    }
+  },
+  {
+    "little": {
+      "translation": "мало / немного",
+      "link": "https://word-by-word.ru/words/en-ru/little/adverb"
+    }
+  },
+  {
+    "nothing": {
+      "translation": "ничего / ничто",
+      "link": "https://word-by-word.ru/en-ru/nothing"
+    }
+  },
+  {
+    "mean": {
+      "translation": "значить / означать / иметь в виду / …",
+      "link": "https://word-by-word.ru/en-ru/mean"
+    }
+  },
+  {
+    "against": {
+      "translation": "против / напротив / к / …",
+      "link": "https://word-by-word.ru/en-ru/against"
+    }
+  },
+  {
+    "side": {
+      "translation": "сторона / бок / …",
+      "link": "https://word-by-word.ru/en-ru/side"
+    }
+  },
+  {
+    "call": {
+      "translation": "называть / звать / звонить / вызвать / …",
+      "link": "https://word-by-word.ru/en-ru/call"
+    }
+  },
+  {
+    "few": {
+      "translation": "несколько / немного",
+      "link": "https://word-by-word.ru/en-ru/few"
+    }
+  },
+  {
+    "long": {
+      "translation": "долго / давно / …",
+      "link": "https://word-by-word.ru/en-ru/long/adverb"
+    }
+  },
+  {
+    "enough": {
+      "translation": "достаточно",
+      "link": "https://word-by-word.ru/words/en-ru/enough"
+    }
+  },
+  {
+    "once": {
+      "translation": "однажды / один раз / прежде",
+      "link": "https://word-by-word.ru/words/en-ru/once"
+    }
+  },
+  {
+    "bring": {
+      "translation": "приносить / привозить / приводить / …",
+      "link": "https://word-by-word.ru/en-ru/bring"
+    }
+  },
+  {
+    "while": {
+      "translation": "пока / в то время как / …",
+      "link": "https://word-by-word.ru/en-ru/while"
+    }
+  },
+  {
+    "far": {
+      "translation": "далеко / гораздо / намного",
+      "link": "https://word-by-word.ru/en-ru/far"
+    }
+  },
+  {
+    "fall": {
+      "translation": "падать / опускаться / …",
+      "link": "https://word-by-word.ru/en-ru/fall"
+    }
+  },
+  {
+    "so": {
+      "translation": "поэтому / так что / …",
+      "link": "https://word-by-word.ru/en-ru/so/conjunction"
+    }
+  },
+  {
+    "happen": {
+      "translation": "происходить / случаться / …",
+      "link": "https://word-by-word.ru/en-ru/happen"
+    }
+  },
+  {
+    "maybe": {
+      "translation": "может быть / возможно",
+      "link": "https://word-by-word.ru/en-ru/maybe"
+    }
+  },
+  {
+    "after": {
+      "translation": "после / впоследствии",
+      "link": "https://word-by-word.ru/en-ru/after/adverb"
+    }
+  },
+  {
+    "ever": {
+      "translation": "всегда / когда-либо / …",
+      "link": "https://word-by-word.ru/en-ru/ever"
+    }
+  },
+  {
+    "kill": {
+      "translation": "убивать / губить / …",
+      "link": "https://word-by-word.ru/en-ru/kill"
+    }
+  },
+  {
+    "almost": {
+      "translation": "почти / едва не / …",
+      "link": "https://word-by-word.ru/en-ru/almost"
+    }
+  },
+  {
+    "across": {
+      "translation": "через / поперек",
+      "link": "https://word-by-word.ru/en-ru/across"
+    }
+  },
+  {
+    "mind": {
+      "translation": "возражать / помнить / …",
+      "link": "https://word-by-word.ru/en-ru/mind"
+    }
+  },
+  {
+    "pull": {
+      "translation": "тянуть / тащить / …",
+      "link": "https://word-by-word.ru/en-ru/pull"
+    }
+  },
+  {
+    "most": {
+      "translation": "многие / самый / наибольший",
+      "link": "https://word-by-word.ru/en-ru/most"
+    }
+  },
+  {
+    "without": {
+      "translation": "без / вне / …",
+      "link": "https://word-by-word.ru/words/en-ru/without"
+    }
+  },
+  {
+    "believe": {
+      "translation": "верить / считать / полагать",
+      "link": "https://word-by-word.ru/en-ru/believe"
+    }
+  },
+  {
+    "first": {
+      "translation": "впервые / сперва / …",
+      "link": "https://word-by-word.ru/words/en-ru/first/adverb"
+    }
+  },
+  {
+    "lie": {
+      "translation": "лежать / …",
+      "link": "https://word-by-word.ru/en-ru/lie"
+    }
+  },
+  {
+    "follow": {
+      "translation": "следовать / сопровождать",
+      "link": "https://word-by-word.ru/en-ru/follow"
+    }
+  },
+  {
+    "sure": {
+      "translation": "уверенный",
+      "link": "https://word-by-word.ru/en-ru/sure"
+    }
+  },
+  {
+    "else": {
+      "translation": "еще / …",
+      "link": "https://word-by-word.ru/words/en-ru/else"
+    }
+  },
+  {
+    "reach": {
+      "translation": "достигать / дотягиваться / …",
+      "link": "https://word-by-word.ru/en-ru/reach"
+    }
+  },
+  {
+    "right": {
+      "translation": "прямо / верно / направо / …",
+      "link": "https://word-by-word.ru/en-ru/right/adverb"
+    }
+  },
+  {
+    "already": {
+      "translation": "уже",
+      "link": "https://word-by-word.ru/en-ru/already"
+    }
+  },
+  {
+    "yet": {
+      "translation": "еще / уже / …",
+      "link": "https://word-by-word.ru/en-ru/yet"
+    }
+  },
+  {
+    "another": {
+      "translation": "другой / еще один",
+      "link": "https://word-by-word.ru/en-ru/another"
+    }
+  },
+  {
+    "ship": {
+      "translation": "корабль / судно / …",
+      "link": "https://word-by-word.ru/en-ru/ship"
+    }
+  },
+  {
+    "such": {
+      "translation": "такой / подобный",
+      "link": "https://word-by-word.ru/en-ru/such"
+    }
+  },
+  {
+    "shake": {
+      "translation": "трясти / качать / пожимать / …",
+      "link": "https://word-by-word.ru/en-ru/shake"
+    }
+  },
+  {
+    "left": {
+      "translation": "слева / налево / …",
+      "link": "https://word-by-word.ru/words/en-ru/left/adverb"
+    }
+  },
+  {
+    "become": {
+      "translation": "становиться / превращаться",
+      "link": "https://word-by-word.ru/en-ru/become"
+    }
+  },
+  {
+    "soon": {
+      "translation": "скоро / вскоре",
+      "link": "https://word-by-word.ru/en-ru/soon"
+    }
+  },
+  {
+    "pass": {
+      "translation": "проходить / передавать / …",
+      "link": "https://word-by-word.ru/en-ru/pass"
+    }
+  },
+  {
+    "air": {
+      "translation": "воздух / атмосфера / …",
+      "link": "https://word-by-word.ru/en-ru/air"
+    }
+  },
+  {
+    "along": {
+      "translation": "вдоль",
+      "link": "https://word-by-word.ru/en-ru/along"
+    }
+  },
+  {
+    "front": {
+      "translation": "передняя часть / фасад / …",
+      "link": "https://word-by-word.ru/en-ru/front"
+    }
+  },
+  {
+    "return": {
+      "translation": "возвращать / возвращаться / …",
+      "link": "https://word-by-word.ru/en-ru/return"
+    }
+  },
+  {
+    "dead": {
+      "translation": "мертвый / …",
+      "link": "https://word-by-word.ru/en-ru/dead"
+    }
+  },
+  {
+    "break": {
+      "translation": "ломать / разбивать / нарушать / …",
+      "link": "https://word-by-word.ru/en-ru/break"
+    }
+  },
+  {
+    "set": {
+      "translation": "набор / комплект / …",
+      "link": "https://word-by-word.ru/en-ru/set"
+    }
+  },
+  {
+    "everything": {
+      "translation": "всё / …",
+      "link": "https://word-by-word.ru/en-ru/everything"
+    }
+  },
+  {
+    "someone": {
+      "translation": "кто-то / некто / …",
+      "link": "https://word-by-word.ru/en-ru/someone"
+    }
+  },
+  {
+    "perhaps": {
+      "translation": "возможно / наверное / …",
+      "link": "https://word-by-word.ru/en-ru/perhaps"
+    }
+  },
+  {
+    "sound": {
+      "translation": "звук / …",
+      "link": "https://word-by-word.ru/en-ru/sound"
+    }
+  },
+  {
+    "quite": {
+      "translation": "довольно / вполне / совсем / …",
+      "link": "https://word-by-word.ru/en-ru/quite"
+    }
+  },
+  {
+    "herself": {
+      "translation": "себя / …",
+      "link": "https://word-by-word.ru/en-ru/herself"
+    }
+  },
+  {
+    "matter": {
+      "translation": "вопрос для рассмотрения / дело / …",
+      "link": "https://word-by-word.ru/en-ru/matter"
+    }
+  },
+  {
+    "since": {
+      "translation": "с тех пор, как / с / после / …",
+      "link": "https://word-by-word.ru/words/en-ru/since"
+    }
+  },
+  {
+    "line": {
+      "translation": "линия / строка / …",
+      "link": "https://word-by-word.ru/en-ru/line"
+    }
+  },
+  {
+    "probably": {
+      "translation": "вероятно / наверное / …",
+      "link": "https://word-by-word.ru/en-ru/probably"
+    }
+  },
+  {
+    "grow": {
+      "translation": "расти / выращивать / становиться / …",
+      "link": "https://word-by-word.ru/en-ru/grow"
+    }
+  },
+  {
+    "suppose": {
+      "translation": "полагать / предполагать / …",
+      "link": "https://word-by-word.ru/en-ru/suppose"
+    }
+  },
+  {
+    "high": {
+      "translation": "высокий / …",
+      "link": "https://word-by-word.ru/en-ru/high"
+    }
+  },
+  {
+    "lose": {
+      "translation": "терять / проигрывать / …",
+      "link": "https://word-by-word.ru/en-ru/lose"
+    }
+  },
+  {
+    "finger": {
+      "translation": "палец / …",
+      "link": "https://word-by-word.ru/en-ru/finger"
+    }
+  },
+  {
+    "over": {
+      "translation": "свыше / над / …",
+      "link": "https://word-by-word.ru/words/en-ru/over/adverb"
+    }
+  },
+  {
+    "might": {
+      "translation": "можно / мочь / …",
+      "link": "https://word-by-word.ru/en-ru/might"
+    }
+  },
+  {
+    "fire": {
+      "translation": "огонь / костер / пожар / …",
+      "link": "https://word-by-word.ru/en-ru/fire"
+    }
+  },
+  {
+    "idea": {
+      "translation": "идея / представление / …",
+      "link": "https://word-by-word.ru/en-ru/idea"
+    }
+  },
+  {
+    "case": {
+      "translation": "случай / ситуация / дело / футляр / …",
+      "link": "https://word-by-word.ru/en-ru/case"
+    }
+  },
+  {
+    "laugh": {
+      "translation": "смеяться / хохотать / …",
+      "link": "https://word-by-word.ru/en-ru/laugh"
+    }
+  },
+  {
+    "large": {
+      "translation": "большой / …",
+      "link": "https://word-by-word.ru/en-ru/large"
+    }
+  },
+  {
+    "miss": {
+      "translation": "скучать / пропускать / промахиваться / …",
+      "link": "https://word-by-word.ru/en-ru/miss/verb"
+    }
+  },
+  {
+    "myself": {
+      "translation": "себе / себя / сам",
+      "link": "https://word-by-word.ru/en-ru/myself"
+    }
+  },
+  {
+    "slowly": {
+      "translation": "медленно / неспешно / …",
+      "link": "https://word-by-word.ru/en-ru/slowly"
+    }
+  },
+  {
+    "anyone": {
+      "translation": "любой / никто / …",
+      "link": "https://word-by-word.ru/en-ru/anyone"
+    }
+  },
+  {
+    "real": {
+      "translation": "реальный / настоящий / …",
+      "link": "https://word-by-word.ru/en-ru/real"
+    }
+  },
+  {
+    "guy": {
+      "translation": "парень / …",
+      "link": "https://word-by-word.ru/en-ru/guy"
+    }
+  },
+  {
+    "full": {
+      "translation": "полный / заполненный / …",
+      "link": "https://word-by-word.ru/en-ru/full"
+    }
+  },
+  {
+    "ago": {
+      "translation": "назад / тому назад",
+      "link": "https://word-by-word.ru/en-ru/ago"
+    }
+  },
+  {
+    "office": {
+      "translation": "офис / кабинет",
+      "link": "https://word-by-word.ru/en-ru/office"
+    }
+  },
+  {
+    "reason": {
+      "translation": "причина / повод / …",
+      "link": "https://word-by-word.ru/en-ru/reason"
+    }
+  },
+  {
+    "better": {
+      "translation": "лучше",
+      "link": "https://word-by-word.ru/words/en-ru/better/adverb"
+    }
+  },
+  {
+    "rest": {
+      "translation": "оставшаяся часть / отдых / …",
+      "link": "https://word-by-word.ru/en-ru/rest"
+    }
+  },
+  {
+    "throw": {
+      "translation": "бросать / кидать / …",
+      "link": "https://word-by-word.ru/en-ru/throw"
+    }
+  },
+  {
+    "hundred": {
+      "translation": "сто / …",
+      "link": "https://word-by-word.ru/en-ru/hundred"
+    }
+  },
+  {
+    "heart": {
+      "translation": "сердце / сердцевина",
+      "link": "https://word-by-word.ru/en-ru/heart"
+    }
+  },
+  {
+    "fact": {
+      "translation": "факт / данность / …",
+      "link": "https://word-by-word.ru/en-ru/fact"
+    }
+  },
+  {
+    "push": {
+      "translation": "толкать / нажимать / …",
+      "link": "https://word-by-word.ru/en-ru/push"
+    }
+  },
+  {
+    "several": {
+      "translation": "несколько",
+      "link": "https://word-by-word.ru/en-ru/several"
+    }
+  },
+  {
+    "decide": {
+      "translation": "решать / принимать решение",
+      "link": "https://word-by-word.ru/en-ru/decide"
+    }
+  },
+  {
+    "blood": {
+      "translation": "кровь",
+      "link": "https://word-by-word.ru/en-ru/blood"
+    }
+  },
+  {
+    "whole": {
+      "translation": "целый / весь",
+      "link": "https://word-by-word.ru/en-ru/whole"
+    }
+  },
+  {
+    "second": {
+      "translation": "секунда / мгновение",
+      "link": "https://word-by-word.ru/en-ru/second/noun1"
+    }
+  },
+  {
+    "able": {
+      "translation": "способный / в состоянии",
+      "link": "https://word-by-word.ru/en-ru/able"
+    }
+  },
+  {
+    "bit": {
+      "translation": "кусочек / немного / небольшое количество / …",
+      "link": "https://word-by-word.ru/words/en-ru/bit"
+    }
+  },
+  {
+    "sort": {
+      "translation": "сорт / вид / тип",
+      "link": "https://word-by-word.ru/en-ru/sort"
+    }
+  },
+  {
+    "war": {
+      "translation": "война / борьба",
+      "link": "https://word-by-word.ru/en-ru/war"
+    }
+  },
+  {
+    "call": {
+      "translation": "вызов / телефонный звонок / …",
+      "link": "https://word-by-word.ru/en-ru/call/noun"
+    }
+  },
+  {
+    "beside": {
+      "translation": "рядом с / около / …",
+      "link": "https://word-by-word.ru/en-ru/beside"
+    }
+  },
+  {
+    "hope": {
+      "translation": "надеяться / …",
+      "link": "https://word-by-word.ru/en-ru/hope"
+    }
+  },
+  {
+    "point": {
+      "translation": "указывать / …",
+      "link": "https://word-by-word.ru/en-ru/point"
+    }
+  },
+  {
+    "build": {
+      "translation": "строить / создавать / …",
+      "link": "https://word-by-word.ru/en-ru/build"
+    }
+  },
+  {
+    "same": {
+      "translation": "тот же / то же самое / …",
+      "link": "https://word-by-word.ru/words/en-ru/same/pronoun"
+    }
+  },
+  {
+    "quickly": {
+      "translation": "быстро / …",
+      "link": "https://word-by-word.ru/en-ru/quickly"
+    }
+  },
+  {
+    "deep": {
+      "translation": "глубокий / низкий / …",
+      "link": "https://word-by-word.ru/en-ru/deep"
+    }
+  },
+  {
+    "cut": {
+      "translation": "резать / …",
+      "link": "https://word-by-word.ru/en-ru/cut"
+    }
+  },
+  {
+    "finally": {
+      "translation": "окончательно / в конце концов / наконец-то / …",
+      "link": "https://word-by-word.ru/en-ru/finally"
+    }
+  },
+  {
+    "next": {
+      "translation": "рядом / далее / потом / …",
+      "link": "https://word-by-word.ru/words/en-ru/next/adverb"
+    }
+  },
+  {
+    "story": {
+      "translation": "рассказ / история / сюжет / …",
+      "link": "https://word-by-word.ru/en-ru/story"
+    }
+  },
+  {
+    "sound": {
+      "translation": "звучать / …",
+      "link": "https://word-by-word.ru/en-ru/sound/verb"
+    }
+  },
+  {
+    "love": {
+      "translation": "любовь",
+      "link": "https://word-by-word.ru/en-ru/love/noun"
+    }
+  },
+  {
+    "guess": {
+      "translation": "полагать / …",
+      "link": "https://word-by-word.ru/en-ru/guess"
+    }
+  },
+  {
+    "hit": {
+      "translation": "ударять / поражать / …",
+      "link": "https://word-by-word.ru/en-ru/hit"
+    }
+  },
+  {
+    "fill": {
+      "translation": "заполнять / наполнять / …",
+      "link": "https://word-by-word.ru/en-ru/fill"
+    }
+  },
+  {
+    "everyone": {
+      "translation": "каждый / все / …",
+      "link": "https://word-by-word.ru/en-ru/everyone"
+    }
+  },
+  {
+    "true": {
+      "translation": "истинный / правдивый / …",
+      "link": "https://word-by-word.ru/en-ru/true"
+    }
+  },
+  {
+    "strong": {
+      "translation": "сильный / крепкий",
+      "link": "https://word-by-word.ru/en-ru/strong"
+    }
+  },
+  {
+    "continue": {
+      "translation": "продолжать / продолжаться / …",
+      "link": "https://word-by-word.ru/en-ru/continue"
+    }
+  },
+  {
+    "order": {
+      "translation": "приказ / заказ / порядок / ордер / …",
+      "link": "https://word-by-word.ru/en-ru/order"
+    }
+  },
+  {
+    "strange": {
+      "translation": "странный / незнакомый / …",
+      "link": "https://word-by-word.ru/en-ru/strange"
+    }
+  },
+  {
+    "pretty": {
+      "translation": "хорошенький / …",
+      "link": "https://word-by-word.ru/en-ru/pretty"
+    }
+  },
+  {
+    "home": {
+      "translation": "домой",
+      "link": "https://word-by-word.ru/en-ru/home/adverb"
+    }
+  },
+  {
+    "clear": {
+      "translation": "ясный / явный / четкий / …",
+      "link": "https://word-by-word.ru/en-ru/clear"
+    }
+  },
+  {
+    "except": {
+      "translation": "за исключением / кроме / …",
+      "link": "https://word-by-word.ru/words/en-ru/except"
+    }
+  },
+  {
+    "notice": {
+      "translation": "замечать / уведомлять / …",
+      "link": "https://word-by-word.ru/en-ru/notice"
+    }
+  },
+  {
+    "alone": {
+      "translation": "одинокий / один / …",
+      "link": "https://word-by-word.ru/en-ru/alone"
+    }
+  },
+  {
+    "shall": {
+      "translation": "следует / …",
+      "link": "https://word-by-word.ru/en-ru/shall"
+    }
+  },
+  {
+    "top": {
+      "translation": "верх / вершина / …",
+      "link": "https://word-by-word.ru/en-ru/top"
+    }
+  },
+  {
+    "instead": {
+      "translation": "вместо / взамен / …",
+      "link": "https://word-by-word.ru/words/en-ru/instead"
+    }
+  },
+  {
+    "low": {
+      "translation": "низкий / невысокий / …",
+      "link": "https://word-by-word.ru/en-ru/low"
+    }
+  },
+  {
+    "among": {
+      "translation": "среди / между / …",
+      "link": "https://word-by-word.ru/en-ru/among"
+    }
+  },
+  {
+    "offer": {
+      "translation": "предлагать / возносить / …",
+      "link": "https://word-by-word.ru/en-ru/offer"
+    }
+  },
+  {
+    "wish": {
+      "translation": "желание / пожелание / …",
+      "link": "https://word-by-word.ru/en-ru/wish"
+    }
+  },
+  {
+    "heavy": {
+      "translation": "тяжелый / сильный / …",
+      "link": "https://word-by-word.ru/en-ru/heavy"
+    }
+  },
+  {
+    "enter": {
+      "translation": "входить / вводить / …",
+      "link": "https://word-by-word.ru/en-ru/enter"
+    }
+  },
+  {
+    "hall": {
+      "translation": "прихожая / зал / …",
+      "link": "https://word-by-word.ru/en-ru/hall"
+    }
+  },
+  {
+    "space": {
+      "translation": "пространство / космос / промежуток / …",
+      "link": "https://word-by-word.ru/en-ru/space"
+    }
+  },
+  {
+    "pain": {
+      "translation": "боль / страдание / …",
+      "link": "https://word-by-word.ru/en-ru/pain"
+    }
+  },
+  {
+    "arrive": {
+      "translation": "прибывать / …",
+      "link": "https://word-by-word.ru/en-ru/arrive"
+    }
+  },
+  {
+    "sky": {
+      "translation": "небо / …",
+      "link": "https://word-by-word.ru/en-ru/sky"
+    }
+  },
+  {
+    "however": {
+      "translation": "однако / тем не менее / …",
+      "link": "https://word-by-word.ru/words/en-ru/however"
+    }
+  },
+  {
+    "anyway": {
+      "translation": "в любом случае / так или иначе / …",
+      "link": "https://word-by-word.ru/words/en-ru/anyway"
+    }
+  },
+  {
+    "cover": {
+      "translation": "покрывать / накрывать / …",
+      "link": "https://word-by-word.ru/en-ru/cover"
+    }
+  },
+  {
+    "save": {
+      "translation": "сохранять / спасать / …",
+      "link": "https://word-by-word.ru/en-ru/save"
+    }
+  },
+  {
+    "kind": {
+      "translation": "добрый / любезный / …",
+      "link": "https://word-by-word.ru/en-ru/kind/adjective"
+    }
+  },
+  {
+    "spend": {
+      "translation": "тратить / проводить / …",
+      "link": "https://word-by-word.ru/en-ru/spend"
+    }
+  },
+  {
+    "corner": {
+      "translation": "угол / уголок / …",
+      "link": "https://word-by-word.ru/en-ru/corner"
+    }
+  },
+  {
+    "star": {
+      "translation": "звезда / …",
+      "link": "https://word-by-word.ru/en-ru/star"
+    }
+  },
+  {
+    "itself": {
+      "translation": "себя / само себя / …",
+      "link": "https://word-by-word.ru/words/en-ru/itself"
+    }
+  },
+  {
+    "yourself": {
+      "translation": "ты сам / сам себя",
+      "link": "https://word-by-word.ru/words/en-ru/yourself"
+    }
+  },
+  {
+    "figure": {
+      "translation": "рисунок / фигура / …",
+      "link": "https://word-by-word.ru/en-ru/figure"
+    }
+  },
+  {
+    "actually": {
+      "translation": "действительно / фактически / на самом деле",
+      "link": "https://word-by-word.ru/en-ru/actually"
+    }
+  },
+  {
+    "police": {
+      "translation": "полиция",
+      "link": "https://word-by-word.ru/en-ru/police"
+    }
+  },
+  {
+    "themselves": {
+      "translation": "сами / сами себя",
+      "link": "https://word-by-word.ru/words/en-ru/themselves"
+    }
+  },
+  {
+    "nearly": {
+      "translation": "почти / приблизительно / …",
+      "link": "https://word-by-word.ru/en-ru/nearly"
+    }
+  },
+  {
+    "company": {
+      "translation": "компания / общество / …",
+      "link": "https://word-by-word.ru/en-ru/company"
+    }
+  },
+  {
+    "exactly": {
+      "translation": "точно / именно / как раз",
+      "link": "https://word-by-word.ru/en-ru/exactly"
+    }
+  },
+  {
+    "piece": {
+      "translation": "кусок / пьеса / …",
+      "link": "https://word-by-word.ru/en-ru/piece"
+    }
+  },
+  {
+    "explain": {
+      "translation": "объяснять / разъяснять / …",
+      "link": "https://word-by-word.ru/en-ru/explain"
+    }
+  },
+  {
+    "past": {
+      "translation": "прошлое / прошедшее время / …",
+      "link": "https://word-by-word.ru/en-ru/past/noun"
+    }
+  },
+  {
+    "use": {
+      "translation": "использование / применение / …",
+      "link": "https://word-by-word.ru/en-ru/use/noun"
+    }
+  },
+  {
+    "afraid": {
+      "translation": "испуганный / напуганный",
+      "link": "https://word-by-word.ru/en-ru/afraid"
+    }
+  },
+  {
+    "neck": {
+      "translation": "шея / …",
+      "link": "https://word-by-word.ru/en-ru/neck"
+    }
+  },
+  {
+    "during": {
+      "translation": "в течение / во время",
+      "link": "https://word-by-word.ru/en-ru/during"
+    }
+  },
+  {
+    "thousand": {
+      "translation": "тысяча",
+      "link": "https://word-by-word.ru/en-ru/thousand"
+    }
+  },
+  {
+    "bright": {
+      "translation": "яркий / светлый / …",
+      "link": "https://word-by-word.ru/en-ru/bright"
+    }
+  },
+  {
+    "field": {
+      "translation": "поле / область / …",
+      "link": "https://word-by-word.ru/en-ru/field"
+    }
+  },
+  {
+    "pocket": {
+      "translation": "карман / …",
+      "link": "https://word-by-word.ru/en-ru/pocket"
+    }
+  },
+  {
+    "join": {
+      "translation": "присоединяться / …",
+      "link": "https://word-by-word.ru/en-ru/join"
+    }
+  },
+  {
+    "certainly": {
+      "translation": "конечно / непременно / …",
+      "link": "https://word-by-word.ru/en-ru/certainly"
+    }
+  },
+  {
+    "building": {
+      "translation": "здание / строение / строительство",
+      "link": "https://word-by-word.ru/en-ru/building"
+    }
+  },
+  {
+    "ones": {
+      "translation": "те",
+      "link": "https://word-by-word.ru/en-ru/ones"
+    }
+  },
+  {
+    "hurt": {
+      "translation": "причинять боль / болеть / …",
+      "link": "https://word-by-word.ru/en-ru/hurt"
+    }
+  },
+  {
+    "sign": {
+      "translation": "знак / признак / …",
+      "link": "https://word-by-word.ru/en-ru/sign"
+    }
+  },
+  {
+    "shout": {
+      "translation": "кричать / выкрикивать / …",
+      "link": "https://word-by-word.ru/en-ru/shout"
+    }
+  },
+  {
+    "somewhere": {
+      "translation": "где-то / куда-то / …",
+      "link": "https://word-by-word.ru/en-ru/somewhere"
+    }
+  },
+  {
+    "climb": {
+      "translation": "взбираться / карабкаться / подниматься / …",
+      "link": "https://word-by-word.ru/en-ru/climb"
+    }
+  },
+  {
+    "jump": {
+      "translation": "прыгать / подпрыгивать / …",
+      "link": "https://word-by-word.ru/en-ru/jump"
+    }
+  },
+  {
+    "enough": {
+      "translation": "достаточно многие",
+      "link": "https://word-by-word.ru/words/en-ru/enough/pronoun"
+    }
+  },
+  {
+    "wide": {
+      "translation": "широкий / большой / …",
+      "link": "https://word-by-word.ru/en-ru/wide"
+    }
+  },
+  {
+    "empty": {
+      "translation": "пустой / порожний / …",
+      "link": "https://word-by-word.ru/en-ru/empty"
+    }
+  },
+  {
+    "free": {
+      "translation": "свободный / вольный / бесплатный",
+      "link": "https://word-by-word.ru/en-ru/free"
+    }
+  },
+  {
+    "machine": {
+      "translation": "машина / механизм / …",
+      "link": "https://word-by-word.ru/en-ru/machine"
+    }
+  },
+  {
+    "memory": {
+      "translation": "память / воспоминание / …",
+      "link": "https://word-by-word.ru/en-ru/memory"
+    }
+  },
+  {
+    "cross": {
+      "translation": "пересекать / переходить / скрещивать / …",
+      "link": "https://word-by-word.ru/en-ru/cross"
+    }
+  },
+  {
+    "north": {
+      "translation": "север / норд / …",
+      "link": "https://word-by-word.ru/en-ru/north"
+    }
+  },
+  {
+    "thank": {
+      "translation": "благодарить / выражать благодарность / …",
+      "link": "https://word-by-word.ru/en-ru/thank"
+    }
+  },
+  {
+    "shut": {
+      "translation": "закрывать",
+      "link": "https://word-by-word.ru/en-ru/shut"
+    }
+  },
+  {
+    "seat": {
+      "translation": "сиденье / место / …",
+      "link": "https://word-by-word.ru/en-ru/seat"
+    }
+  },
+  {
+    "direction": {
+      "translation": "направление / руководство / …",
+      "link": "https://word-by-word.ru/en-ru/direction"
+    }
+  },
+  {
+    "nobody": {
+      "translation": "никто",
+      "link": "https://word-by-word.ru/en-ru/nobody"
+    }
+  },
+  {
+    "gate": {
+      "translation": "ворота / калитка / …",
+      "link": "https://word-by-word.ru/en-ru/gate"
+    }
+  },
+  {
+    "twenty": {
+      "translation": "двадцать",
+      "link": "https://word-by-word.ru/en-ru/twenty"
+    }
+  },
+  {
+    "plan": {
+      "translation": "план / схема / …",
+      "link": "https://word-by-word.ru/en-ru/plan"
+    }
+  },
+  {
+    "somebody": {
+      "translation": "кто-то / кто-нибудь",
+      "link": "https://word-by-word.ru/en-ru/somebody"
+    }
+  },
+  {
+    "cry": {
+      "translation": "кричать / плакать",
+      "link": "https://word-by-word.ru/en-ru/cry"
+    }
+  },
+  {
+    "information": {
+      "translation": "информация / сведения / …",
+      "link": "https://word-by-word.ru/en-ru/information"
+    }
+  },
+  {
+    "news": {
+      "translation": "новость / известие",
+      "link": "https://word-by-word.ru/en-ru/news"
+    }
+  },
+  {
+    "centre": {
+      "translation": "центр / середина / …",
+      "link": "https://word-by-word.ru/en-ru/centre"
+    }
+  },
+  {
+    "add": {
+      "translation": "добавлять / …",
+      "link": "https://word-by-word.ru/en-ru/add"
+    }
+  },
+  {
+    "wood": {
+      "translation": "лес / древесина / …",
+      "link": "https://word-by-word.ru/en-ru/wood"
+    }
+  },
+  {
+    "hill": {
+      "translation": "холм / возвышенность / …",
+      "link": "https://word-by-word.ru/en-ru/hill"
+    }
+  },
+  {
+    "screen": {
+      "translation": "экран / ширма / …",
+      "link": "https://word-by-word.ru/en-ru/screen"
+    }
+  },
+  {
+    "immediately": {
+      "translation": "немедленно / сразу / …",
+      "link": "https://word-by-word.ru/en-ru/immediately"
+    }
+  },
+  {
+    "order": {
+      "translation": "приказывать / заказывать / упорядочивать",
+      "link": "https://word-by-word.ru/en-ru/order/verb"
+    }
+  },
+  {
+    "mountain": {
+      "translation": "гора / куча / …",
+      "link": "https://word-by-word.ru/en-ru/mountain"
+    }
+  },
+  {
+    "god": {
+      "translation": "бог / божество",
+      "link": "https://word-by-word.ru/en-ru/god"
+    }
+  },
+  {
+    "straight": {
+      "translation": "прямой / прямолинейный / ровный",
+      "link": "https://word-by-word.ru/words/en-ru/straight"
+    }
+  },
+  {
+    "quiet": {
+      "translation": "тихий / бесшумный / …",
+      "link": "https://word-by-word.ru/en-ru/quiet"
+    }
+  },
+  {
+    "right": {
+      "translation": "право / правая сторона / …",
+      "link": "https://word-by-word.ru/en-ru/right/noun"
+    }
+  },
+  {
+    "south": {
+      "translation": "южное направление / юг страны / …",
+      "link": "https://word-by-word.ru/words/en-ru/south"
+    }
+  },
+  {
+    "thin": {
+      "translation": "тонкий / худой / …",
+      "link": "https://word-by-word.ru/en-ru/thin"
+    }
+  },
+  {
+    "surprise": {
+      "translation": "сюрприз / удивление / …",
+      "link": "https://word-by-word.ru/en-ru/surprise"
+    }
+  },
+  {
+    "mine": {
+      "translation": "мой / мои / …",
+      "link": "https://word-by-word.ru/words/en-ru/mine"
+    }
+  },
+  {
+    "report": {
+      "translation": "рапорт / отчет / …",
+      "link": "https://word-by-word.ru/en-ru/report"
+    }
+  },
+  {
+    "dress": {
+      "translation": "одеваться / одевать / …",
+      "link": "https://word-by-word.ru/en-ru/dress"
+    }
+  },
+  {
+    "back": {
+      "translation": "задняя сторона / зад / спина / …",
+      "link": "https://word-by-word.ru/en-ru/back/noun"
+    }
+  },
+  {
+    "kiss": {
+      "translation": "целовать / поцеловать / …",
+      "link": "https://word-by-word.ru/en-ru/kiss"
+    }
+  },
+  {
+    "carefully": {
+      "translation": "осторожно / тщательно / внимательно / …",
+      "link": "https://word-by-word.ru/en-ru/carefully"
+    }
+  },
+  {
+    "plan": {
+      "translation": "планировать / …",
+      "link": "https://word-by-word.ru/en-ru/plan/verb"
+    }
+  },
+  {
+    "hurry": {
+      "translation": "спешить / торопиться / …",
+      "link": "https://word-by-word.ru/en-ru/hurry"
+    }
+  },
+  {
+    "serve": {
+      "translation": "служить / обслуживать / подавать",
+      "link": "https://word-by-word.ru/en-ru/serve"
+    }
+  },
+  {
+    "cold": {
+      "translation": "холод / простуда",
+      "link": "https://word-by-word.ru/en-ru/cold/noun"
+    }
+  },
+  {
+    "show": {
+      "translation": "шоу / показ / …",
+      "link": "https://word-by-word.ru/en-ru/show/noun"
+    }
+  },
+  {
+    "dream": {
+      "translation": "мечта / сон / …",
+      "link": "https://word-by-word.ru/en-ru/dream"
+    }
+  },
+  {
+    "park": {
+      "translation": "парковать / ставить на стоянку",
+      "link": "https://word-by-word.ru/en-ru/park"
+    }
+  },
+  {
+    "most": {
+      "translation": "больше всего / весьма / …",
+      "link": "https://word-by-word.ru/words/en-ru/most/adverb"
+    }
+  },
+  {
+    "third": {
+      "translation": "третий",
+      "link": "https://word-by-word.ru/en-ru/third"
+    }
+  },
+  {
+    "brain": {
+      "translation": "мозг / мозги / …",
+      "link": "https://word-by-word.ru/en-ru/brain"
+    }
+  },
+  {
+    "surprised": {
+      "translation": "удивленный / …",
+      "link": "https://word-by-word.ru/en-ru/surprised"
+    }
+  },
+  {
+    "soft": {
+      "translation": "мягкий / тихий / …",
+      "link": "https://word-by-word.ru/en-ru/soft"
+    }
+  },
+  {
+    "end": {
+      "translation": "заканчивать / покончить / положить конец / …",
+      "link": "https://word-by-word.ru/en-ru/end/verb"
+    }
+  },
+  {
+    "without": {
+      "translation": "снаружи / без того / …",
+      "link": "https://word-by-word.ru/words/en-ru/without/adverb"
+    }
+  },
+  {
+    "glad": {
+      "translation": "радостный / довольный / …",
+      "link": "https://word-by-word.ru/en-ru/glad"
+    }
+  },
+  {
+    "fast": {
+      "translation": "быстро / …",
+      "link": "https://word-by-word.ru/en-ru/fast/adverb"
+    }
+  },
+  {
+    "middle": {
+      "translation": "середина / центр / …",
+      "link": "https://word-by-word.ru/en-ru/middle"
+    }
+  },
+  {
+    "form": {
+      "translation": "форма / бланк / вид / …",
+      "link": "https://word-by-word.ru/en-ru/form"
+    }
+  },
+  {
+    "cloud": {
+      "translation": "облако / туча / …",
+      "link": "https://word-by-word.ru/en-ru/cloud"
+    }
+  },
+  {
+    "single": {
+      "translation": "один / единый / неженатый или незамужняя / …",
+      "link": "https://word-by-word.ru/en-ru/single"
+    }
+  },
+  {
+    "worry": {
+      "translation": "волноваться / беспокоиться",
+      "link": "https://word-by-word.ru/en-ru/worry"
+    }
+  },
+  {
+    "gold": {
+      "translation": "золото / …",
+      "link": "https://word-by-word.ru/en-ru/gold"
+    }
+  },
+  {
+    "thinking": {
+      "translation": "размышление / взгляды / …",
+      "link": "https://word-by-word.ru/words/en-ru/thinking"
+    }
+  },
+  {
+    "agree": {
+      "translation": "соглашаться / договариваться / …",
+      "link": "https://word-by-word.ru/en-ru/agree"
+    }
+  },
+  {
+    "round": {
+      "translation": "круглый / круговой / …",
+      "link": "https://word-by-word.ru/en-ru/round"
+    }
+  },
+  {
+    "pale": {
+      "translation": "бледный / слабый / …",
+      "link": "https://word-by-word.ru/en-ru/pale"
+    }
+  },
+  {
+    "sure": {
+      "translation": "уверенно / наверняка / …",
+      "link": "https://word-by-word.ru/words/en-ru/sure/adverb"
+    }
+  },
+  {
+    "view": {
+      "translation": "вид / мнение / …",
+      "link": "https://word-by-word.ru/en-ru/view"
+    }
+  },
+  {
+    "text": {
+      "translation": "текст / …",
+      "link": "https://word-by-word.ru/en-ru/text"
+    }
+  },
+  {
+    "west": {
+      "translation": "запад",
+      "link": "https://word-by-word.ru/en-ru/west"
+    }
+  },
+  {
+    "sudden": {
+      "translation": "внезапный / …",
+      "link": "https://word-by-word.ru/en-ru/sudden"
+    }
+  },
+  {
+    "let's": {
+      "translation": "давай / …",
+      "link": "https://word-by-word.ru/en-ru/let%27s"
+    }
+  },
+  {
+    "hole": {
+      "translation": "отверстие / дыра / …",
+      "link": "https://word-by-word.ru/en-ru/hole"
+    }
+  },
+  {
+    "simple": {
+      "translation": "простой / несложный / …",
+      "link": "https://word-by-word.ru/en-ru/simple"
+    }
+  },
+  {
+    "suit": {
+      "translation": "костюм / масть / …",
+      "link": "https://word-by-word.ru/en-ru/suit"
+    }
+  },
+  {
+    "share": {
+      "translation": "разделять / делиться / делить / …",
+      "link": "https://word-by-word.ru/en-ru/share"
+    }
+  },
+  {
+    "path": {
+      "translation": "тропинка / путь / …",
+      "link": "https://word-by-word.ru/en-ru/path"
+    }
+  },
+  {
+    "discover": {
+      "translation": "делать открытие / обнаруживать / находить / …",
+      "link": "https://word-by-word.ru/en-ru/discover"
+    }
+  },
+  {
+    "search": {
+      "translation": "искать / обыскивать",
+      "link": "https://word-by-word.ru/en-ru/search"
+    }
+  },
+  {
+    "angry": {
+      "translation": "сердитый / гневный / …",
+      "link": "https://word-by-word.ru/en-ru/angry"
+    }
+  },
+  {
+    "apartment": {
+      "translation": "апартаменты / квартира / …",
+      "link": "https://word-by-word.ru/en-ru/apartment"
+    }
+  },
+  {
+    "bridge": {
+      "translation": "мост / переносица / …",
+      "link": "https://word-by-word.ru/en-ru/bridge"
+    }
+  },
+  {
+    "especially": {
+      "translation": "особенно / специально / …",
+      "link": "https://word-by-word.ru/en-ru/especially"
+    }
+  },
+  {
+    "team": {
+      "translation": "команда / бригада / …",
+      "link": "https://word-by-word.ru/en-ru/team"
+    }
+  },
+  {
+    "tired": {
+      "translation": "усталый / …",
+      "link": "https://word-by-word.ru/en-ru/tired"
+    }
+  },
+  {
+    "such": {
+      "translation": "такие / такой / …",
+      "link": "https://word-by-word.ru/words/en-ru/such/pronoun"
+    }
+  },
+  {
+    "image": {
+      "translation": "изображение / имидж / …",
+      "link": "https://word-by-word.ru/en-ru/image"
+    }
+  },
+  {
+    "level": {
+      "translation": "уровень / этаж / …",
+      "link": "https://word-by-word.ru/en-ru/level"
+    }
+  },
+  {
+    "law": {
+      "translation": "закон / право / …",
+      "link": "https://word-by-word.ru/en-ru/law"
+    }
+  },
+  {
+    "clearly": {
+      "translation": "очевидно / четко / явно / …",
+      "link": "https://word-by-word.ru/en-ru/clearly"
+    }
+  },
+  {
+    "tone": {
+      "translation": "тон / оттенок / …",
+      "link": "https://word-by-word.ru/en-ru/tone"
+    }
+  },
+  {
+    "easily": {
+      "translation": "легко / свободно / …",
+      "link": "https://word-by-word.ru/en-ru/easily"
+    }
+  },
+  {
+    "wine": {
+      "translation": "вино / цвет красного вина / …",
+      "link": "https://word-by-word.ru/en-ru/wine"
+    }
+  },
+  {
+    "yard": {
+      "translation": "двор / ярд / …",
+      "link": "https://word-by-word.ru/en-ru/yard"
+    }
+  },
+  {
+    "sell": {
+      "translation": "продавать",
+      "link": "https://word-by-word.ru/en-ru/sell"
+    }
+  },
+  {
+    "bottle": {
+      "translation": "бутылка / флакон / …",
+      "link": "https://word-by-word.ru/en-ru/bottle"
+    }
+  },
+  {
+    "change": {
+      "translation": "сдача / изменение / смена / …",
+      "link": "https://word-by-word.ru/en-ru/change/noun"
+    }
+  },
+  {
+    "badly": {
+      "translation": "сильно / плохо / …",
+      "link": "https://word-by-word.ru/en-ru/badly"
+    }
+  },
+  {
+    "choice": {
+      "translation": "выбор / ассортимент / …",
+      "link": "https://word-by-word.ru/en-ru/choice"
+    }
+  },
+  {
+    "command": {
+      "translation": "команда / командование / …",
+      "link": "https://word-by-word.ru/en-ru/command"
+    }
+  },
+  {
+    "whose": {
+      "translation": "чей / …",
+      "link": "https://word-by-word.ru/words/en-ru/whose"
+    }
+  },
+  {
+    "knock": {
+      "translation": "стучать / сбивать / …",
+      "link": "https://word-by-word.ru/en-ru/knock"
+    }
+  },
+  {
+    "silver": {
+      "translation": "серебро / …",
+      "link": "https://word-by-word.ru/en-ru/silver"
+    }
+  },
+  {
+    "wrong": {
+      "translation": "неправильно / неверно / …",
+      "link": "https://word-by-word.ru/words/en-ru/wrong/adverb"
+    }
+  },
+  {
+    "bother": {
+      "translation": "беспокоить / надоедать / …",
+      "link": "https://word-by-word.ru/en-ru/bother"
+    }
+  },
+  {
+    "fail": {
+      "translation": "терпеть неудачу / проваливать / …",
+      "link": "https://word-by-word.ru/en-ru/fail"
+    }
+  },
+  {
+    "special": {
+      "translation": "специальный / особенный / особый / …",
+      "link": "https://word-by-word.ru/en-ru/special"
+    }
+  },
+  {
+    "anybody": {
+      "translation": "кто угодно / кто-нибудь",
+      "link": "https://word-by-word.ru/words/en-ru/anybody"
+    }
+  },
+  {
+    "east": {
+      "translation": "восток",
+      "link": "https://word-by-word.ru/en-ru/east"
+    }
+  },
+  {
+    "dangerous": {
+      "translation": "опасный / рискованный",
+      "link": "https://word-by-word.ru/en-ru/dangerous"
+    }
+  },
+  {
+    "mark": {
+      "translation": "отметка / пометка / …",
+      "link": "https://word-by-word.ru/words/en-ru/mark"
+    }
+  },
+  {
+    "programme": {
+      "translation": "программа / передача",
+      "link": "https://word-by-word.ru/en-ru/programme"
+    }
+  },
+  {
+    "prepare": {
+      "translation": "подготавливать / готовить",
+      "link": "https://word-by-word.ru/en-ru/prepare"
+    }
+  },
+  {
+    "ice": {
+      "translation": "лед / …",
+      "link": "https://word-by-word.ru/en-ru/ice"
+    }
+  },
+  {
+    "running": {
+      "translation": "бег / …",
+      "link": "https://word-by-word.ru/words/en-ru/running"
+    }
+  },
+  {
+    "win": {
+      "translation": "выигрывать / побеждать / …",
+      "link": "https://word-by-word.ru/en-ru/win"
+    }
+  },
+  {
+    "danger": {
+      "translation": "опасность / угроза / …",
+      "link": "https://word-by-word.ru/en-ru/danger"
+    }
+  },
+  {
+    "everybody": {
+      "translation": "каждый / все",
+      "link": "https://word-by-word.ru/en-ru/everybody"
+    }
+  },
+  {
+    "deck": {
+      "translation": "палуба / колода / …",
+      "link": "https://word-by-word.ru/en-ru/deck"
+    }
+  },
+  {
+    "usually": {
+      "translation": "обычно / обыкновенно",
+      "link": "https://word-by-word.ru/en-ru/usually"
+    }
+  },
+  {
+    "further": {
+      "translation": "дальнейший / дополнительный",
+      "link": "https://word-by-word.ru/words/en-ru/further"
+    }
+  },
+  {
+    "moon": {
+      "translation": "луна / …",
+      "link": "https://word-by-word.ru/en-ru/moon"
+    }
+  },
+  {
+    "pair": {
+      "translation": "пара / парные предметы / …",
+      "link": "https://word-by-word.ru/en-ru/pair"
+    }
+  },
+  {
+    "storm": {
+      "translation": "буря / шторм / …",
+      "link": "https://word-by-word.ru/en-ru/storm"
+    }
+  },
+  {
+    "receive": {
+      "translation": "получать / принимать / …",
+      "link": "https://word-by-word.ru/en-ru/receive"
+    }
+  },
+  {
+    "till": {
+      "translation": "до / пока / …",
+      "link": "https://word-by-word.ru/words/en-ru/till"
+    }
+  },
+  {
+    "forest": {
+      "translation": "лес / заповедник / …",
+      "link": "https://word-by-word.ru/en-ru/forest"
+    }
+  },
+  {
+    "magic": {
+      "translation": "магия / волшебство / …",
+      "link": "https://word-by-word.ru/en-ru/magic"
+    }
+  },
+  {
+    "usual": {
+      "translation": "обычный / всегдашний / …",
+      "link": "https://word-by-word.ru/en-ru/usual"
+    }
+  },
+  {
+    "twice": {
+      "translation": "дважды / вдвое / …",
+      "link": "https://word-by-word.ru/en-ru/twice"
+    }
+  },
+  {
+    "walk": {
+      "translation": "прогулка / ходьба / …",
+      "link": "https://word-by-word.ru/en-ru/walk/noun"
+    }
+  },
+  {
+    "cool": {
+      "translation": "прохладный / клёвый / крутой / …",
+      "link": "https://word-by-word.ru/en-ru/cool"
+    }
+  },
+  {
+    "thirty": {
+      "translation": "тридцать",
+      "link": "https://word-by-word.ru/en-ru/thirty"
+    }
+  },
+  {
+    "history": {
+      "translation": "история / историческая наука / …",
+      "link": "https://word-by-word.ru/en-ru/history"
+    }
+  },
+  {
+    "terrible": {
+      "translation": "ужасный / страшный / …",
+      "link": "https://word-by-word.ru/en-ru/terrible"
+    }
+  },
+  {
+    "fifty": {
+      "translation": "пятьдесят",
+      "link": "https://word-by-word.ru/en-ru/fifty"
+    }
+  },
+  {
+    "lost": {
+      "translation": "заблудившийся / потерянный / …",
+      "link": "https://word-by-word.ru/en-ru/lost"
+    }
+  },
+  {
+    "wild": {
+      "translation": "дикий / одичалый / …",
+      "link": "https://word-by-word.ru/en-ru/wild"
+    }
+  },
+  {
+    "sale": {
+      "translation": "продажа / распродажа / …",
+      "link": "https://word-by-word.ru/words/en-ru/sale"
+    }
+  },
+  {
+    "engine": {
+      "translation": "двигатель / паровоз / …",
+      "link": "https://word-by-word.ru/en-ru/engine"
+    }
+  },
+  {
+    "flight": {
+      "translation": "полет / рейс / пролет / …",
+      "link": "https://word-by-word.ru/en-ru/flight"
+    }
+  },
+  {
+    "card": {
+      "translation": "карта / открытка / …",
+      "link": "https://word-by-word.ru/en-ru/card"
+    }
+  },
+  {
+    "circle": {
+      "translation": "круг / окружность / …",
+      "link": "https://word-by-word.ru/en-ru/circle"
+    }
+  },
+  {
+    "loud": {
+      "translation": "громкий / шумный / …",
+      "link": "https://word-by-word.ru/en-ru/loud"
+    }
+  },
+  {
+    "uncle": {
+      "translation": "дядя",
+      "link": "https://word-by-word.ru/en-ru/uncle"
+    }
+  },
+  {
+    "interest": {
+      "translation": "интересовать / заинтересовать",
+      "link": "https://word-by-word.ru/en-ru/interest/verb"
+    }
+  },
+  {
+    "yours": {
+      "translation": "ваш / твой",
+      "link": "https://word-by-word.ru/en-ru/yours"
+    }
+  },
+  {
+    "block": {
+      "translation": "квартал / блок / глыба",
+      "link": "https://word-by-word.ru/en-ru/block"
+    }
+  },
+  {
+    "contact": {
+      "translation": "контакт / связь / …",
+      "link": "https://word-by-word.ru/en-ru/contact"
+    }
+  },
+  {
+    "toy": {
+      "translation": "игрушка / забава / …",
+      "link": "https://word-by-word.ru/words/en-ru/toy"
+    }
+  },
+  {
+    "soul": {
+      "translation": "душа / …",
+      "link": "https://word-by-word.ru/en-ru/soul"
+    }
+  },
+  {
+    "hate": {
+      "translation": "ненавидеть",
+      "link": "https://word-by-word.ru/en-ru/hate"
+    }
+  },
+  {
+    "heat": {
+      "translation": "тепло / жара / …",
+      "link": "https://word-by-word.ru/en-ru/heat"
+    }
+  },
+  {
+    "married": {
+      "translation": "женатый / замужняя",
+      "link": "https://word-by-word.ru/en-ru/married"
+    }
+  },
+  {
+    "crazy": {
+      "translation": "сумасшедший / шальной / …",
+      "link": "https://word-by-word.ru/en-ru/crazy"
+    }
+  },
+  {
+    "anywhere": {
+      "translation": "где угодно / куда-нибудь / …",
+      "link": "https://word-by-word.ru/en-ru/anywhere"
+    }
+  },
+  {
+    "member": {
+      "translation": "член / представитель / …",
+      "link": "https://word-by-word.ru/en-ru/member"
+    }
+  },
+  {
+    "roof": {
+      "translation": "крыша / кровля / …",
+      "link": "https://word-by-word.ru/en-ru/roof"
+    }
+  },
+  {
+    "size": {
+      "translation": "размер / формат / …",
+      "link": "https://word-by-word.ru/en-ru/size"
+    }
+  },
+  {
+    "sick": {
+      "translation": "больной / …",
+      "link": "https://word-by-word.ru/words/en-ru/sick"
+    }
+  },
+  {
+    "fresh": {
+      "translation": "свежий / …",
+      "link": "https://word-by-word.ru/en-ru/fresh"
+    }
+  },
+  {
+    "sausage": {
+      "translation": "колбаса / сосиска / …",
+      "link": "https://word-by-word.ru/words/en-ru/sausage"
+    }
+  },
+  {
+    "digital": {
+      "translation": "цифровой / пальцевидный / …",
+      "link": "https://word-by-word.ru/en-ru/digital"
+    }
+  },
+  {
+    "detail": {
+      "translation": "деталь / подробность / …",
+      "link": "https://word-by-word.ru/en-ru/detail"
+    }
+  },
+  {
+    "born": {
+      "translation": "родившийся / рожденный / …",
+      "link": "https://word-by-word.ru/words/en-ru/born"
+    }
+  },
+  {
+    "belt": {
+      "translation": "ремень / пояс / …",
+      "link": "https://word-by-word.ru/en-ru/belt"
+    }
+  },
+  {
+    "race": {
+      "translation": "гонка / раса / …",
+      "link": "https://word-by-word.ru/en-ru/race"
+    }
+  },
+  {
+    "difference": {
+      "translation": "различие / разница / …",
+      "link": "https://word-by-word.ru/en-ru/difference"
+    }
+  },
+  {
+    "railway": {
+      "translation": "железная дорога / железнодорожный путь / …",
+      "link": "https://word-by-word.ru/words/en-ru/railway"
+    }
+  },
+  {
+    "ring": {
+      "translation": "кольцо / круг / …",
+      "link": "https://word-by-word.ru/en-ru/ring/noun"
+    }
+  },
+  {
+    "church": {
+      "translation": "церковь / …",
+      "link": "https://word-by-word.ru/en-ru/church"
+    }
+  },
+  {
+    "dream": {
+      "translation": "мечтать / …",
+      "link": "https://word-by-word.ru/en-ru/dream/verb"
+    }
+  },
+  {
+    "president": {
+      "translation": "президент / председатель / …",
+      "link": "https://word-by-word.ru/en-ru/president"
+    }
+  },
+  {
+    "rich": {
+      "translation": "богатый / обильный / …",
+      "link": "https://word-by-word.ru/en-ru/rich"
+    }
+  },
+  {
+    "entrance": {
+      "translation": "вход / вступление / …",
+      "link": "https://word-by-word.ru/en-ru/entrance"
+    }
+  },
+  {
+    "staff": {
+      "translation": "персонал / сотрудники / посох / …",
+      "link": "https://word-by-word.ru/words/en-ru/staff"
+    }
+  },
+  {
+    "luck": {
+      "translation": "удача / везение / …",
+      "link": "https://word-by-word.ru/en-ru/luck"
+    }
+  },
+  {
+    "possibly": {
+      "translation": "возможно / может быть / …",
+      "link": "https://word-by-word.ru/words/en-ru/possibly"
+    }
+  },
+  {
+    "girlfriend": {
+      "translation": "подруга / любимая девушка / …",
+      "link": "https://word-by-word.ru/en-ru/girlfriend"
+    }
+  },
+  {
+    "autumn": {
+      "translation": "осень / наступление старости",
+      "link": "https://word-by-word.ru/en-ru/autumn"
+    }
+  },
+  {
+    "wet": {
+      "translation": "мокрый / …",
+      "link": "https://word-by-word.ru/en-ru/wet"
+    }
+  },
+  {
+    "file": {
+      "translation": "файл / папка / …",
+      "link": "https://word-by-word.ru/en-ru/file"
+    }
+  },
+  {
+    "dry": {
+      "translation": "сухой / засушливый / …",
+      "link": "https://word-by-word.ru/en-ru/dry"
+    }
+  },
+  {
+    "mad": {
+      "translation": "рассерженный / сумасшедший / …",
+      "link": "https://word-by-word.ru/en-ru/mad"
+    }
+  },
+  {
+    "million": {
+      "translation": "миллион",
+      "link": "https://word-by-word.ru/en-ru/million"
+    }
+  },
+  {
+    "careful": {
+      "translation": "осторожный / тщательный / …",
+      "link": "https://word-by-word.ru/en-ru/careful"
+    }
+  },
+  {
+    "wheel": {
+      "translation": "колесо / руль / …",
+      "link": "https://word-by-word.ru/en-ru/wheel"
+    }
+  },
+  {
+    "mirror": {
+      "translation": "зеркало / отражение / …",
+      "link": "https://word-by-word.ru/en-ru/mirror"
+    }
+  },
+  {
+    "sunny": {
+      "translation": "солнечный / …",
+      "link": "https://word-by-word.ru/en-ru/sunny"
+    }
+  },
+  {
+    "lucky": {
+      "translation": "удачливый / счастливый / везучий / …",
+      "link": "https://word-by-word.ru/words/en-ru/lucky"
+    }
+  },
+  {
+    "golden": {
+      "translation": "золотистый / золотой",
+      "link": "https://word-by-word.ru/en-ru/golden"
+    }
+  },
+  {
+    "perfect": {
+      "translation": "идеальный / совершенный / …",
+      "link": "https://word-by-word.ru/en-ru/perfect"
+    }
+  },
+  {
+    "century": {
+      "translation": "век / столетие / …",
+      "link": "https://word-by-word.ru/en-ru/century"
+    }
+  },
+  {
+    "spell": {
+      "translation": "означать / произносить или писать слово по буквам / …",
+      "link": "https://word-by-word.ru/words/en-ru/spell"
+    }
+  },
+  {
+    "stomach": {
+      "translation": "желудок / живот / …",
+      "link": "https://word-by-word.ru/en-ru/stomach"
+    }
+  },
+  {
+    "fit": {
+      "translation": "крепкий физически / подходящий / …",
+      "link": "https://word-by-word.ru/words/en-ru/fit"
+    }
+  },
+  {
+    "trip": {
+      "translation": "поездка / путешествие / …",
+      "link": "https://word-by-word.ru/en-ru/trip"
+    }
+  },
+  {
+    "sheet": {
+      "translation": "лист / простыня / …",
+      "link": "https://word-by-word.ru/en-ru/sheet"
+    }
+  },
+  {
+    "lake": {
+      "translation": "озеро / лак для покраски",
+      "link": "https://word-by-word.ru/en-ru/lake"
+    }
+  },
+  {
+    "leather": {
+      "translation": "кожа / кожаное изделие / …",
+      "link": "https://word-by-word.ru/words/en-ru/leather"
+    }
+  },
+  {
+    "medicine": {
+      "translation": "медицина / лекарство / …",
+      "link": "https://word-by-word.ru/en-ru/medicine"
+    }
+  },
+  {
+    "pleased": {
+      "translation": "довольный / рад / …",
+      "link": "https://word-by-word.ru/en-ru/pleased"
+    }
+  },
+  {
+    "deal": {
+      "translation": "иметь дело / справляться / …",
+      "link": "https://word-by-word.ru/words/en-ru/deal/verb"
+    }
+  },
+  {
+    "map": {
+      "translation": "карта / план / …",
+      "link": "https://word-by-word.ru/en-ru/map"
+    }
+  },
+  {
+    "guest": {
+      "translation": "гость / постоялец / …",
+      "link": "https://word-by-word.ru/en-ru/guest"
+    }
+  },
+  {
+    "pilot": {
+      "translation": "пилот / летчик / …",
+      "link": "https://word-by-word.ru/en-ru/pilot"
+    }
+  },
+  {
+    "final": {
+      "translation": "последний / окончательный / заключительный / …",
+      "link": "https://word-by-word.ru/en-ru/final"
+    }
+  },
+  {
+    "nature": {
+      "translation": "природа / характер / …",
+      "link": "https://word-by-word.ru/en-ru/nature"
+    }
+  },
+  {
+    "play": {
+      "translation": "пьеса / спектакль / …",
+      "link": "https://word-by-word.ru/words/en-ru/play/noun"
+    }
+  },
+  {
+    "fair": {
+      "translation": "справедливый / честный / …",
+      "link": "https://word-by-word.ru/en-ru/fair"
+    }
+  },
+  {
+    "mistake": {
+      "translation": "ошибка / недоразумение / …",
+      "link": "https://word-by-word.ru/en-ru/mistake"
+    }
+  },
+  {
+    "castle": {
+      "translation": "замок / ладья / …",
+      "link": "https://word-by-word.ru/en-ru/castle"
+    }
+  },
+  {
+    "wooden": {
+      "translation": "деревянный / безжизненный / …",
+      "link": "https://word-by-word.ru/en-ru/wooden"
+    }
+  },
+  {
+    "attractive": {
+      "translation": "привлекательный / притягательный / …",
+      "link": "https://word-by-word.ru/en-ru/attractive"
+    }
+  },
+  {
+    "stair": {
+      "translation": "ступенька",
+      "link": "https://word-by-word.ru/en-ru/stair"
+    }
+  },
+  {
+    "poster": {
+      "translation": "плакат / афиша / …",
+      "link": "https://word-by-word.ru/words/en-ru/poster"
+    }
+  },
+  {
+    "bear": {
+      "translation": "медведь",
+      "link": "https://word-by-word.ru/en-ru/bear/noun"
+    }
+  },
+  {
+    "square": {
+      "translation": "площадь / квадрат / …",
+      "link": "https://word-by-word.ru/en-ru/square"
+    }
+  },
+  {
+    "discuss": {
+      "translation": "обсуждать / дискутировать / …",
+      "link": "https://word-by-word.ru/en-ru/discuss"
+    }
+  },
+  {
+    "hers": {
+      "translation": "ее",
+      "link": "https://word-by-word.ru/words/en-ru/hers"
+    }
+  },
+  {
+    "uniform": {
+      "translation": "униформа / рабочая форма / …",
+      "link": "https://word-by-word.ru/en-ru/uniform"
+    }
+  },
+  {
+    "ceiling": {
+      "translation": "потолок / перекрытие / …",
+      "link": "https://word-by-word.ru/en-ru/ceiling"
+    }
+  },
+  {
+    "list": {
+      "translation": "список / перечень / …",
+      "link": "https://word-by-word.ru/en-ru/list"
+    }
+  },
+  {
+    "normal": {
+      "translation": "нормальный / обычный / …",
+      "link": "https://word-by-word.ru/en-ru/normal"
+    }
+  },
+  {
+    "metre": {
+      "translation": "метр / измерительный прибор / …",
+      "link": "https://word-by-word.ru/words/en-ru/metre"
+    }
+  },
+  {
+    "wallet": {
+      "translation": "бумажник / кошелек / …",
+      "link": "https://word-by-word.ru/en-ru/wallet"
+    }
+  },
+  {
+    "repeat": {
+      "translation": "повторять / …",
+      "link": "https://word-by-word.ru/en-ru/repeat"
+    }
+  },
+  {
+    "deep": {
+      "translation": "глубоко / вглубь",
+      "link": "https://word-by-word.ru/words/en-ru/deep/adverb"
+    }
+  },
+  {
+    "art": {
+      "translation": "искусство / мастерство / …",
+      "link": "https://word-by-word.ru/en-ru/art"
+    }
+  },
+  {
+    "cheque": {
+      "translation": "чек",
+      "link": "https://word-by-word.ru/words/en-ru/cheque"
+    }
+  },
+  {
+    "laughter": {
+      "translation": "смех / хохот / …",
+      "link": "https://word-by-word.ru/en-ru/laughter"
+    }
+  },
+  {
+    "accident": {
+      "translation": "несчастный случай / случайное происшествие / …",
+      "link": "https://word-by-word.ru/en-ru/accident"
+    }
+  },
+  {
+    "defence": {
+      "translation": "оборона / защита",
+      "link": "https://word-by-word.ru/words/en-ru/defence"
+    }
+  },
+  {
+    "likely": {
+      "translation": "вероятный / возможный / …",
+      "link": "https://word-by-word.ru/words/en-ru/likely"
+    }
+  },
+  {
+    "boyfriend": {
+      "translation": "возлюбленный / ухажер / …",
+      "link": "https://word-by-word.ru/en-ru/boyfriend"
+    }
+  },
+  {
+    "term": {
+      "translation": "термин / семестр / срок",
+      "link": "https://word-by-word.ru/en-ru/term"
+    }
+  },
+  {
+    "meeting": {
+      "translation": "встреча / совещание / …",
+      "link": "https://word-by-word.ru/en-ru/meeting"
+    }
+  },
+  {
+    "dish": {
+      "translation": "блюдо / тарелка / …",
+      "link": "https://word-by-word.ru/en-ru/dish"
+    }
+  },
+  {
+    "focus": {
+      "translation": "сфокусироваться / сосредоточиться / …",
+      "link": "https://word-by-word.ru/en-ru/focus"
+    }
+  },
+  {
+    "prefer": {
+      "translation": "предпочитать / выдвигать / …",
+      "link": "https://word-by-word.ru/en-ru/prefer"
+    }
+  },
+  {
+    "plastic": {
+      "translation": "пластик / пластмасса / …",
+      "link": "https://word-by-word.ru/words/en-ru/plastic"
+    }
+  },
+  {
+    "price": {
+      "translation": "цена / расценка / …",
+      "link": "https://word-by-word.ru/en-ru/price"
+    }
+  },
+  {
+    "pool": {
+      "translation": "бассейн / пул / …",
+      "link": "https://word-by-word.ru/en-ru/pool"
+    }
+  },
+  {
+    "walking": {
+      "translation": "ходьба / выгул / …",
+      "link": "https://word-by-word.ru/words/en-ru/walking"
+    }
+  },
+  {
+    "afterwards": {
+      "translation": "потом / впоследствии / …",
+      "link": "https://word-by-word.ru/words/en-ru/afterwards"
+    }
+  },
+  {
+    "gift": {
+      "translation": "подарок / дарование / …",
+      "link": "https://word-by-word.ru/en-ru/gift"
+    }
+  },
+  {
+    "passenger": {
+      "translation": "пассажир",
+      "link": "https://word-by-word.ru/en-ru/passenger"
+    }
+  },
+  {
+    "include": {
+      "translation": "включать в себя / …",
+      "link": "https://word-by-word.ru/en-ru/include"
+    }
+  },
+  {
+    "traffic": {
+      "translation": "дорожное движение / …",
+      "link": "https://word-by-word.ru/en-ru/traffic"
+    }
+  },
+  {
+    "pack": {
+      "translation": "упаковывать / …",
+      "link": "https://word-by-word.ru/en-ru/pack"
+    }
+  },
+  {
+    "stairs": {
+      "translation": "лестница / лестничный пролет",
+      "link": "https://word-by-word.ru/en-ru/stairs"
+    }
+  },
+  {
+    "interested": {
+      "translation": "заинтересованный / …",
+      "link": "https://word-by-word.ru/en-ru/interested"
+    }
+  },
+  {
+    "beginning": {
+      "translation": "начало / истоки / …",
+      "link": "https://word-by-word.ru/en-ru/beginning"
+    }
+  },
+  {
+    "brush": {
+      "translation": "чистить щеткой / …",
+      "link": "https://word-by-word.ru/words/en-ru/brush"
+    }
+  },
+  {
+    "wonderful": {
+      "translation": "чудесный / …",
+      "link": "https://word-by-word.ru/en-ru/wonderful"
+    }
+  },
+  {
+    "blanket": {
+      "translation": "одеяло / покрывало / …",
+      "link": "https://word-by-word.ru/en-ru/blanket"
+    }
+  },
+  {
+    "baseball": {
+      "translation": "бейсбол / бейсбольный мяч",
+      "link": "https://word-by-word.ru/words/en-ru/baseball"
+    }
+  },
+  {
+    "cousin": {
+      "translation": "двоюродная сестра или брат / кузина или кузен",
+      "link": "https://word-by-word.ru/en-ru/cousin"
+    }
+  },
+  {
+    "comfortable": {
+      "translation": "удобный / комфортный / …",
+      "link": "https://word-by-word.ru/en-ru/comfortable"
+    }
+  },
+  {
+    "gas": {
+      "translation": "газ / бензин / …",
+      "link": "https://word-by-word.ru/words/en-ru/gas"
+    }
+  },
+  {
+    "club": {
+      "translation": "клуб / дубина / …",
+      "link": "https://word-by-word.ru/en-ru/club"
+    }
+  },
+  {
+    "opposite": {
+      "translation": "напротив / против / …",
+      "link": "https://word-by-word.ru/en-ru/opposite"
+    }
+  },
+  {
+    "pray": {
+      "translation": "молиться / умолять / …",
+      "link": "https://word-by-word.ru/en-ru/pray"
+    }
+  },
+  {
+    "ourselves": {
+      "translation": "себя / себе / …",
+      "link": "https://word-by-word.ru/words/en-ru/ourselves"
+    }
+  },
+  {
+    "chain": {
+      "translation": "цепь / цепочка / …",
+      "link": "https://word-by-word.ru/en-ru/chain"
+    }
+  },
+  {
+    "elevator": {
+      "translation": "лифт / подъемник / …",
+      "link": "https://word-by-word.ru/en-ru/elevator"
+    }
+  },
+  {
+    "forty": {
+      "translation": "сорок",
+      "link": "https://word-by-word.ru/en-ru/forty"
+    }
+  },
+  {
+    "dry": {
+      "translation": "сушить / …",
+      "link": "https://word-by-word.ru/en-ru/dry/verb"
+    }
+  },
+  {
+    "aunt": {
+      "translation": "тётя / …",
+      "link": "https://word-by-word.ru/en-ru/aunt"
+    }
+  },
+  {
+    "match": {
+      "translation": "матч / спичка / совпадение / пара, подходящая друг другу / …",
+      "link": "https://word-by-word.ru/en-ru/match"
+    }
+  },
+  {
+    "alarm": {
+      "translation": "сигнал тревоги / сигнализация / …",
+      "link": "https://word-by-word.ru/en-ru/alarm"
+    }
+  },
+  {
+    "library": {
+      "translation": "библиотека / книгохранилище / …",
+      "link": "https://word-by-word.ru/en-ru/library"
+    }
+  },
+  {
+    "ocean": {
+      "translation": "океан / масса / …",
+      "link": "https://word-by-word.ru/en-ru/ocean"
+    }
+  },
+  {
+    "secret": {
+      "translation": "секрет / тайна / …",
+      "link": "https://word-by-word.ru/en-ru/secret"
+    }
+  },
+  {
+    "describe": {
+      "translation": "описывать / …",
+      "link": "https://word-by-word.ru/en-ru/describe"
+    }
+  },
+  {
+    "alone": {
+      "translation": "в одиночестве / наедине / …",
+      "link": "https://word-by-word.ru/en-ru/alone/adverb"
+    }
+  },
+  {
+    "type": {
+      "translation": "тип / вид / …",
+      "link": "https://word-by-word.ru/words/en-ru/type"
+    }
+  },
+  {
+    "steak": {
+      "translation": "стейк / бифштекс / …",
+      "link": "https://word-by-word.ru/words/en-ru/steak"
+    }
+  },
+  {
+    "pleasant": {
+      "translation": "приятный / милый / …",
+      "link": "https://word-by-word.ru/en-ru/pleasant"
+    }
+  },
+  {
+    "collect": {
+      "translation": "собирать / …",
+      "link": "https://word-by-word.ru/en-ru/collect"
+    }
+  },
+  {
+    "lovely": {
+      "translation": "прекрасный / восхитительный / …",
+      "link": "https://word-by-word.ru/en-ru/lovely"
+    }
+  },
+  {
+    "journey": {
+      "translation": "путешествие / …",
+      "link": "https://word-by-word.ru/en-ru/journey"
+    }
+  },
+  {
+    "boss": {
+      "translation": "босс / начальник / …",
+      "link": "https://word-by-word.ru/en-ru/boss"
+    }
+  },
+  {
+    "rock": {
+      "translation": "рок / скала / камень / …",
+      "link": "https://word-by-word.ru/en-ru/rock"
+    }
+  },
+  {
+    "various": {
+      "translation": "разный / различный / …",
+      "link": "https://word-by-word.ru/en-ru/various"
+    }
+  },
+  {
+    "telephone": {
+      "translation": "телефон / телефонная связь",
+      "link": "https://word-by-word.ru/en-ru/telephone"
+    }
+  },
+  {
+    "lamp": {
+      "translation": "лампа / фонарь",
+      "link": "https://word-by-word.ru/en-ru/lamp"
+    }
+  },
+  {
+    "dirty": {
+      "translation": "грязный / нечистый / …",
+      "link": "https://word-by-word.ru/en-ru/dirty"
+    }
+  },
+  {
+    "couch": {
+      "translation": "диван / кушетка",
+      "link": "https://word-by-word.ru/en-ru/couch"
+    }
+  },
+  {
+    "click": {
+      "translation": "щелкать / ладить / …",
+      "link": "https://word-by-word.ru/words/en-ru/click"
+    }
+  },
+  {
+    "useful": {
+      "translation": "полезный / пригодный",
+      "link": "https://word-by-word.ru/en-ru/useful"
+    }
+  },
+  {
+    "stage": {
+      "translation": "этап / сцена / стадия",
+      "link": "https://word-by-word.ru/en-ru/stage"
+    }
+  },
+  {
+    "bowl": {
+      "translation": "пиала / чаша / …",
+      "link": "https://word-by-word.ru/en-ru/bowl"
+    }
+  },
+  {
+    "project": {
+      "translation": "проект / план / …",
+      "link": "https://word-by-word.ru/en-ru/project"
+    }
+  },
+  {
+    "queen": {
+      "translation": "королева",
+      "link": "https://word-by-word.ru/en-ru/queen"
+    }
+  },
+  {
+    "department": {
+      "translation": "отдел / департамент / …",
+      "link": "https://word-by-word.ru/en-ru/department"
+    }
+  },
+  {
+    "friendly": {
+      "translation": "дружелюбный / дружественный / …",
+      "link": "https://word-by-word.ru/en-ru/friendly"
+    }
+  },
+  {
+    "tool": {
+      "translation": "инструмент / средство / …",
+      "link": "https://word-by-word.ru/en-ru/tool"
+    }
+  },
+  {
+    "nurse": {
+      "translation": "медсестра / няня",
+      "link": "https://word-by-word.ru/en-ru/nurse"
+    }
+  },
+  {
+    "mix": {
+      "translation": "смешивать / перемешивать / …",
+      "link": "https://word-by-word.ru/en-ru/mix"
+    }
+  },
+  {
+    "cap": {
+      "translation": "кепка / колпачок / …",
+      "link": "https://word-by-word.ru/words/en-ru/cap"
+    }
+  },
+  {
+    "spring": {
+      "translation": "весна / пружина / …",
+      "link": "https://word-by-word.ru/en-ru/spring/noun"
+    }
+  },
+  {
+    "pink": {
+      "translation": "розовый / либеральничающий / …",
+      "link": "https://word-by-word.ru/en-ru/pink"
+    }
+  },
+  {
+    "secretary": {
+      "translation": "секретарь / министр / …",
+      "link": "https://word-by-word.ru/en-ru/secretary"
+    }
+  },
+  {
+    "partner": {
+      "translation": "партнер / компаньон / …",
+      "link": "https://word-by-word.ru/en-ru/partner"
+    }
+  },
+  {
+    "oil": {
+      "translation": "масло / нефть / …",
+      "link": "https://word-by-word.ru/en-ru/oil"
+    }
+  },
+  {
+    "post": {
+      "translation": "пост / должность / столб / …",
+      "link": "https://word-by-word.ru/words/en-ru/post"
+    }
+  },
+  {
+    "visitor": {
+      "translation": "посетитель / …",
+      "link": "https://word-by-word.ru/en-ru/visitor"
+    }
+  },
+  {
+    "invitation": {
+      "translation": "приглашение / пригласительный билет / …",
+      "link": "https://word-by-word.ru/en-ru/invitation"
+    }
+  },
+  {
+    "ill": {
+      "translation": "больной / плохой / …",
+      "link": "https://word-by-word.ru/en-ru/ill"
+    }
+  },
+  {
+    "bill": {
+      "translation": "счет / банкнота / …",
+      "link": "https://word-by-word.ru/en-ru/bill"
+    }
+  },
+  {
+    "science": {
+      "translation": "наука / …",
+      "link": "https://word-by-word.ru/en-ru/science"
+    }
+  },
+  {
+    "fourth": {
+      "translation": "четвертый",
+      "link": "https://word-by-word.ru/en-ru/fourth"
+    }
+  },
+  {
+    "spare": {
+      "translation": "запасной / лишний / …",
+      "link": "https://word-by-word.ru/words/en-ru/spare"
+    }
+  },
+  {
+    "double": {
+      "translation": "двойной / сдвоенный / …",
+      "link": "https://word-by-word.ru/en-ru/double"
+    }
+  },
+  {
+    "study": {
+      "translation": "исследование / изучение / …",
+      "link": "https://word-by-word.ru/en-ru/study/noun"
+    }
+  },
+  {
+    "dresser": {
+      "translation": "комод / костюмер / …",
+      "link": "https://word-by-word.ru/words/en-ru/dresser"
+    }
+  },
+  {
+    "instrument": {
+      "translation": "инструмент / прибор / …",
+      "link": "https://word-by-word.ru/words/en-ru/instrument"
+    }
+  },
+  {
+    "luggage": {
+      "translation": "багаж / поклажа",
+      "link": "https://word-by-word.ru/en-ru/luggage"
+    }
+  },
+  {
+    "upset": {
+      "translation": "расстроенный / огорченный",
+      "link": "https://word-by-word.ru/en-ru/upset"
+    }
+  },
+  {
+    "site": {
+      "translation": "место / участок / сайт / …",
+      "link": "https://word-by-word.ru/en-ru/site"
+    }
+  },
+  {
+    "drawer": {
+      "translation": "выдвижной ящик",
+      "link": "https://word-by-word.ru/en-ru/drawer"
+    }
+  },
+  {
+    "record": {
+      "translation": "записывать / регистрировать / …",
+      "link": "https://word-by-word.ru/en-ru/record/verb"
+    }
+  },
+  {
+    "degree": {
+      "translation": "градус / степень / …",
+      "link": "https://word-by-word.ru/en-ru/degree"
+    }
+  },
+  {
+    "grandfather": {
+      "translation": "дедушка / …",
+      "link": "https://word-by-word.ru/en-ru/grandfather"
+    }
+  },
+  {
+    "envelope": {
+      "translation": "конверт / оболочка / …",
+      "link": "https://word-by-word.ru/en-ru/envelope"
+    }
+  },
+  {
+    "curtain": {
+      "translation": "штора / занавеска / …",
+      "link": "https://word-by-word.ru/en-ru/curtain"
+    }
+  },
+  {
+    "available": {
+      "translation": "доступный / имеющийся в наличии",
+      "link": "https://word-by-word.ru/en-ru/available"
+    }
+  },
+  {
+    "photograph": {
+      "translation": "фотография / фотографический снимок / …",
+      "link": "https://word-by-word.ru/en-ru/photograph"
+    }
+  },
+  {
+    "shelf": {
+      "translation": "полка / шельф / …",
+      "link": "https://word-by-word.ru/words/en-ru/shelf"
+    }
+  },
+  {
+    "platform": {
+      "translation": "платформа / перрон / …",
+      "link": "https://word-by-word.ru/words/en-ru/platform"
+    }
+  },
+  {
+    "extra": {
+      "translation": "дополнительный / лишний / …",
+      "link": "https://word-by-word.ru/en-ru/extra"
+    }
+  },
+  {
+    "neighbour": {
+      "translation": "сосед / …",
+      "link": "https://word-by-word.ru/words/en-ru/neighbour"
+    }
+  },
+  {
+    "unusual": {
+      "translation": "необычный / …",
+      "link": "https://word-by-word.ru/en-ru/unusual"
+    }
+  },
+  {
+    "market": {
+      "translation": "рынок / базар / …",
+      "link": "https://word-by-word.ru/en-ru/market"
+    }
+  },
+  {
+    "programme": {
+      "translation": "программировать / составлять программу",
+      "link": "https://word-by-word.ru/words/en-ru/programme/verb"
+    }
+  },
+  {
+    "practise": {
+      "translation": "практика / тренировка / …",
+      "link": "https://word-by-word.ru/words/en-ru/practise/noun"
+    }
+  },
+  {
+    "instruction": {
+      "translation": "инструкция / обучение / …",
+      "link": "https://word-by-word.ru/en-ru/instruction"
+    }
+  },
+  {
+    "grandson": {
+      "translation": "внук",
+      "link": "https://word-by-word.ru/en-ru/grandson"
+    }
+  },
+  {
+    "free": {
+      "translation": "свободно / бесплатно / …",
+      "link": "https://word-by-word.ru/words/en-ru/free/adverb"
+    }
+  },
+  {
+    "upstairs": {
+      "translation": "наверх / наверху / …",
+      "link": "https://word-by-word.ru/words/en-ru/upstairs"
+    }
+  },
+  {
+    "awful": {
+      "translation": "ужасный / внушающий страх / …",
+      "link": "https://word-by-word.ru/en-ru/awful"
+    }
+  },
+  {
+    "cash": {
+      "translation": "наличные деньги / касса / …",
+      "link": "https://word-by-word.ru/en-ru/cash"
+    }
+  },
+  {
+    "complete": {
+      "translation": "завершать / выполнять / заканчивать / …",
+      "link": "https://word-by-word.ru/en-ru/complete/verb"
+    }
+  },
+  {
+    "depend on": {
+      "translation": "зависеть от",
+      "link": "https://word-by-word.ru/en-ru/depend%20on"
+    }
+  },
+  {
+    "midnight": {
+      "translation": "полночь / …",
+      "link": "https://word-by-word.ru/en-ru/midnight"
+    }
+  },
+  {
+    "activity": {
+      "translation": "активность / деятельность / …",
+      "link": "https://word-by-word.ru/en-ru/activity"
+    }
+  },
+  {
+    "advice": {
+      "translation": "совет / консультация / …",
+      "link": "https://word-by-word.ru/en-ru/advice"
+    }
+  },
+  {
+    "cost": {
+      "translation": "стоимость / затраты / …",
+      "link": "https://word-by-word.ru/en-ru/cost"
+    }
+  },
+  {
+    "garage": {
+      "translation": "гараж / …",
+      "link": "https://word-by-word.ru/en-ru/garage"
+    }
+  },
+  {
+    "notice": {
+      "translation": "извещение / уведомление / …",
+      "link": "https://word-by-word.ru/en-ru/notice/noun"
+    }
+  },
+  {
+    "flying": {
+      "translation": "полеты / полет / …",
+      "link": "https://word-by-word.ru/words/en-ru/flying"
+    }
+  },
+  {
+    "glove": {
+      "translation": "перчатка",
+      "link": "https://word-by-word.ru/en-ru/glove"
+    }
+  },
+  {
+    "regular": {
+      "translation": "регулярный / очередной / …",
+      "link": "https://word-by-word.ru/en-ru/regular"
+    }
+  },
+  {
+    "college": {
+      "translation": "колледж / коллегия / …",
+      "link": "https://word-by-word.ru/en-ru/college"
+    }
+  },
+  {
+    "repair": {
+      "translation": "ремонтировать / восстанавливать / …",
+      "link": "https://word-by-word.ru/words/en-ru/repair"
+    }
+  },
+  {
+    "brilliant": {
+      "translation": "блестящий / отличный / …",
+      "link": "https://word-by-word.ru/en-ru/brilliant"
+    }
+  },
+  {
+    "fog": {
+      "translation": "туман / вуаль / …",
+      "link": "https://word-by-word.ru/en-ru/fog"
+    }
+  },
+  {
+    "sweet": {
+      "translation": "сладкое / конфета / …",
+      "link": "https://word-by-word.ru/words/en-ru/sweet/noun"
+    }
+  },
+  {
+    "fashion": {
+      "translation": "мода / стиль / …",
+      "link": "https://word-by-word.ru/words/en-ru/fashion"
+    }
+  },
+  {
+    "grandma": {
+      "translation": "бабушка / бабуля",
+      "link": "https://word-by-word.ru/words/en-ru/grandma"
+    }
+  },
+  {
+    "grandchild": {
+      "translation": "внук или внучка / внук / …",
+      "link": "https://word-by-word.ru/words/en-ru/grandchild"
+    }
+  },
+  {
+    "mobile": {
+      "translation": "мобильный / передвижной / …",
+      "link": "https://word-by-word.ru/words/en-ru/mobile/adjective"
+    }
+  },
+  {
+    "missing": {
+      "translation": "отсутствующий",
+      "link": "https://word-by-word.ru/words/en-ru/missing"
+    }
+  },
+  {
+    "channel": {
+      "translation": "канал / …",
+      "link": "https://word-by-word.ru/en-ru/channel"
+    }
+  },
+  {
+    "magazine": {
+      "translation": "журнал / обойма / …",
+      "link": "https://word-by-word.ru/en-ru/magazine"
+    }
+  },
+  {
+    "blank": {
+      "translation": "бланк / заготовка / …",
+      "link": "https://word-by-word.ru/words/en-ru/blank"
+    }
+  },
+  {
+    "businessman": {
+      "translation": "бизнесмен / коммерсант / …",
+      "link": "https://word-by-word.ru/en-ru/businessman"
+    }
+  },
+  {
+    "engineer": {
+      "translation": "инженер / машинист / …",
+      "link": "https://word-by-word.ru/en-ru/engineer"
+    }
+  },
+  {
+    "excellent": {
+      "translation": "отличный / превосходный / …",
+      "link": "https://word-by-word.ru/en-ru/excellent"
+    }
+  },
+  {
+    "assistant": {
+      "translation": "помощник / ассистент / …",
+      "link": "https://word-by-word.ru/en-ru/assistant"
+    }
+  },
+  {
+    "electricity": {
+      "translation": "электричество / свет",
+      "link": "https://word-by-word.ru/en-ru/electricity"
+    }
+  },
+  {
+    "earn": {
+      "translation": "зарабатывать / …",
+      "link": "https://word-by-word.ru/en-ru/earn"
+    }
+  },
+  {
+    "helicopter": {
+      "translation": "вертолет / …",
+      "link": "https://word-by-word.ru/en-ru/helicopter"
+    }
+  },
+  {
+    "desert": {
+      "translation": "пустыня / заслуга / …",
+      "link": "https://word-by-word.ru/words/en-ru/desert"
+    }
+  },
+  {
+    "swimming": {
+      "translation": "плавание / …",
+      "link": "https://word-by-word.ru/words/en-ru/swimming"
+    }
+  },
+  {
+    "straight": {
+      "translation": "прямо / …",
+      "link": "https://word-by-word.ru/words/en-ru/straight/adverb"
+    }
+  },
+  {
+    "worried": {
+      "translation": "взволнованный / обеспокоенный / …",
+      "link": "https://word-by-word.ru/en-ru/worried"
+    }
+  },
+  {
+    "unfortunately": {
+      "translation": "к сожалению / к несчастью / …",
+      "link": "https://word-by-word.ru/words/en-ru/unfortunately"
+    }
+  },
+  {
+    "toe": {
+      "translation": "палец ноги / носок ботинка",
+      "link": "https://word-by-word.ru/en-ru/toe"
+    }
+  },
+  {
+    "pillow": {
+      "translation": "подушка / подкладка / …",
+      "link": "https://word-by-word.ru/en-ru/pillow"
+    }
+  },
+  {
+    "correct": {
+      "translation": "правильный / верный / …",
+      "link": "https://word-by-word.ru/en-ru/correct"
+    }
+  },
+  {
+    "highway": {
+      "translation": "автомагистраль / шоссе / …",
+      "link": "https://word-by-word.ru/en-ru/highway"
+    }
+  },
+  {
+    "noon": {
+      "translation": "полдень / …",
+      "link": "https://word-by-word.ru/en-ru/noon"
+    }
+  },
+  {
+    "worse": {
+      "translation": "более плохой / хуже",
+      "link": "https://word-by-word.ru/en-ru/worse"
+    }
+  },
+  {
+    "ours": {
+      "translation": "наш / наши",
+      "link": "https://word-by-word.ru/words/en-ru/ours"
+    }
+  },
+  {
+    "cupboard": {
+      "translation": "шкаф / буфет / …",
+      "link": "https://word-by-word.ru/words/en-ru/cupboard"
+    }
+  },
+  {
+    "speaker": {
+      "translation": "оратор / спикер / …",
+      "link": "https://word-by-word.ru/en-ru/speaker"
+    }
+  },
+  {
+    "closet": {
+      "translation": "стенной шкаф / гардеробная / шкаф / …",
+      "link": "https://word-by-word.ru/words/en-ru/closet"
+    }
+  },
+  {
+    "airport": {
+      "translation": "аэропорт",
+      "link": "https://word-by-word.ru/en-ru/airport"
+    }
+  },
+  {
+    "worker": {
+      "translation": "работник / рабочий / …",
+      "link": "https://word-by-word.ru/en-ru/worker"
+    }
+  },
+  {
+    "shame": {
+      "translation": "стыд / …",
+      "link": "https://word-by-word.ru/words/en-ru/shame"
+    }
+  },
+  {
+    "cloudy": {
+      "translation": "облачный / мутный / …",
+      "link": "https://word-by-word.ru/words/en-ru/cloudy"
+    }
+  },
+  {
+    "horrible": {
+      "translation": "ужасный / отвратительный / …",
+      "link": "https://word-by-word.ru/en-ru/horrible"
+    }
+  },
+  {
+    "island": {
+      "translation": "остров",
+      "link": "https://word-by-word.ru/en-ru/island"
+    }
+  },
+  {
+    "ham": {
+      "translation": "ветчина, окорок / …",
+      "link": "https://word-by-word.ru/words/en-ru/ham"
+    }
+  },
+  {
+    "steal": {
+      "translation": "красть / воровать / …",
+      "link": "https://word-by-word.ru/en-ru/steal"
+    }
+  },
+  {
+    "kilometre": {
+      "translation": "километр / километр пробега",
+      "link": "https://word-by-word.ru/words/en-ru/kilometre"
+    }
+  },
+  {
+    "cook": {
+      "translation": "повар / кухарка / …",
+      "link": "https://word-by-word.ru/en-ru/cook/noun"
+    }
+  },
+  {
+    "polite": {
+      "translation": "вежливый / любезный / …",
+      "link": "https://word-by-word.ru/en-ru/polite"
+    }
+  },
+  {
+    "salad": {
+      "translation": "салат / зелень / …",
+      "link": "https://word-by-word.ru/words/en-ru/salad"
+    }
+  },
+  {
+    "drawing": {
+      "translation": "рисунок / рисование / …",
+      "link": "https://word-by-word.ru/en-ru/drawing"
+    }
+  },
+  {
+    "modern": {
+      "translation": "современный / …",
+      "link": "https://word-by-word.ru/en-ru/modern"
+    }
+  },
+  {
+    "pity": {
+      "translation": "жалость / сожаление / …",
+      "link": "https://word-by-word.ru/en-ru/pity"
+    }
+  },
+  {
+    "umbrella": {
+      "translation": "зонтик / зонт / …",
+      "link": "https://word-by-word.ru/en-ru/umbrella"
+    }
+  },
+  {
+    "foreign": {
+      "translation": "иностранный / зарубежный / …",
+      "link": "https://word-by-word.ru/en-ru/foreign"
+    }
+  },
+  {
+    "exercise": {
+      "translation": "упражнение / занятие / занятие спортом / …",
+      "link": "https://word-by-word.ru/en-ru/exercise"
+    }
+  },
+  {
+    "mug": {
+      "translation": "кружка / балбес / …",
+      "link": "https://word-by-word.ru/en-ru/mug"
+    }
+  },
+  {
+    "birth": {
+      "translation": "рождение / роды / …",
+      "link": "https://word-by-word.ru/en-ru/birth"
+    }
+  },
+  {
+    "carpet": {
+      "translation": "ковер / напольное покрытие",
+      "link": "https://word-by-word.ru/en-ru/carpet"
+    }
+  },
+  {
+    "tyre": {
+      "translation": "шина / покрышка",
+      "link": "https://word-by-word.ru/words/en-ru/tyre"
+    }
+  },
+  {
+    "honey": {
+      "translation": "мед / дорогуша / …",
+      "link": "https://word-by-word.ru/en-ru/honey"
+    }
+  },
+  {
+    "round": {
+      "translation": "кругом / вокруг / …",
+      "link": "https://word-by-word.ru/words/en-ru/round/adverb"
+    }
+  },
+  {
+    "teenager": {
+      "translation": "подросток / подростковый возраст",
+      "link": "https://word-by-word.ru/en-ru/teenager"
+    }
+  },
+  {
+    "advanced": {
+      "translation": "продвинутый / передовой / …",
+      "link": "https://word-by-word.ru/en-ru/advanced"
+    }
+  },
+  {
+    "exit": {
+      "translation": "выход / выезд / …",
+      "link": "https://word-by-word.ru/en-ru/exit"
+    }
+  },
+  {
+    "driving": {
+      "translation": "вождение / поездка",
+      "link": "https://word-by-word.ru/words/en-ru/driving"
+    }
+  },
+  {
+    "cabinet": {
+      "translation": "шкаф / кабинет правительства / …",
+      "link": "https://word-by-word.ru/en-ru/cabinet"
+    }
+  },
+  {
+    "customer": {
+      "translation": "покупатель / клиент / …",
+      "link": "https://word-by-word.ru/en-ru/customer"
+    }
+  },
+  {
+    "farmer": {
+      "translation": "фермер / …",
+      "link": "https://word-by-word.ru/en-ru/farmer"
+    }
+  },
+  {
+    "brush": {
+      "translation": "щетка / кисть / …",
+      "link": "https://word-by-word.ru/words/en-ru/brush/noun"
+    }
+  },
+  {
+    "break": {
+      "translation": "перерыв / нарушение / …",
+      "link": "https://word-by-word.ru/en-ru/break/noun"
+    }
+  },
+  {
+    "burger": {
+      "translation": "гамбургер / бутерброд / …",
+      "link": "https://word-by-word.ru/words/en-ru/burger"
+    }
+  },
+  {
+    "furniture": {
+      "translation": "мебель / …",
+      "link": "https://word-by-word.ru/en-ru/furniture"
+    }
+  },
+  {
+    "model": {
+      "translation": "модель / образец / …",
+      "link": "https://word-by-word.ru/words/en-ru/model"
+    }
+  },
+  {
+    "sixty": {
+      "translation": "шестьдесят",
+      "link": "https://word-by-word.ru/words/en-ru/sixty"
+    }
+  },
+  {
+    "towel": {
+      "translation": "полотенце / гигиенический женский пакет / …",
+      "link": "https://word-by-word.ru/en-ru/towel"
+    }
+  },
+  {
+    "health": {
+      "translation": "здоровье / самочувствие / …",
+      "link": "https://word-by-word.ru/en-ru/health"
+    }
+  },
+  {
+    "connected": {
+      "translation": "связный",
+      "link": "https://word-by-word.ru/words/en-ru/connected"
+    }
+  },
+  {
+    "lift": {
+      "translation": "лифт / подъем / …",
+      "link": "https://word-by-word.ru/en-ru/lift/noun"
+    }
+  },
+  {
+    "fifth": {
+      "translation": "пятый",
+      "link": "https://word-by-word.ru/en-ru/fifth"
+    }
+  },
+  {
+    "boil": {
+      "translation": "кипеть / варить / …",
+      "link": "https://word-by-word.ru/en-ru/boil"
+    }
+  },
+  {
+    "unhappy": {
+      "translation": "несчастный / несчастливый / …",
+      "link": "https://word-by-word.ru/en-ru/unhappy"
+    }
+  },
+  {
+    "painting": {
+      "translation": "живопись / картина / …",
+      "link": "https://word-by-word.ru/en-ru/painting"
+    }
+  },
+  {
+    "capital": {
+      "translation": "столица / капитал / …",
+      "link": "https://word-by-word.ru/words/en-ru/capital"
+    }
+  },
+  {
+    "improve": {
+      "translation": "улучшать / совершенствовать / …",
+      "link": "https://word-by-word.ru/en-ru/improve"
+    }
+  },
+  {
+    "supper": {
+      "translation": "ужин / …",
+      "link": "https://word-by-word.ru/en-ru/supper"
+    }
+  },
+  {
+    "healthy": {
+      "translation": "здоровый / полезный для здоровья / …",
+      "link": "https://word-by-word.ru/en-ru/healthy"
+    }
+  },
+  {
+    "chicken": {
+      "translation": "курица / цыпленок / …",
+      "link": "https://word-by-word.ru/en-ru/chicken"
+    }
+  },
+  {
+    "guide": {
+      "translation": "наставник / гид / …",
+      "link": "https://word-by-word.ru/en-ru/guide/noun"
+    }
+  },
+  {
+    "broken": {
+      "translation": "разбитый / …",
+      "link": "https://word-by-word.ru/en-ru/broken"
+    }
+  },
+  {
+    "cola": {
+      "translation": "кока-кола / кола",
+      "link": "https://word-by-word.ru/words/en-ru/cola"
+    }
+  },
+  {
+    "mail": {
+      "translation": "почта / кольчуга / …",
+      "link": "https://word-by-word.ru/en-ru/mail"
+    }
+  },
+  {
+    "document": {
+      "translation": "документ",
+      "link": "https://word-by-word.ru/en-ru/document"
+    }
+  },
+  {
+    "grandmother": {
+      "translation": "бабушка",
+      "link": "https://word-by-word.ru/en-ru/grandmother"
+    }
+  },
+  {
+    "national": {
+      "translation": "национальный / государственный / …",
+      "link": "https://word-by-word.ru/en-ru/national"
+    }
+  },
+  {
+    "video": {
+      "translation": "видео / видеозапись / …",
+      "link": "https://word-by-word.ru/words/en-ru/video"
+    }
+  },
+  {
+    "print": {
+      "translation": "печатать / распечатывать / …",
+      "link": "https://word-by-word.ru/en-ru/print"
+    }
+  },
+  {
+    "adventure": {
+      "translation": "приключение / авантюра / …",
+      "link": "https://word-by-word.ru/en-ru/adventure"
+    }
+  },
+  {
+    "cost": {
+      "translation": "стоить / обходиться",
+      "link": "https://word-by-word.ru/en-ru/cost/verb"
+    }
+  },
+  {
+    "sofa": {
+      "translation": "диван / софа / …",
+      "link": "https://word-by-word.ru/en-ru/sofa"
+    }
+  },
+  {
+    "policeman": {
+      "translation": "полицейский / …",
+      "link": "https://word-by-word.ru/en-ru/policeman"
+    }
+  },
+  {
+    "post": {
+      "translation": "отправлять по почте / публиковать / размещать",
+      "link": "https://word-by-word.ru/words/en-ru/post/verb"
+    }
+  },
+  {
+    "manager": {
+      "translation": "менеджер / управляющий / …",
+      "link": "https://word-by-word.ru/en-ru/manager"
+    }
+  },
+  {
+    "tour": {
+      "translation": "тур / путешествие / …",
+      "link": "https://word-by-word.ru/en-ru/tour"
+    }
+  },
+  {
+    "electric": {
+      "translation": "электрический / наэлектризованный / …",
+      "link": "https://word-by-word.ru/en-ru/electric"
+    }
+  },
+  {
+    "artist": {
+      "translation": "художник / артист / …",
+      "link": "https://word-by-word.ru/en-ru/artist"
+    }
+  },
+  {
+    "plus": {
+      "translation": "плюс / …",
+      "link": "https://word-by-word.ru/words/en-ru/plus"
+    }
+  },
+  {
+    "chess": {
+      "translation": "шахматы",
+      "link": "https://word-by-word.ru/words/en-ru/chess"
+    }
+  },
+  {
+    "appointment": {
+      "translation": "назначение / прием / …",
+      "link": "https://word-by-word.ru/words/en-ru/appointment"
+    }
+  },
+  {
+    "theatre": {
+      "translation": "театр / кинотеатр / …",
+      "link": "https://word-by-word.ru/words/en-ru/theatre"
+    }
+  },
+  {
+    "tourist": {
+      "translation": "турист / …",
+      "link": "https://word-by-word.ru/words/en-ru/tourist"
+    }
+  },
+  {
+    "notebook": {
+      "translation": "блокнот / тетрадь / …",
+      "link": "https://word-by-word.ru/en-ru/notebook"
+    }
+  },
+  {
+    "temperature": {
+      "translation": "температура / степень нагрева",
+      "link": "https://word-by-word.ru/en-ru/temperature"
+    }
+  },
+  {
+    "till": {
+      "translation": "пока / …",
+      "link": "https://word-by-word.ru/words/en-ru/till/conjunction"
+    }
+  },
+  {
+    "borrow": {
+      "translation": "брать в долг / заимствовать / …",
+      "link": "https://word-by-word.ru/words/en-ru/borrow"
+    }
+  },
+  {
+    "purse": {
+      "translation": "портмоне / бумажник / …",
+      "link": "https://word-by-word.ru/words/en-ru/purse"
+    }
+  },
+  {
+    "fishing": {
+      "translation": "рыбная ловля / рыбалка / …",
+      "link": "https://word-by-word.ru/words/en-ru/fishing"
+    }
+  },
+  {
+    "refer": {
+      "translation": "относиться / сослаться / …",
+      "link": "https://word-by-word.ru/words/en-ru/refer"
+    }
+  },
+  {
+    "amazing": {
+      "translation": "удивительный / изумительный / …",
+      "link": "https://word-by-word.ru/en-ru/amazing"
+    }
+  },
+  {
+    "pound": {
+      "translation": "фунт (453,59 г) / фунт стерлингов / …",
+      "link": "https://word-by-word.ru/en-ru/pound/noun"
+    }
+  },
+  {
+    "underground": {
+      "translation": "метро / подземелье / подполье",
+      "link": "https://word-by-word.ru/words/en-ru/underground"
+    }
+  },
+  {
+    "goal": {
+      "translation": "цель / гол / …",
+      "link": "https://word-by-word.ru/en-ru/goal"
+    }
+  },
+  {
+    "including": {
+      "translation": "включая / …",
+      "link": "https://word-by-word.ru/words/en-ru/including"
+    }
+  },
+  {
+    "euro": {
+      "translation": "евро",
+      "link": "https://word-by-word.ru/words/en-ru/euro"
+    }
+  },
+  {
+    "kit": {
+      "translation": "комплект / набор / …",
+      "link": "https://word-by-word.ru/words/en-ru/kit"
+    }
+  },
+  {
+    "loud": {
+      "translation": "громко",
+      "link": "https://word-by-word.ru/en-ru/loud/adverb"
+    }
+  },
+  {
+    "monkey": {
+      "translation": "обезьяна",
+      "link": "https://word-by-word.ru/en-ru/monkey"
+    }
+  },
+  {
+    "per": {
+      "translation": "в / за каждый / …",
+      "link": "https://word-by-word.ru/words/en-ru/per"
+    }
+  },
+  {
+    "active": {
+      "translation": "активный / действующий / …",
+      "link": "https://word-by-word.ru/en-ru/active"
+    }
+  },
+  {
+    "headache": {
+      "translation": "головная боль / помеха / …",
+      "link": "https://word-by-word.ru/en-ru/headache"
+    }
+  },
+  {
+    "based": {
+      "translation": "обоснованный",
+      "link": "https://word-by-word.ru/words/en-ru/based"
+    }
+  },
+  {
+    "theirs": {
+      "translation": "их",
+      "link": "https://word-by-word.ru/words/en-ru/theirs"
+    }
+  },
+  {
+    "licence": {
+      "translation": "лицензия / удостоверение / …",
+      "link": "https://word-by-word.ru/words/en-ru/licence"
+    }
+  },
+  {
+    "battery": {
+      "translation": "батарейка / группа объектов / артиллерийская батарея / …",
+      "link": "https://word-by-word.ru/words/en-ru/battery"
+    }
+  },
+  {
+    "popular": {
+      "translation": "популярный / народный / …",
+      "link": "https://word-by-word.ru/en-ru/popular"
+    }
+  },
+  {
+    "tie": {
+      "translation": "галстук / узы / …",
+      "link": "https://word-by-word.ru/en-ru/tie/noun"
+    }
+  },
+  {
+    "cookie": {
+      "translation": "печенье / булочка / …",
+      "link": "https://word-by-word.ru/words/en-ru/cookie"
+    }
+  },
+  {
+    "insect": {
+      "translation": "насекомое / букашка / …",
+      "link": "https://word-by-word.ru/en-ru/insect"
+    }
+  },
+  {
+    "offer": {
+      "translation": "предложение (чего либо) / …",
+      "link": "https://word-by-word.ru/en-ru/offer/noun"
+    }
+  },
+  {
+    "text": {
+      "translation": "отправлять сообщение / писать",
+      "link": "https://word-by-word.ru/en-ru/text/verb"
+    }
+  },
+  {
+    "delay": {
+      "translation": "задержка / промедление / …",
+      "link": "https://word-by-word.ru/words/en-ru/delay"
+    }
+  },
+  {
+    "cream": {
+      "translation": "сливки / крем / …",
+      "link": "https://word-by-word.ru/words/en-ru/cream"
+    }
+  },
+  {
+    "coach": {
+      "translation": "тренер / автобус (туристический) / …",
+      "link": "https://word-by-word.ru/words/en-ru/coach"
+    }
+  },
+  {
+    "gym": {
+      "translation": "тренажерный зал / гимнастика / …",
+      "link": "https://word-by-word.ru/words/en-ru/gym"
+    }
+  },
+  {
+    "ruler": {
+      "translation": "правитель / линейка / …",
+      "link": "https://word-by-word.ru/words/en-ru/ruler"
+    }
+  },
+  {
+    "ID": {
+      "translation": "идентификатор / удостоверение личности",
+      "link": "https://word-by-word.ru/words/en-ru/id"
+    }
+  },
+  {
+    "blonde": {
+      "translation": "белокурый / …",
+      "link": "https://word-by-word.ru/words/en-ru/blonde"
+    }
+  },
+  {
+    "snake": {
+      "translation": "змея / змей / …",
+      "link": "https://word-by-word.ru/en-ru/snake"
+    }
+  },
+  {
+    "kick": {
+      "translation": "пинок / удар / …",
+      "link": "https://word-by-word.ru/words/en-ru/kick/noun"
+    }
+  },
+  {
+    "smartphone": {
+      "translation": "смартфон",
+      "link": "https://word-by-word.ru/en-ru/smartphone"
+    }
+  },
+  {
+    "wool": {
+      "translation": "шерсть / шерстяные изделия / …",
+      "link": "https://word-by-word.ru/words/en-ru/wool"
+    }
+  },
+  {
+    "downstairs": {
+      "translation": "нижний / расположенный в нижнем этаже",
+      "link": "https://word-by-word.ru/words/en-ru/downstairs/adjective"
+    }
+  },
+  {
+    "sink": {
+      "translation": "раковина / мойка / …",
+      "link": "https://word-by-word.ru/en-ru/sink"
+    }
+  },
+  {
+    "chilli": {
+      "translation": "красный острый перец / …",
+      "link": "https://word-by-word.ru/words/en-ru/chilli"
+    }
+  },
+  {
+    "delay": {
+      "translation": "отсрочивать / откладывать / задерживать / …",
+      "link": "https://word-by-word.ru/en-ru/delay/verb"
+    }
+  },
+  {
+    "colleague": {
+      "translation": "коллега / сослуживец",
+      "link": "https://word-by-word.ru/en-ru/colleague"
+    }
+  },
+  {
+    "daily": {
+      "translation": "ежедневный / повседневный / …",
+      "link": "https://word-by-word.ru/words/en-ru/daily"
+    }
+  },
+  {
+    "rubber": {
+      "translation": "резина / каучук / …",
+      "link": "https://word-by-word.ru/en-ru/rubber"
+    }
+  },
+  {
+    "lend": {
+      "translation": "давать взаймы / одалживать / …",
+      "link": "https://word-by-word.ru/words/en-ru/lend"
+    }
+  },
+  {
+    "variety": {
+      "translation": "разнообразие / вид / …",
+      "link": "https://word-by-word.ru/en-ru/variety"
+    }
+  },
+  {
+    "rent": {
+      "translation": "арендовать / брать в аренду / …",
+      "link": "https://word-by-word.ru/en-ru/rent"
+    }
+  },
+  {
+    "eighty": {
+      "translation": "восемьдесят",
+      "link": "https://word-by-word.ru/words/en-ru/eighty"
+    }
+  },
+  {
+    "bookshelf": {
+      "translation": "книжная полка",
+      "link": "https://word-by-word.ru/en-ru/bookshelf"
+    }
+  },
+  {
+    "fan": {
+      "translation": "вентилятор / поклонник / …",
+      "link": "https://word-by-word.ru/words/en-ru/fan"
+    }
+  },
+  {
+    "prize": {
+      "translation": "приз / премия / …",
+      "link": "https://word-by-word.ru/en-ru/prize"
+    }
+  },
+  {
+    "singing": {
+      "translation": "пение / вокал / …",
+      "link": "https://word-by-word.ru/words/en-ru/singing"
+    }
+  },
+  {
+    "ambulance": {
+      "translation": "скорая помощь / машина скорой помощи / …",
+      "link": "https://word-by-word.ru/words/en-ru/ambulance"
+    }
+  },
+  {
+    "international": {
+      "translation": "международный / интернациональный",
+      "link": "https://word-by-word.ru/en-ru/international"
+    }
+  },
+  {
+    "average": {
+      "translation": "средний / обычный / …",
+      "link": "https://word-by-word.ru/en-ru/average"
+    }
+  },
+  {
+    "mushroom": {
+      "translation": "гриб / выскочка / …",
+      "link": "https://word-by-word.ru/words/en-ru/mushroom"
+    }
+  },
+  {
+    "climbing": {
+      "translation": "альпинизм / восхождение / …",
+      "link": "https://word-by-word.ru/words/en-ru/climbing"
+    }
+  },
+  {
+    "most": {
+      "translation": "самый / самого",
+      "link": "https://word-by-word.ru/words/en-ru/most/pronoun"
+    }
+  },
+  {
+    "fork": {
+      "translation": "вилка / развилка / …",
+      "link": "https://word-by-word.ru/words/en-ru/fork"
+    }
+  },
+  {
+    "examination": {
+      "translation": "экзамен / обследование / …",
+      "link": "https://word-by-word.ru/words/en-ru/examination"
+    }
+  },
+  {
+    "square": {
+      "translation": "квадратный / квадратичный / …",
+      "link": "https://word-by-word.ru/words/en-ru/square/adjective"
+    }
+  },
+  {
+    "chat": {
+      "translation": "болтать / беседовать",
+      "link": "https://word-by-word.ru/en-ru/chat"
+    }
+  },
+  {
+    "mouse": {
+      "translation": "мышь / подбитый глаз",
+      "link": "https://word-by-word.ru/en-ru/mouse"
+    }
+  },
+  {
+    "actor": {
+      "translation": "актер / деятель / …",
+      "link": "https://word-by-word.ru/en-ru/actor"
+    }
+  },
+  {
+    "rap": {
+      "translation": "рэп / легкий удар / …",
+      "link": "https://word-by-word.ru/words/en-ru/rap"
+    }
+  },
+  {
+    "make-up": {
+      "translation": "макияж / косметика",
+      "link": "https://word-by-word.ru/words/en-ru/make-up"
+    }
+  },
+  {
+    "sweater": {
+      "translation": "свитер / эксплуататор",
+      "link": "https://word-by-word.ru/en-ru/sweater"
+    }
+  },
+  {
+    "stove": {
+      "translation": "печь / кухонная плита / …",
+      "link": "https://word-by-word.ru/en-ru/stove"
+    }
+  },
+  {
+    "sixth": {
+      "translation": "шестой",
+      "link": "https://word-by-word.ru/words/en-ru/sixth"
+    }
+  },
+  {
+    "wash": {
+      "translation": "мытье / стирка / …",
+      "link": "https://word-by-word.ru/words/en-ru/wash/noun"
+    }
+  },
+  {
+    "lazy": {
+      "translation": "ленивый / обленившийся",
+      "link": "https://word-by-word.ru/words/en-ru/lazy"
+    }
+  },
+  {
+    "pie": {
+      "translation": "пирог / …",
+      "link": "https://word-by-word.ru/en-ru/pie"
+    }
+  },
+  {
+    "zero": {
+      "translation": "ноль / нуль / …",
+      "link": "https://word-by-word.ru/en-ru/zero"
+    }
+  },
+  {
+    "sock": {
+      "translation": "носок / стелька / …",
+      "link": "https://word-by-word.ru/en-ru/sock"
+    }
+  },
+  {
+    "rat": {
+      "translation": "крыса / предатель / …",
+      "link": "https://word-by-word.ru/en-ru/rat"
+    }
+  },
+  {
+    "puzzle": {
+      "translation": "головоломка / недоумение / …",
+      "link": "https://word-by-word.ru/words/en-ru/puzzle"
+    }
+  },
+  {
+    "contact": {
+      "translation": "связываться / контактировать / …",
+      "link": "https://word-by-word.ru/en-ru/contact/verb"
+    }
+  },
+  {
+    "folder": {
+      "translation": "папка / скоросшиватель / …",
+      "link": "https://word-by-word.ru/words/en-ru/folder"
+    }
+  },
+  {
+    "yourselves": {
+      "translation": "себя / себе / …",
+      "link": "https://word-by-word.ru/words/en-ru/yourselves"
+    }
+  },
+  {
+    "shampoo": {
+      "translation": "шампунь / мытье головы",
+      "link": "https://word-by-word.ru/words/en-ru/shampoo"
+    }
+  },
+  {
+    "jewellery": {
+      "translation": "украшение / ювелирное изделия / драгоценность",
+      "link": "https://word-by-word.ru/words/en-ru/jewellery"
+    }
+  },
+  {
+    "rent": {
+      "translation": "аренда / арендная плата / …",
+      "link": "https://word-by-word.ru/en-ru/rent/noun"
+    }
+  },
+  {
+    "ninety": {
+      "translation": "девяносто",
+      "link": "https://word-by-word.ru/en-ru/ninety"
+    }
+  },
+  {
+    "noisy": {
+      "translation": "шумный / …",
+      "link": "https://word-by-word.ru/en-ru/noisy"
+    }
+  },
+  {
+    "toast": {
+      "translation": "тост / гренок / …",
+      "link": "https://word-by-word.ru/en-ru/toast"
+    }
+  },
+  {
+    "singer": {
+      "translation": "певец / певица / …",
+      "link": "https://word-by-word.ru/en-ru/singer"
+    }
+  },
+  {
+    "tune": {
+      "translation": "мелодия / настроенность / …",
+      "link": "https://word-by-word.ru/en-ru/tune"
+    }
+  },
+  {
+    "discount": {
+      "translation": "скидка / …",
+      "link": "https://word-by-word.ru/words/en-ru/discount"
+    }
+  },
+  {
+    "bake": {
+      "translation": "испечь / печь / …",
+      "link": "https://word-by-word.ru/words/en-ru/bake"
+    }
+  },
+  {
+    "dancer": {
+      "translation": "танцор / танцовщица / …",
+      "link": "https://word-by-word.ru/en-ru/dancer"
+    }
+  },
+  {
+    "worst": {
+      "translation": "наихудший / …",
+      "link": "https://word-by-word.ru/en-ru/worst"
+    }
+  },
+  {
+    "champagne": {
+      "translation": "шампанское",
+      "link": "https://word-by-word.ru/en-ru/champagne"
+    }
+  },
+  {
+    "seventy": {
+      "translation": "семьдесят",
+      "link": "https://word-by-word.ru/words/en-ru/seventy"
+    }
+  },
+  {
+    "alcohol": {
+      "translation": "алкоголь / спирт / …",
+      "link": "https://word-by-word.ru/en-ru/alcohol"
+    }
+  },
+  {
+    "crisp": {
+      "translation": "хрустящий картофель / хрустящая корочка / …",
+      "link": "https://word-by-word.ru/words/en-ru/crisp"
+    }
+  },
+  {
+    "sailing": {
+      "translation": "парусный спорт / плавание / …",
+      "link": "https://word-by-word.ru/words/en-ru/sailing"
+    }
+  },
+  {
+    "seventh": {
+      "translation": "седьмой",
+      "link": "https://word-by-word.ru/words/en-ru/seventh"
+    }
+  },
+  {
+    "negative": {
+      "translation": "негативный / отрицательный / …",
+      "link": "https://word-by-word.ru/words/en-ru/negative"
+    }
+  },
+  {
+    "identification": {
+      "translation": "идентификация / опознавание / …",
+      "link": "https://word-by-word.ru/words/en-ru/identification"
+    }
+  },
+  {
+    "fantastic": {
+      "translation": "фантастический / потрясающий / …",
+      "link": "https://word-by-word.ru/en-ru/fantastic"
+    }
+  },
+  {
+    "countryside": {
+      "translation": "сельская местность / …",
+      "link": "https://word-by-word.ru/en-ru/countryside"
+    }
+  },
+  {
+    "cent": {
+      "translation": "цент",
+      "link": "https://word-by-word.ru/en-ru/cent"
+    }
+  },
+  {
+    "king": {
+      "translation": "король",
+      "link": "https://word-by-word.ru/en-ru/king"
+    }
+  },
+  {
+    "copy": {
+      "translation": "копировать / списать / …",
+      "link": "https://word-by-word.ru/words/en-ru/copy/verb"
+    }
+  },
+  {
+    "grade": {
+      "translation": "оценка / класс / …",
+      "link": "https://word-by-word.ru/en-ru/grade"
+    }
+  },
+  {
+    "kiss": {
+      "translation": "поцелуй / …",
+      "link": "https://word-by-word.ru/en-ru/kiss/noun"
+    }
+  },
+  {
+    "laptop": {
+      "translation": "портативный компьютер / переносной компьютер / …",
+      "link": "https://word-by-word.ru/words/en-ru/laptop"
+    }
+  },
+  {
+    "spoon": {
+      "translation": "ложка / блесна / …",
+      "link": "https://word-by-word.ru/en-ru/spoon"
+    }
+  },
+  {
+    "golf": {
+      "translation": "гольф",
+      "link": "https://word-by-word.ru/words/en-ru/golf"
+    }
+  },
+  {
+    "passport": {
+      "translation": "паспорт / паспортизация / …",
+      "link": "https://word-by-word.ru/en-ru/passport"
+    }
+  },
+  {
+    "armchair": {
+      "translation": "кресло",
+      "link": "https://word-by-word.ru/en-ru/armchair"
+    }
+  },
+  {
+    "soap": {
+      "translation": "мыло",
+      "link": "https://word-by-word.ru/en-ru/soap"
+    }
+  },
+  {
+    "can": {
+      "translation": "жестяная банка / баллончик / …",
+      "link": "https://word-by-word.ru/en-ru/can/noun2"
+    }
+  },
+  {
+    "candy": {
+      "translation": "конфета / леденец / …",
+      "link": "https://word-by-word.ru/words/en-ru/candy"
+    }
+  },
+  {
+    "balloon": {
+      "translation": "воздушный шар / баллон / …",
+      "link": "https://word-by-word.ru/words/en-ru/balloon"
+    }
+  },
+  {
+    "scarf": {
+      "translation": "шарф / …",
+      "link": "https://word-by-word.ru/words/en-ru/scarf"
+    }
+  },
+  {
+    "timetable": {
+      "translation": "расписание / график / …",
+      "link": "https://word-by-word.ru/words/en-ru/timetable"
+    }
+  },
+  {
+    "piano": {
+      "translation": "фортепиано / фортепьяно / …",
+      "link": "https://word-by-word.ru/words/en-ru/piano"
+    }
+  },
+  {
+    "well-known": {
+      "translation": "хорошо известный / …",
+      "link": "https://word-by-word.ru/en-ru/well-known"
+    }
+  },
+  {
+    "purple": {
+      "translation": "фиолетовый / пурпурный / …",
+      "link": "https://word-by-word.ru/words/en-ru/purple"
+    }
+  },
+  {
+    "downtown": {
+      "translation": "центральный",
+      "link": "https://word-by-word.ru/words/en-ru/downtown"
+    }
+  },
+  {
+    "necklace": {
+      "translation": "ожерелье / …",
+      "link": "https://word-by-word.ru/en-ru/necklace"
+    }
+  },
+  {
+    "half": {
+      "translation": "наполовину / вполовину / …",
+      "link": "https://word-by-word.ru/words/en-ru/half/adverb"
+    }
+  },
+  {
+    "slice": {
+      "translation": "ломтик / кусок / …",
+      "link": "https://word-by-word.ru/en-ru/slice/noun"
+    }
+  },
+  {
+    "bracelet": {
+      "translation": "браслет / …",
+      "link": "https://word-by-word.ru/en-ru/bracelet"
+    }
+  },
+  {
+    "surf": {
+      "translation": "заниматься серфингом / бороздить",
+      "link": "https://word-by-word.ru/words/en-ru/surf"
+    }
+  },
+  {
+    "roast": {
+      "translation": "жарить / запекать / …",
+      "link": "https://word-by-word.ru/en-ru/roast"
+    }
+  },
+  {
+    "rainbow": {
+      "translation": "радуга",
+      "link": "https://word-by-word.ru/words/en-ru/rainbow"
+    }
+  },
+  {
+    "pupil": {
+      "translation": "ученик / зрачок / …",
+      "link": "https://word-by-word.ru/words/en-ru/pupil"
+    }
+  },
+  {
+    "keyboard": {
+      "translation": "клавиатура / синтезатор / …",
+      "link": "https://word-by-word.ru/en-ru/keyboard"
+    }
+  },
+  {
+    "racket": {
+      "translation": "ракетка / шум / …",
+      "link": "https://word-by-word.ru/words/en-ru/racket"
+    }
+  },
+  {
+    "competition": {
+      "translation": "соперничество / конкурс / состязание / конкуренция / …",
+      "link": "https://word-by-word.ru/words/en-ru/competition"
+    }
+  },
+  {
+    "popcorn": {
+      "translation": "попкорн / воздушная кукуруза",
+      "link": "https://word-by-word.ru/en-ru/popcorn"
+    }
+  },
+  {
+    "menu": {
+      "translation": "меню",
+      "link": "https://word-by-word.ru/en-ru/menu"
+    }
+  },
+  {
+    "occupation": {
+      "translation": "оккупация / профессия / …",
+      "link": "https://word-by-word.ru/words/en-ru/occupation"
+    }
+  },
+  {
+    "app": {
+      "translation": "приложение / дополнение",
+      "link": "https://word-by-word.ru/words/en-ru/app"
+    }
+  },
+  {
+    "perfume": {
+      "translation": "духи / аромат / …",
+      "link": "https://word-by-word.ru/words/en-ru/perfume"
+    }
+  },
+  {
+    "mechanic": {
+      "translation": "механик / …",
+      "link": "https://word-by-word.ru/en-ru/mechanic"
+    }
+  },
+  {
+    "cathedral": {
+      "translation": "собор / кафедральный собор",
+      "link": "https://word-by-word.ru/words/en-ru/cathedral"
+    }
+  },
+  {
+    "tenth": {
+      "translation": "десятый",
+      "link": "https://word-by-word.ru/words/en-ru/tenth"
+    }
+  },
+  {
+    "upstairs": {
+      "translation": "находящийся наверху / находящийся в верхнем этаже",
+      "link": "https://word-by-word.ru/words/en-ru/upstairs/adjective"
+    }
+  },
+  {
+    "skateboarding": {
+      "translation": "катание на скейтборде / скейтбординг",
+      "link": "https://word-by-word.ru/words/en-ru/skateboarding"
+    }
+  },
+  {
+    "centimetre": {
+      "translation": "сантиметр",
+      "link": "https://word-by-word.ru/words/en-ru/centimetre"
+    }
+  },
+  {
+    "pop": {
+      "translation": "хлопок / газировка (лимонад) / …",
+      "link": "https://word-by-word.ru/words/en-ru/pop/noun"
+    }
+  },
+  {
+    "principal": {
+      "translation": "принципал / директор / …",
+      "link": "https://word-by-word.ru/words/en-ru/principal"
+    }
+  },
+  {
+    "granny": {
+      "translation": "бабушка",
+      "link": "https://word-by-word.ru/en-ru/granny"
+    }
+  },
+  {
+    "bicycle": {
+      "translation": "велосипед / бицикл",
+      "link": "https://word-by-word.ru/words/en-ru/bicycle"
+    }
+  },
+  {
+    "midday": {
+      "translation": "полдень",
+      "link": "https://word-by-word.ru/en-ru/midday"
+    }
+  },
+  {
+    "camp": {
+      "translation": "разбивать лагерь / …",
+      "link": "https://word-by-word.ru/en-ru/camp/verb"
+    }
+  },
+  {
+    "sunglasses": {
+      "translation": "солнцезащитные очки / …",
+      "link": "https://word-by-word.ru/words/en-ru/sunglasses"
+    }
+  },
+  {
+    "aged": {
+      "translation": "старый / престарелый / …",
+      "link": "https://word-by-word.ru/words/en-ru/aged"
+    }
+  },
+  {
+    "railroad": {
+      "translation": "железная дорога / железнодорожный путь / …",
+      "link": "https://word-by-word.ru/words/en-ru/railroad"
+    }
+  },
+  {
+    "musical": {
+      "translation": "музыкальный / мелодичный",
+      "link": "https://word-by-word.ru/en-ru/musical"
+    }
+  },
+  {
+    "online": {
+      "translation": "онлайн / интерактивный / …",
+      "link": "https://word-by-word.ru/words/en-ru/online"
+    }
+  },
+  {
+    "cooking": {
+      "translation": "приготовление пищи / …",
+      "link": "https://word-by-word.ru/en-ru/cooking"
+    }
+  },
+  {
+    "good-looking": {
+      "translation": "красивый / привлекательный / симпатичный",
+      "link": "https://word-by-word.ru/en-ru/good-looking"
+    }
+  },
+  {
+    "software": {
+      "translation": "программное обеспечение / программные системы / …",
+      "link": "https://word-by-word.ru/words/en-ru/software"
+    }
+  },
+  {
+    "pepper": {
+      "translation": "перец / вспыльчивость / …",
+      "link": "https://word-by-word.ru/en-ru/pepper"
+    }
+  },
+  {
+    "toothbrush": {
+      "translation": "зубная щетка",
+      "link": "https://word-by-word.ru/words/en-ru/toothbrush"
+    }
+  },
+  {
+    "book": {
+      "translation": "бронировать / заказывать / …",
+      "link": "https://word-by-word.ru/en-ru/book/verb"
+    }
+  },
+  {
+    "elephant": {
+      "translation": "слон / формат бумаги",
+      "link": "https://word-by-word.ru/words/en-ru/elephant"
+    }
+  },
+  {
+    "eighth": {
+      "translation": "восьмой",
+      "link": "https://word-by-word.ru/words/en-ru/eighth"
+    }
+  },
+  {
+    "winner": {
+      "translation": "победитель / первый призер / …",
+      "link": "https://word-by-word.ru/en-ru/winner"
+    }
+  },
+  {
+    "telephone": {
+      "translation": "звонить по телефону / говорить по телефону",
+      "link": "https://word-by-word.ru/words/en-ru/telephone/verb"
+    }
+  },
+  {
+    "lion": {
+      "translation": "лев",
+      "link": "https://word-by-word.ru/en-ru/lion"
+    }
+  },
+  {
+    "opera": {
+      "translation": "опера / оперное искусство",
+      "link": "https://word-by-word.ru/words/en-ru/opera"
+    }
+  },
+  {
+    "onion": {
+      "translation": "лук / луковица / …",
+      "link": "https://word-by-word.ru/words/en-ru/onion"
+    }
+  },
+  {
+    "pub": {
+      "translation": "пивная / паб / …",
+      "link": "https://word-by-word.ru/en-ru/pub"
+    }
+  },
+  {
+    "sauce": {
+      "translation": "соус / подливка / …",
+      "link": "https://word-by-word.ru/en-ru/sauce"
+    }
+  },
+  {
+    "motorcycle": {
+      "translation": "мотоцикл",
+      "link": "https://word-by-word.ru/words/en-ru/motorcycle"
+    }
+  },
+  {
+    "thirsty": {
+      "translation": "жаждущий / испытывающий жажду / …",
+      "link": "https://word-by-word.ru/words/en-ru/thirsty"
+    }
+  },
+  {
+    "diary": {
+      "translation": "дневник / записная книжка / …",
+      "link": "https://word-by-word.ru/words/en-ru/diary"
+    }
+  },
+  {
+    "physics": {
+      "translation": "физика / физические процессы",
+      "link": "https://word-by-word.ru/words/en-ru/physics"
+    }
+  },
+  {
+    "bandage": {
+      "translation": "повязка / бинт / …",
+      "link": "https://word-by-word.ru/words/en-ru/bandage/noun"
+    }
+  },
+  {
+    "included": {
+      "translation": "включенный / …",
+      "link": "https://word-by-word.ru/words/en-ru/included"
+    }
+  },
+  {
+    "dinosaur": {
+      "translation": "динозавр",
+      "link": "https://word-by-word.ru/en-ru/dinosaur"
+    }
+  },
+  {
+    "clown": {
+      "translation": "клоун / шут / …",
+      "link": "https://word-by-word.ru/words/en-ru/clown"
+    }
+  },
+  {
+    "lemon": {
+      "translation": "лимон / лимонный цвет / …",
+      "link": "https://word-by-word.ru/en-ru/lemon"
+    }
+  },
+  {
+    "fried": {
+      "translation": "жареный",
+      "link": "https://word-by-word.ru/words/en-ru/fried"
+    }
+  },
+  {
+    "comic": {
+      "translation": "комик / комикс / …",
+      "link": "https://word-by-word.ru/words/en-ru/comic"
+    }
+  },
+  {
+    "ninth": {
+      "translation": "девятый",
+      "link": "https://word-by-word.ru/words/en-ru/ninth"
+    }
+  },
+  {
+    "sneaker": {
+      "translation": "кроссовка / спортивная туфля / доносчик / …",
+      "link": "https://word-by-word.ru/words/en-ru/sneaker"
+    }
+  },
+  {
+    "right-hand": {
+      "translation": "находящийся справа / правосторонний / …",
+      "link": "https://word-by-word.ru/words/en-ru/right-hand"
+    }
+  },
+  {
+    "receptionist": {
+      "translation": "портье / администратор / …",
+      "link": "https://word-by-word.ru/words/en-ru/receptionist"
+    }
+  },
+  {
+    "pasta": {
+      "translation": "макароны / макаронные изделия / …",
+      "link": "https://word-by-word.ru/words/en-ru/pasta"
+    }
+  },
+  {
+    "photographer": {
+      "translation": "фотограф / фотокорреспондент / …",
+      "link": "https://word-by-word.ru/en-ru/photographer"
+    }
+  },
+  {
+    "washing": {
+      "translation": "стирка / мойка / …",
+      "link": "https://word-by-word.ru/words/en-ru/washing"
+    }
+  },
+  {
+    "awesome": {
+      "translation": "устрашающий / потрясающий / …",
+      "link": "https://word-by-word.ru/words/en-ru/awesome"
+    }
+  },
+  {
+    "dessert": {
+      "translation": "десерт / сладкое / …",
+      "link": "https://word-by-word.ru/words/en-ru/dessert"
+    }
+  },
+  {
+    "painter": {
+      "translation": "художник / маляр / …",
+      "link": "https://word-by-word.ru/en-ru/painter"
+    }
+  },
+  {
+    "receipt": {
+      "translation": "квитанция / …",
+      "link": "https://word-by-word.ru/words/en-ru/receipt"
+    }
+  },
+  {
+    "duck": {
+      "translation": "утка / …",
+      "link": "https://word-by-word.ru/en-ru/duck/noun"
+    }
+  },
+  {
+    "concert": {
+      "translation": "концерт / согласие / …",
+      "link": "https://word-by-word.ru/en-ru/concert"
+    }
+  },
+  {
+    "calendar": {
+      "translation": "календарь / …",
+      "link": "https://word-by-word.ru/words/en-ru/calendar"
+    }
+  },
+  {
+    "tidy": {
+      "translation": "опрятный / аккуратный / …",
+      "link": "https://word-by-word.ru/words/en-ru/tidy"
+    }
+  },
+  {
+    "mail": {
+      "translation": "посылать по почте / отправлять по почте",
+      "link": "https://word-by-word.ru/en-ru/mail/verb"
+    }
+  },
+  {
+    "grandpa": {
+      "translation": "дедушка",
+      "link": "https://word-by-word.ru/words/en-ru/grandpa"
+    }
+  },
+  {
+    "chef": {
+      "translation": "шеф-повар / главный повар / …",
+      "link": "https://word-by-word.ru/words/en-ru/chef"
+    }
+  },
+  {
+    "rabbit": {
+      "translation": "кролик / заяц / …",
+      "link": "https://word-by-word.ru/words/en-ru/rabbit"
+    }
+  },
+  {
+    "carrot": {
+      "translation": "морковь / приманка / …",
+      "link": "https://word-by-word.ru/words/en-ru/carrot"
+    }
+  },
+  {
+    "farm": {
+      "translation": "обрабатывать / обрабатывать землю / …",
+      "link": "https://word-by-word.ru/words/en-ru/farm/verb"
+    }
+  },
+  {
+    "snow": {
+      "translation": "идет снег",
+      "link": "https://word-by-word.ru/words/en-ru/snow/verb"
+    }
+  },
+  {
+    "grape": {
+      "translation": "виноград / виноградина / …",
+      "link": "https://word-by-word.ru/en-ru/grape"
+    }
+  },
+  {
+    "handbag": {
+      "translation": "сумка / дамская сумка / …",
+      "link": "https://word-by-word.ru/words/en-ru/handbag"
+    }
+  },
+  {
+    "runner": {
+      "translation": "бегун / …",
+      "link": "https://word-by-word.ru/en-ru/runner"
+    }
+  },
+  {
+    "hobby": {
+      "translation": "хобби / увлечение / …",
+      "link": "https://word-by-word.ru/words/en-ru/hobby"
+    }
+  },
+  {
+    "snack": {
+      "translation": "закуска / легкая закуска / …",
+      "link": "https://word-by-word.ru/words/en-ru/snack"
+    }
+  },
+  {
+    "heating": {
+      "translation": "отопление / обогрев / …",
+      "link": "https://word-by-word.ru/words/en-ru/heating"
+    }
+  },
+  {
+    "congratulation": {
+      "translation": "поздравление / приветствие",
+      "link": "https://word-by-word.ru/words/en-ru/congratulation"
+    }
+  },
+  {
+    "roast": {
+      "translation": "печеный / жареный",
+      "link": "https://word-by-word.ru/words/en-ru/roast/adjective"
+    }
+  },
+  {
+    "jelly": {
+      "translation": "желе / студень / …",
+      "link": "https://word-by-word.ru/words/en-ru/jelly"
+    }
+  },
+  {
+    "chemistry": {
+      "translation": "химия / химическая технология / …",
+      "link": "https://word-by-word.ru/words/en-ru/chemistry"
+    }
+  },
+  {
+    "left-hand": {
+      "translation": "находящийся слева / левый",
+      "link": "https://word-by-word.ru/words/en-ru/left-hand"
+    }
+  },
+  {
+    "fridge": {
+      "translation": "холодильник / рефрижератор / …",
+      "link": "https://word-by-word.ru/words/en-ru/fridge"
+    }
+  },
+  {
+    "album": {
+      "translation": "альбом / долгоиграющая пластинка / …",
+      "link": "https://word-by-word.ru/words/en-ru/album"
+    }
+  },
+  {
+    "everyday": {
+      "translation": "повседневный / каждодневный / …",
+      "link": "https://word-by-word.ru/en-ru/everyday"
+    }
+  },
+  {
+    "dentist": {
+      "translation": "зубной врач / дантист / …",
+      "link": "https://word-by-word.ru/words/en-ru/dentist"
+    }
+  },
+  {
+    "surfing": {
+      "translation": "серфинг / просмотр большого количества интернет-сайтов / …",
+      "link": "https://word-by-word.ru/words/en-ru/surfing"
+    }
+  },
+  {
+    "exam": {
+      "translation": "экзамен / …",
+      "link": "https://word-by-word.ru/en-ru/exam"
+    }
+  },
+  {
+    "foggy": {
+      "translation": "туманный / неясный / …",
+      "link": "https://word-by-word.ru/words/en-ru/foggy"
+    }
+  },
+  {
+    "jam": {
+      "translation": "джем / затор на дороге / …",
+      "link": "https://word-by-word.ru/words/en-ru/jam/noun"
+    }
+  },
+  {
+    "mathematics": {
+      "translation": "математика",
+      "link": "https://word-by-word.ru/words/en-ru/mathematics"
+    }
+  },
+  {
+    "granddaughter": {
+      "translation": "внучка",
+      "link": "https://word-by-word.ru/en-ru/granddaughter"
+    }
+  },
+  {
+    "cafeteria": {
+      "translation": "кафетерий / столовая / …",
+      "link": "https://word-by-word.ru/words/en-ru/cafeteria"
+    }
+  },
+  {
+    "raincoat": {
+      "translation": "дождевик / плащ / …",
+      "link": "https://word-by-word.ru/words/en-ru/raincoat"
+    }
+  },
+  {
+    "download": {
+      "translation": "загружать / скачивать",
+      "link": "https://word-by-word.ru/words/en-ru/download"
+    }
+  },
+  {
+    "biology": {
+      "translation": "биология",
+      "link": "https://word-by-word.ru/en-ru/biology"
+    }
+  },
+  {
+    "stamp": {
+      "translation": "штамп / марка / …",
+      "link": "https://word-by-word.ru/en-ru/stamp/noun"
+    }
+  },
+  {
+    "cricket": {
+      "translation": "крикет / сверчок",
+      "link": "https://word-by-word.ru/words/en-ru/cricket"
+    }
+  },
+  {
+    "kilo": {
+      "translation": "килограмм",
+      "link": "https://word-by-word.ru/words/en-ru/kilo"
+    }
+  },
+  {
+    "cleaner": {
+      "translation": "уборщик / моющее или чистящее средство / …",
+      "link": "https://word-by-word.ru/words/en-ru/cleaner"
+    }
+  },
+  {
+    "cartoon": {
+      "translation": "мультфильм / карикатура / …",
+      "link": "https://word-by-word.ru/words/en-ru/cartoon"
+    }
+  },
+  {
+    "daily": {
+      "translation": "ежедневно",
+      "link": "https://word-by-word.ru/words/en-ru/daily/adverb"
+    }
+  },
+  {
+    "vocabulary": {
+      "translation": "лексика / словарь / …",
+      "link": "https://word-by-word.ru/words/en-ru/vocabulary"
+    }
+  },
+  {
+    "graduate": {
+      "translation": "выпускник / окончивший университет / …",
+      "link": "https://word-by-word.ru/words/en-ru/graduate/noun"
+    }
+  },
+  {
+    "scissors": {
+      "translation": "ножницы",
+      "link": "https://word-by-word.ru/en-ru/scissors"
+    }
+  },
+  {
+    "parking": {
+      "translation": "парковка / автостоянка / …",
+      "link": "https://word-by-word.ru/en-ru/parking"
+    }
+  },
+  {
+    "boiled": {
+      "translation": "вареный / отварной / кипяченый",
+      "link": "https://word-by-word.ru/words/en-ru/boiled"
+    }
+  },
+  {
+    "playground": {
+      "translation": "детская площадка / площадка для игр / …",
+      "link": "https://word-by-word.ru/words/en-ru/playground"
+    }
+  },
+  {
+    "lunchtime": {
+      "translation": "обеденное время / Обед / …",
+      "link": "https://word-by-word.ru/words/en-ru/lunchtime"
+    }
+  },
+  {
+    "thunderstorm": {
+      "translation": "гроза / грозовой фронт",
+      "link": "https://word-by-word.ru/words/en-ru/thunderstorm"
+    }
+  },
+  {
+    "garlic": {
+      "translation": "чеснок",
+      "link": "https://word-by-word.ru/words/en-ru/garlic"
+    }
+  },
+  {
+    "violin": {
+      "translation": "скрипка / скрипач / …",
+      "link": "https://word-by-word.ru/words/en-ru/violin"
+    }
+  },
+  {
+    "drum": {
+      "translation": "барабан / барабанный бой / …",
+      "link": "https://word-by-word.ru/words/en-ru/drum"
+    }
+  },
+  {
+    "banking": {
+      "translation": "банковское дело / …",
+      "link": "https://word-by-word.ru/words/en-ru/banking"
+    }
+  },
+  {
+    "geography": {
+      "translation": "география / географический регион / …",
+      "link": "https://word-by-word.ru/words/en-ru/geography"
+    }
+  },
+  {
+    "click": {
+      "translation": "щелчок / …",
+      "link": "https://word-by-word.ru/words/en-ru/click/noun"
+    }
+  },
+  {
+    "advertisement": {
+      "translation": "реклама / анонс / …",
+      "link": "https://word-by-word.ru/words/en-ru/advertisement"
+    }
+  },
+  {
+    "grandparent": {
+      "translation": "бабушка и дедушка",
+      "link": "https://word-by-word.ru/words/en-ru/grandparent"
+    }
+  },
+  {
+    "printer": {
+      "translation": "принтер / печатник / …",
+      "link": "https://word-by-word.ru/words/en-ru/printer"
+    }
+  },
+  {
+    "windy": {
+      "translation": "ветреный / обдуваемый ветром / …",
+      "link": "https://word-by-word.ru/words/en-ru/windy"
+    }
+  },
+  {
+    "roommate": {
+      "translation": "сосед по комнате / товарищ по комнате / …",
+      "link": "https://word-by-word.ru/words/en-ru/roommate"
+    }
+  },
+  {
+    "kite": {
+      "translation": "воздушный змей / коршун / …",
+      "link": "https://word-by-word.ru/words/en-ru/kite"
+    }
+  },
+  {
+    "comb": {
+      "translation": "расческа / гребень / …",
+      "link": "https://word-by-word.ru/en-ru/comb/noun"
+    }
+  },
+  {
+    "minus": {
+      "translation": "без / минус",
+      "link": "https://word-by-word.ru/words/en-ru/minus"
+    }
+  },
+  {
+    "scooter": {
+      "translation": "мотороллер / самокат / …",
+      "link": "https://word-by-word.ru/words/en-ru/scooter"
+    }
+  },
+  {
+    "melon": {
+      "translation": "дыня / арбуз / …",
+      "link": "https://word-by-word.ru/words/en-ru/melon"
+    }
+  },
+  {
+    "swimsuit": {
+      "translation": "купальник / женский купальник",
+      "link": "https://word-by-word.ru/words/en-ru/swimsuit"
+    }
+  },
+  {
+    "postcard": {
+      "translation": "открытка / почтовая карточка",
+      "link": "https://word-by-word.ru/words/en-ru/postcard"
+    }
+  },
+  {
+    "gram": {
+      "translation": "грамм / мелкий горошек / …",
+      "link": "https://word-by-word.ru/words/en-ru/gram"
+    }
+  },
+  {
+    "chemist": {
+      "translation": "аптекарь / химик / …",
+      "link": "https://word-by-word.ru/words/en-ru/chemist"
+    }
+  },
+  {
+    "pear": {
+      "translation": "груша / грушевое дерево",
+      "link": "https://word-by-word.ru/words/en-ru/pear"
+    }
+  },
+  {
+    "weekly": {
+      "translation": "еженедельный / недельный",
+      "link": "https://word-by-word.ru/words/en-ru/weekly"
+    }
+  },
+  {
+    "bookstore": {
+      "translation": "книжный магазин",
+      "link": "https://word-by-word.ru/en-ru/bookstore"
+    }
+  },
+  {
+    "grammar": {
+      "translation": "грамматика / учебник грамматики / …",
+      "link": "https://word-by-word.ru/words/en-ru/grammar"
+    }
+  },
+  {
+    "textbook": {
+      "translation": "учебник / руководство",
+      "link": "https://word-by-word.ru/words/en-ru/textbook"
+    }
+  },
+  {
+    "curry": {
+      "translation": "карри / блюдо, приправленное карри",
+      "link": "https://word-by-word.ru/words/en-ru/curry"
+    }
+  },
+  {
+    "cereal": {
+      "translation": "хлопья / злаки / …",
+      "link": "https://word-by-word.ru/words/en-ru/cereal"
+    }
+  },
+  {
+    "soccer": {
+      "translation": "футбол / соккер",
+      "link": "https://word-by-word.ru/words/en-ru/soccer"
+    }
+  },
+  {
+    "barbecue": {
+      "translation": "барбекю / пикник / …",
+      "link": "https://word-by-word.ru/en-ru/barbecue"
+    }
+  },
+  {
+    "restroom": {
+      "translation": "туалет / комната отдыха / …",
+      "link": "https://word-by-word.ru/words/en-ru/restroom"
+    }
+  },
+  {
+    "cinema": {
+      "translation": "кинотеатр / кино / …",
+      "link": "https://word-by-word.ru/words/en-ru/cinema"
+    }
+  },
+  {
+    "camping": {
+      "translation": "кемпинг / поход",
+      "link": "https://word-by-word.ru/words/en-ru/camping"
+    }
+  },
+  {
+    "lemonade": {
+      "translation": "лимонад",
+      "link": "https://word-by-word.ru/words/en-ru/lemonade"
+    }
+  },
+  {
+    "jumper": {
+      "translation": "джемпер / прыгун / …",
+      "link": "https://word-by-word.ru/words/en-ru/jumper"
+    }
+  },
+  {
+    "downtown": {
+      "translation": "в деловой части города / в центре города / …",
+      "link": "https://word-by-word.ru/words/en-ru/downtown/adverb"
+    }
+  },
+  {
+    "singular": {
+      "translation": "единственный в своем роде / исключительный / …",
+      "link": "https://word-by-word.ru/words/en-ru/singular"
+    }
+  },
+  {
+    "tidy": {
+      "translation": "убирать / приводить в порядок / …",
+      "link": "https://word-by-word.ru/words/en-ru/tidy/verb"
+    }
+  },
+  {
+    "tram": {
+      "translation": "трамвай / трамвайная линия / …",
+      "link": "https://word-by-word.ru/words/en-ru/tram"
+    }
+  },
+  {
+    "mosque": {
+      "translation": "мечеть",
+      "link": "https://word-by-word.ru/words/en-ru/mosque"
+    }
+  },
+  {
+    "hip-hop": {
+      "translation": "хип хоп",
+      "link": "https://word-by-word.ru/words/en-ru/hip-hop"
+    }
+  },
+  {
+    "omelette": {
+      "translation": "омлет / яичница",
+      "link": "https://word-by-word.ru/words/en-ru/omelette"
+    }
+  },
+  {
+    "rucksack": {
+      "translation": "рюкзак / походный мешок",
+      "link": "https://word-by-word.ru/words/en-ru/rucksack"
+    }
+  },
+  {
+    "classmate": {
+      "translation": "одноклассник / соученик / …",
+      "link": "https://word-by-word.ru/words/en-ru/classmate"
+    }
+  },
+  {
+    "roundabout": {
+      "translation": "карусель / кольцевая транспортная развязка / …",
+      "link": "https://word-by-word.ru/words/en-ru/roundabout"
+    }
+  },
+  {
+    "comparative": {
+      "translation": "сравнительная степень / компаративистика",
+      "link": "https://word-by-word.ru/words/en-ru/comparative"
+    }
+  },
+  {
+    "volleyball": {
+      "translation": "волейбол",
+      "link": "https://word-by-word.ru/words/en-ru/volleyball"
+    }
+  },
+  {
+    "skiing": {
+      "translation": "катание на лыжах / лыжный спорт / …",
+      "link": "https://word-by-word.ru/en-ru/skiing"
+    }
+  },
+  {
+    "online": {
+      "translation": "онлайн / в интернете",
+      "link": "https://word-by-word.ru/words/en-ru/online/adverb"
+    }
+  },
+  {
+    "toothache": {
+      "translation": "зубная боль",
+      "link": "https://word-by-word.ru/words/en-ru/toothache"
+    }
+  },
+  {
+    "surname": {
+      "translation": "фамилия / прозвище",
+      "link": "https://word-by-word.ru/words/en-ru/surname"
+    }
+  },
+  {
+    "blackboard": {
+      "translation": "классная доска / школьная доска / …",
+      "link": "https://word-by-word.ru/words/en-ru/blackboard"
+    }
+  },
+  {
+    "indoor": {
+      "translation": "домашний / комнатный / …",
+      "link": "https://word-by-word.ru/words/en-ru/indoor"
+    }
+  },
+  {
+    "bookshop": {
+      "translation": "книжный магазин",
+      "link": "https://word-by-word.ru/words/en-ru/bookshop"
+    }
+  },
+  {
+    "workbook": {
+      "translation": "рабочая тетрадь / сборник упражнений / …",
+      "link": "https://word-by-word.ru/words/en-ru/workbook"
+    }
+  },
+  {
+    "verb": {
+      "translation": "глагол",
+      "link": "https://word-by-word.ru/words/en-ru/verb"
+    }
+  },
+  {
+    "semester": {
+      "translation": "семестр / полугодие",
+      "link": "https://word-by-word.ru/words/en-ru/semester"
+    }
+  },
+  {
+    "petrol": {
+      "translation": "бензин / нефть / …",
+      "link": "https://word-by-word.ru/words/en-ru/petrol"
+    }
+  },
+  {
+    "housewife": {
+      "translation": "домохозяйка / хозяйка / …",
+      "link": "https://word-by-word.ru/words/en-ru/housewife"
+    }
+  },
+  {
+    "photography": {
+      "translation": "фотография / фотографирование / …",
+      "link": "https://word-by-word.ru/words/en-ru/photography"
+    }
+  },
+  {
+    "tights": {
+      "translation": "колготки / трико / …",
+      "link": "https://word-by-word.ru/words/en-ru/tights"
+    }
+  },
+  {
+    "snowboarding": {
+      "translation": "сноубординг",
+      "link": "https://word-by-word.ru/words/en-ru/snowboarding"
+    }
+  },
+  {
+    "hockey": {
+      "translation": "хоккей на траве / хоккей на льду / …",
+      "link": "https://word-by-word.ru/words/en-ru/hockey"
+    }
+  },
+  {
+    "litre": {
+      "translation": "литр / литер",
+      "link": "https://word-by-word.ru/words/en-ru/litre"
+    }
+  },
+  {
+    "washing-up": {
+      "translation": "мытье посуды",
+      "link": "https://word-by-word.ru/words/en-ru/washing-up"
+    }
+  },
+  {
+    "spelling": {
+      "translation": "написание / правописание / …",
+      "link": "https://word-by-word.ru/words/en-ru/spelling"
+    }
+  },
+  {
+    "skating": {
+      "translation": "катание на коньках / конькобежный спорт / …",
+      "link": "https://word-by-word.ru/words/en-ru/skating"
+    }
+  },
+  {
+    "sightseeing": {
+      "translation": "осмотр достопримечательностей / осмотр",
+      "link": "https://word-by-word.ru/words/en-ru/sightseeing"
+    }
+  },
+  {
+    "guidebook": {
+      "translation": "путеводитель",
+      "link": "https://word-by-word.ru/words/en-ru/guidebook"
+    }
+  },
+  {
+    "granddad": {
+      "translation": "дедушка / …",
+      "link": "https://word-by-word.ru/words/en-ru/granddad"
+    }
+  },
+  {
+    "adjective": {
+      "translation": "прилагательное / имя прилагательное / …",
+      "link": "https://word-by-word.ru/words/en-ru/adjective"
+    }
+  },
+  {
+    "skate": {
+      "translation": "скат / конек / …",
+      "link": "https://word-by-word.ru/en-ru/skate/noun"
+    }
+  },
+  {
+    "aeroplane": {
+      "translation": "самолет / …",
+      "link": "https://word-by-word.ru/words/en-ru/aeroplane"
+    }
+  },
+  {
+    "plural": {
+      "translation": "множественное число слова / …",
+      "link": "https://word-by-word.ru/words/en-ru/plural"
+    }
+  },
+  {
+    "motorbike": {
+      "translation": "мотоцикл / мопед / …",
+      "link": "https://word-by-word.ru/words/en-ru/motorbike"
+    }
+  },
+  {
+    "yogurt": {
+      "translation": "йогурт",
+      "link": "https://word-by-word.ru/en-ru/yogurt"
+    }
+  },
+  {
+    "mango": {
+      "translation": "манго / манговое дерево / …",
+      "link": "https://word-by-word.ru/words/en-ru/mango"
+    }
+  },
+  {
+    "diploma": {
+      "translation": "диплом / свидетельство / …",
+      "link": "https://word-by-word.ru/words/en-ru/diploma"
+    }
+  },
+  {
+    "email": {
+      "translation": "отправлять электронную почту",
+      "link": "https://word-by-word.ru/words/en-ru/email/verb"
+    }
+  },
+  {
+    "quiz": {
+      "translation": "викторина / …",
+      "link": "https://word-by-word.ru/words/en-ru/quiz/noun"
+    }
+  },
+  {
+    "skateboard": {
+      "translation": "скейтборд / роликовая доска для катания / …",
+      "link": "https://word-by-word.ru/words/en-ru/skateboard"
+    }
+  },
+  {
+    "cooker": {
+      "translation": "кухонная плита / …",
+      "link": "https://word-by-word.ru/en-ru/cooker"
+    }
+  },
+  {
+    "kilogram": {
+      "translation": "килограмм",
+      "link": "https://word-by-word.ru/words/en-ru/kilogram"
+    }
+  },
+  {
+    "beginner": {
+      "translation": "начинающий / …",
+      "link": "https://word-by-word.ru/words/en-ru/beginner"
+    }
+  },
+  {
+    "pop": {
+      "translation": "популярный / эстрадный / …",
+      "link": "https://word-by-word.ru/words/en-ru/pop/adjective"
+    }
+  },
+  {
+    "noun": {
+      "translation": "существительное / имя существительное / …",
+      "link": "https://word-by-word.ru/words/en-ru/noun"
+    }
+  },
+  {
+    "weekday": {
+      "translation": "будний день / рабочий день / …",
+      "link": "https://word-by-word.ru/words/en-ru/weekday"
+    }
+  },
+  {
+    "rugby": {
+      "translation": "регби",
+      "link": "https://word-by-word.ru/words/en-ru/rugby"
+    }
+  },
+  {
+    "weekly": {
+      "translation": "еженедельно / …",
+      "link": "https://word-by-word.ru/words/en-ru/weekly/adverb"
+    }
+  },
+  {
+    "disco": {
+      "translation": "дискотека",
+      "link": "https://word-by-word.ru/words/en-ru/disco"
+    }
+  },
+  {
+    "motorway": {
+      "translation": "автомагистраль / …",
+      "link": "https://word-by-word.ru/words/en-ru/motorway"
+    }
+  },
+  {
+    "schoolchild": {
+      "translation": "школьник / школьница",
+      "link": "https://word-by-word.ru/words/en-ru/schoolchild"
+    }
+  },
+  {
+    "singular": {
+      "translation": "единственное число (грамматика)",
+      "link": "https://word-by-word.ru/words/en-ru/singular/noun"
+    }
+  },
+  {
+    "maths": {
+      "translation": "математика",
+      "link": "https://word-by-word.ru/words/en-ru/maths"
+    }
+  },
+  {
+    "grandad": {
+      "translation": "дедушка",
+      "link": "https://word-by-word.ru/words/en-ru/grandad"
+    }
+  },
+  {
+    "stomachache": {
+      "translation": "боль в желудке / боль в животе",
+      "link": "https://word-by-word.ru/words/en-ru/stomachache"
+    }
+  },
+  {
+    "superlative": {
+      "translation": "превосходная степень / высшая точка / …",
+      "link": "https://word-by-word.ru/words/en-ru/superlative"
+    }
+  },
+  {
+    "footballer": {
+      "translation": "футболист / …",
+      "link": "https://word-by-word.ru/words/en-ru/footballer"
+    }
+  },
+  {
+    "salesperson": {
+      "translation": "продавец / торговый агент / …",
+      "link": "https://word-by-word.ru/words/en-ru/salesperson"
+    }
+  },
+  {
+    "badminton": {
+      "translation": "бадминтон / крюшон из красного вина",
+      "link": "https://word-by-word.ru/words/en-ru/badminton"
+    }
+  },
+  {
+    "adverb": {
+      "translation": "наречие",
+      "link": "https://word-by-word.ru/words/en-ru/adverb"
+    }
+  },
+  {
+    "headteacher": {
+      "translation": "директор школы",
+      "link": "https://word-by-word.ru/words/en-ru/headteacher"
+    }
+  },
+  {
+    "yeah": {
+      "translation": "да",
+      "link": "https://word-by-word.ru/words/en-ru/yeah"
+    }
+  },
+  {
+    "alternative": {
+      "translation": "альтернатива / допустимый вариант / …",
+      "link": "https://word-by-word.ru/en-ru/alternative"
+    }
+  },
+  {
+    "most": {
+      "translation": "большинство / большая часть",
+      "link": "https://word-by-word.ru/en-ru/most/noun"
+    }
+  },
+  {
+    "for reason": {
+      "translation": "по причине",
+      "link": "https://word-by-word.ru/words/en-ru/for%20reason"
+    }
+  }
+]
